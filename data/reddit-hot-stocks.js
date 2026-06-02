@@ -1,7 +1,7 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-02T06:00:00.000Z",
+  "generatedAt": "2026-06-02T09:49:50.974Z",
   "window": "last_60_minutes",
-  "source": "demo",
+  "source": "reddit",
   "subreddits": [
     "wallstreetbets",
     "stocks",
@@ -10,694 +10,260 @@ window.redditHotStocksData = {
     "StockMarket",
     "SecurityAnalysis"
   ],
-  "stocks": [
-    {
-      "ticker": "NVDA",
-      "score": 96,
-      "mentions": 42,
-      "postCount": 8,
-      "sentiment": "偏多",
-      "topics": [
-        "AI",
-        "财报",
-        "期权",
-        "估值"
-      ],
-      "summary": "过去一小时 NVDA 讨论集中在 AI 需求、财报预期和期权交易，整体情绪偏多但估值争议仍在。",
-      "topPosts": [
-        {
-          "title": "NVDA earnings setup discussion",
-          "subreddit": "wallstreetbets",
-          "score": 1280,
-          "comments": 342,
-          "url": "https://www.reddit.com/r/wallstreetbets/search/?q=NVDA%20earnings%20setup%20discussion&restrict_sr=1&sort=new"
-        },
-        {
-          "title": "Is NVDA still the cleanest AI trade?",
-          "subreddit": "stocks",
-          "score": 740,
-          "comments": 186,
-          "url": "https://www.reddit.com/r/stocks/search/?q=Is%20NVDA%20still%20the%20cleanest%20AI%20trade%3F&restrict_sr=1&sort=new"
-        },
-        {
-          "title": "NVDA calls volume into the close",
-          "subreddit": "options",
-          "score": 522,
-          "comments": 91,
-          "url": "https://www.reddit.com/r/options/search/?q=NVDA%20calls%20volume%20into%20the%20close&restrict_sr=1&sort=new"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "score": 88,
-      "mentions": 35,
-      "postCount": 7,
-      "sentiment": "分歧",
-      "topics": [
-        "交付",
-        "估值",
-        "波动",
-        "期权"
-      ],
-      "summary": "TSLA 讨论分歧较大，多空围绕交付数据、估值压力和短线波动展开。",
-      "topPosts": [
-        {
-          "title": "TSLA bulls and bears are fighting again",
-          "subreddit": "stocks",
-          "score": 980,
-          "comments": 275,
-          "url": "https://www.reddit.com/r/stocks/search/?q=TSLA%20bulls%20and%20bears%20are%20fighting%20again&restrict_sr=1&sort=new"
-        },
-        {
-          "title": "TSLA weekly options are wild",
-          "subreddit": "options",
-          "score": 450,
-          "comments": 88,
-          "url": "https://www.reddit.com/r/options/search/?q=TSLA%20weekly%20options%20are%20wild&restrict_sr=1&sort=new"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "score": 81,
-      "mentions": 28,
-      "postCount": 6,
-      "sentiment": "偏多",
-      "topics": [
-        "AI",
-        "芯片",
-        "估值"
-      ],
-      "summary": "AMD 热度来自 AI 芯片替代叙事和与 NVDA 的估值对比，讨论偏多。",
-      "topPosts": [
-        {
-          "title": "AMD is finally getting AI attention",
-          "subreddit": "wallstreetbets",
-          "score": 690,
-          "comments": 146,
-          "url": "https://www.reddit.com/r/wallstreetbets/search/?q=AMD%20is%20finally%20getting%20AI%20attention&restrict_sr=1&sort=new"
-        },
-        {
-          "title": "AMD vs NVDA valuation thread",
-          "subreddit": "investing",
-          "score": 328,
-          "comments": 72,
-          "url": "https://www.reddit.com/r/investing/search/?q=AMD%20vs%20NVDA%20valuation%20thread&restrict_sr=1&sort=new"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "score": 74,
-      "mentions": 24,
-      "postCount": 5,
-      "sentiment": "分歧",
-      "topics": [
-        "AI",
-        "回购",
-        "估值"
-      ],
-      "summary": "AAPL 讨论围绕 AI 产品节奏、回购支撑和增长放缓，情绪中性偏分歧。",
-      "topPosts": [
-        {
-          "title": "AAPL needs a real AI catalyst",
-          "subreddit": "stocks",
-          "score": 520,
-          "comments": 120,
-          "url": "https://www.reddit.com/r/stocks/search/?q=AAPL%20needs%20a%20real%20AI%20catalyst&restrict_sr=1&sort=new"
-        }
-      ]
-    },
-    {
-      "ticker": "MSTR",
-      "score": 71,
-      "mentions": 22,
-      "postCount": 4,
-      "sentiment": "偏多",
-      "topics": [
-        "比特币",
-        "杠杆",
-        "波动"
-      ],
-      "summary": "MSTR 热度受比特币价格波动带动，帖子更偏短线交易和杠杆风险讨论。",
-      "topPosts": [
-        {
-          "title": "MSTR premium is back on the menu",
-          "subreddit": "wallstreetbets",
-          "score": 610,
-          "comments": 140,
-          "url": "https://www.reddit.com/r/wallstreetbets/search/?q=MSTR%20premium%20is%20back%20on%20the%20menu&restrict_sr=1&sort=new"
-        },
-        {
-          "title": "MSTR and BTC correlation check",
-          "subreddit": "StockMarket",
-          "score": 270,
-          "comments": 58,
-          "url": "https://www.reddit.com/r/StockMarket/search/?q=MSTR%20and%20BTC%20correlation%20check&restrict_sr=1&sort=new"
-        }
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "score": 69,
-      "mentions": 20,
-      "postCount": 4,
-      "sentiment": "偏多",
-      "topics": [
-        "AI",
-        "政府订单",
-        "估值"
-      ],
-      "summary": "PLTR 被讨论为 AI 软件和政府合同主题，支持者看多订单，反对者担心估值。",
-      "topPosts": [
-        {
-          "title": "PLTR AI platform demand thread",
-          "subreddit": "stocks",
-          "score": 455,
-          "comments": 102,
-          "url": "https://www.reddit.com/r/stocks/search/?q=PLTR%20AI%20platform%20demand%20thread&restrict_sr=1&sort=new"
-        },
-        {
-          "title": "PLTR is still a valuation debate",
-          "subreddit": "investing",
-          "score": 214,
-          "comments": 47,
-          "url": "https://www.reddit.com/r/investing/search/?q=PLTR%20is%20still%20a%20valuation%20debate&restrict_sr=1&sort=new"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "score": 63,
-      "mentions": 17,
-      "postCount": 4,
-      "sentiment": "偏多",
-      "topics": [
-        "云计算",
-        "AI",
-        "利润率"
-      ],
-      "summary": "AMZN 讨论集中在 AWS 增速、AI 基础设施和利润率改善，整体偏多。",
-      "topPosts": [
-        {
-          "title": "AMZN AWS growth looks underrated",
-          "subreddit": "stocks",
-          "score": 390,
-          "comments": 79,
-          "url": "https://www.reddit.com/r/stocks/search/?q=AMZN%20AWS%20growth%20looks%20underrated&restrict_sr=1&sort=new"
-        },
-        {
-          "title": "Amazon margin expansion discussion",
-          "subreddit": "investing",
-          "score": 205,
-          "comments": 39,
-          "url": "https://www.reddit.com/r/investing/search/?q=Amazon%20margin%20expansion%20discussion&restrict_sr=1&sort=new"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "score": 58,
-      "mentions": 15,
-      "postCount": 3,
-      "sentiment": "分歧",
-      "topics": [
-        "AI",
-        "广告",
-        "资本开支"
-      ],
-      "summary": "META 热点在广告韧性和 AI 资本开支，多空对投入回报周期存在分歧。",
-      "topPosts": [
-        {
-          "title": "META capex is the whole debate",
-          "subreddit": "stocks",
-          "score": 330,
-          "comments": 70,
-          "url": "https://www.reddit.com/r/stocks/search/?q=META%20capex%20is%20the%20whole%20debate&restrict_sr=1&sort=new"
-        },
-        {
-          "title": "META ad market check",
-          "subreddit": "investing",
-          "score": 180,
-          "comments": 35,
-          "url": "https://www.reddit.com/r/investing/search/?q=META%20ad%20market%20check&restrict_sr=1&sort=new"
-        }
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "score": 54,
-      "mentions": 14,
-      "postCount": 3,
-      "sentiment": "偏多",
-      "topics": [
-        "比特币",
-        "监管",
-        "波动"
-      ],
-      "summary": "COIN 跟随加密市场热度上升，讨论同时包含交易量改善和监管风险。",
-      "topPosts": [
-        {
-          "title": "COIN volume rebound watch",
-          "subreddit": "wallstreetbets",
-          "score": 288,
-          "comments": 64,
-          "url": "https://www.reddit.com/r/wallstreetbets/search/?q=COIN%20volume%20rebound%20watch&restrict_sr=1&sort=new"
-        },
-        {
-          "title": "COIN regulatory risk still matters",
-          "subreddit": "stocks",
-          "score": 165,
-          "comments": 41,
-          "url": "https://www.reddit.com/r/stocks/search/?q=COIN%20regulatory%20risk%20still%20matters&restrict_sr=1&sort=new"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "score": 51,
-      "mentions": 12,
-      "postCount": 3,
-      "sentiment": "偏多",
-      "topics": [
-        "AI",
-        "云计算",
-        "财报"
-      ],
-      "summary": "MSFT 讨论聚焦 Azure、AI 产品渗透和财报稳定性，情绪较稳健。",
-      "topPosts": [
-        {
-          "title": "MSFT is the boring AI winner?",
-          "subreddit": "investing",
-          "score": 240,
-          "comments": 52,
-          "url": "https://www.reddit.com/r/investing/search/?q=MSFT%20is%20the%20boring%20AI%20winner%3F&restrict_sr=1&sort=new"
-        },
-        {
-          "title": "Azure growth expectations",
-          "subreddit": "stocks",
-          "score": 198,
-          "comments": 40,
-          "url": "https://www.reddit.com/r/stocks/search/?q=Azure%20growth%20expectations&restrict_sr=1&sort=new"
-        }
-      ]
-    }
-  ],
-  "hotPosts": [
-    {
-      "title": "NVDA earnings setup discussion",
-      "subreddit": "wallstreetbets",
-      "score": 1280,
-      "comments": 342,
-      "createdAt": "2026-06-02T05:06:00.000Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "url": "https://www.reddit.com/r/wallstreetbets/search/?q=NVDA%20earnings%20setup%20discussion&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "TSLA bulls and bears are fighting again",
-      "subreddit": "stocks",
-      "score": 980,
-      "comments": 275,
-      "createdAt": "2026-06-02T05:09:00.000Z",
-      "tickers": [
-        "TSLA"
-      ],
-      "url": "https://www.reddit.com/r/stocks/search/?q=TSLA%20bulls%20and%20bears%20are%20fighting%20again&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "Is NVDA still the cleanest AI trade?",
-      "subreddit": "stocks",
-      "score": 740,
-      "comments": 186,
-      "createdAt": "2026-06-02T05:12:00.000Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "url": "https://www.reddit.com/r/stocks/search/?q=Is%20NVDA%20still%20the%20cleanest%20AI%20trade%3F&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "AMD is finally getting AI attention",
-      "subreddit": "wallstreetbets",
-      "score": 690,
-      "comments": 146,
-      "createdAt": "2026-06-02T05:15:00.000Z",
-      "tickers": [
-        "AMD"
-      ],
-      "url": "https://www.reddit.com/r/wallstreetbets/search/?q=AMD%20is%20finally%20getting%20AI%20attention&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "MSTR premium is back on the menu",
-      "subreddit": "wallstreetbets",
-      "score": 610,
-      "comments": 140,
-      "createdAt": "2026-06-02T05:18:00.000Z",
-      "tickers": [
-        "MSTR"
-      ],
-      "url": "https://www.reddit.com/r/wallstreetbets/search/?q=MSTR%20premium%20is%20back%20on%20the%20menu&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "NVDA calls volume into the close",
-      "subreddit": "options",
-      "score": 522,
-      "comments": 91,
-      "createdAt": "2026-06-02T05:21:00.000Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "url": "https://www.reddit.com/r/options/search/?q=NVDA%20calls%20volume%20into%20the%20close&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "AAPL needs a real AI catalyst",
-      "subreddit": "stocks",
-      "score": 520,
-      "comments": 120,
-      "createdAt": "2026-06-02T05:24:00.000Z",
-      "tickers": [
-        "AAPL"
-      ],
-      "url": "https://www.reddit.com/r/stocks/search/?q=AAPL%20needs%20a%20real%20AI%20catalyst&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "PLTR AI platform demand thread",
-      "subreddit": "stocks",
-      "score": 455,
-      "comments": 102,
-      "createdAt": "2026-06-02T05:27:00.000Z",
-      "tickers": [
-        "PLTR"
-      ],
-      "url": "https://www.reddit.com/r/stocks/search/?q=PLTR%20AI%20platform%20demand%20thread&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "TSLA weekly options are wild",
-      "subreddit": "options",
-      "score": 450,
-      "comments": 88,
-      "createdAt": "2026-06-02T05:30:00.000Z",
-      "tickers": [
-        "TSLA"
-      ],
-      "url": "https://www.reddit.com/r/options/search/?q=TSLA%20weekly%20options%20are%20wild&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "AMZN AWS growth looks underrated",
-      "subreddit": "stocks",
-      "score": 390,
-      "comments": 79,
-      "createdAt": "2026-06-02T05:33:00.000Z",
-      "tickers": [
-        "AMZN"
-      ],
-      "url": "https://www.reddit.com/r/stocks/search/?q=AMZN%20AWS%20growth%20looks%20underrated&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "META capex is the whole debate",
-      "subreddit": "stocks",
-      "score": 330,
-      "comments": 70,
-      "createdAt": "2026-06-02T05:36:00.000Z",
-      "tickers": [
-        "META"
-      ],
-      "url": "https://www.reddit.com/r/stocks/search/?q=META%20capex%20is%20the%20whole%20debate&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "AMD vs NVDA valuation thread",
-      "subreddit": "investing",
-      "score": 328,
-      "comments": 72,
-      "createdAt": "2026-06-02T05:39:00.000Z",
-      "tickers": [
-        "AMD",
-        "NVDA"
-      ],
-      "url": "https://www.reddit.com/r/investing/search/?q=AMD%20vs%20NVDA%20valuation%20thread&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "COIN volume rebound watch",
-      "subreddit": "wallstreetbets",
-      "score": 288,
-      "comments": 64,
-      "createdAt": "2026-06-02T05:42:00.000Z",
-      "tickers": [
-        "COIN"
-      ],
-      "url": "https://www.reddit.com/r/wallstreetbets/search/?q=COIN%20volume%20rebound%20watch&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "MSTR and BTC correlation check",
-      "subreddit": "StockMarket",
-      "score": 270,
-      "comments": 58,
-      "createdAt": "2026-06-02T05:45:00.000Z",
-      "tickers": [
-        "MSTR"
-      ],
-      "url": "https://www.reddit.com/r/StockMarket/search/?q=MSTR%20and%20BTC%20correlation%20check&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "MSFT is the boring AI winner?",
-      "subreddit": "investing",
-      "score": 240,
-      "comments": 52,
-      "createdAt": "2026-06-02T05:48:00.000Z",
-      "tickers": [
-        "MSFT"
-      ],
-      "url": "https://www.reddit.com/r/investing/search/?q=MSFT%20is%20the%20boring%20AI%20winner%3F&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "PLTR is still a valuation debate",
-      "subreddit": "investing",
-      "score": 214,
-      "comments": 47,
-      "createdAt": "2026-06-02T05:51:00.000Z",
-      "tickers": [
-        "PLTR"
-      ],
-      "url": "https://www.reddit.com/r/investing/search/?q=PLTR%20is%20still%20a%20valuation%20debate&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "Amazon margin expansion discussion",
-      "subreddit": "investing",
-      "score": 205,
-      "comments": 39,
-      "createdAt": "2026-06-02T05:54:00.000Z",
-      "tickers": [
-        "AMZN"
-      ],
-      "url": "https://www.reddit.com/r/investing/search/?q=Amazon%20margin%20expansion%20discussion&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "Azure growth expectations",
-      "subreddit": "stocks",
-      "score": 198,
-      "comments": 40,
-      "createdAt": "2026-06-02T05:57:00.000Z",
-      "tickers": [
-        "MSFT"
-      ],
-      "url": "https://www.reddit.com/r/stocks/search/?q=Azure%20growth%20expectations&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "META ad market check",
-      "subreddit": "investing",
-      "score": 180,
-      "comments": 35,
-      "createdAt": "2026-06-02T06:00:00.000Z",
-      "tickers": [
-        "META"
-      ],
-      "url": "https://www.reddit.com/r/investing/search/?q=META%20ad%20market%20check&restrict_sr=1&sort=new"
-    },
-    {
-      "title": "COIN regulatory risk still matters",
-      "subreddit": "stocks",
-      "score": 165,
-      "comments": 41,
-      "createdAt": "2026-06-02T06:03:00.000Z",
-      "tickers": [
-        "COIN"
-      ],
-      "url": "https://www.reddit.com/r/stocks/search/?q=COIN%20regulatory%20risk%20still%20matters&restrict_sr=1&sort=new"
-    }
-  ],
   "seekingAlpha": {
     "source": "Seeking Alpha RSS",
     "feeds": [
+      "Most Popular",
       "All News",
       "Latest Articles",
       "Wall Street Breakfast",
-      "Editor Picks",
-      "Most Popular"
+      "Editor Picks"
     ],
     "items": [
       {
-        "title": "Market futures edge higher as chip stocks stay in focus",
+        "title": "Generac signs global supply deal with hyperscale data center operator; shares up 7%",
         "source": "All News",
-        "summary": "U.S. equity futures were modestly higher as investors continued to watch AI and semiconductor leaders.",
-        "publishedAt": "2026-06-02T05:10:00.000Z",
-        "tickers": [
-          "NVDA",
-          "AMD"
-        ],
-        "url": "https://seekingalpha.com/market-news"
+        "summary": "",
+        "publishedAt": "2026-06-02T09:47:25.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4599567-generac-signs-global-supply-deal-with-hyperscale-data-center-operator-shares-up-7?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Wall Street Breakfast: AI capex remains the big market question",
-        "source": "Wall Street Breakfast",
-        "summary": "Investors are weighing whether large AI infrastructure spending can keep translating into revenue growth.",
-        "publishedAt": "2026-06-02T05:25:00.000Z",
-        "tickers": [
-          "MSFT",
-          "META",
-          "AMZN"
-        ],
-        "url": "https://seekingalpha.com/tag/wall-st-breakfast"
+        "title": "Can self-driving tech power the new FedEx Freight?",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:46:24.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4599562-can-self-driving-tech-power-the-new-fedex-freight?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Tesla volatility rises as traders debate delivery expectations",
+        "title": "Investors risk missing rebounds during volatility, Wells Fargo says",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:44:35.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4599566-investors-risk-missing-rebounds-during-volatility-wells-fargo-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Intel unveils new chip-to-rackscale AI innovations at Computex",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:41:38.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4599564-intel-unveils-new-chip-to-rackscale-ai-innovations-at-computex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Bank of America: Let The Capital Flow To Your Portfolio With This Banking Powerhouse",
         "source": "Latest Articles",
-        "summary": "Options activity around Tesla picked up as traders focused on near-term delivery and margin expectations.",
-        "publishedAt": "2026-06-02T05:38:00.000Z",
-        "tickers": [
-          "TSLA"
-        ],
-        "url": "https://seekingalpha.com/symbol/TSLA"
+        "summary": "",
+        "publishedAt": "2026-06-02T09:40:25.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910861-bank-of-america-let-capital-flow-to-your-portfolio-with-this-banking-powerhouse?source=feed_all_articles"
       },
       {
-        "title": "Coinbase and crypto-linked stocks move with bitcoin sentiment",
+        "title": "Arm may reach $15B AI chip revenue goal early, says CEO",
         "source": "All News",
-        "summary": "Crypto-linked equities were active as bitcoin price action shaped risk appetite.",
-        "publishedAt": "2026-06-02T05:47:00.000Z",
-        "tickers": [
-          "COIN",
-          "MSTR"
-        ],
-        "url": "https://seekingalpha.com/symbol/COIN"
+        "summary": "",
+        "publishedAt": "2026-06-02T09:40:05.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4599556-arm-may-reach-15b-ai-chip-revenue-goal-early-says-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Amazon AWS growth remains a focus for mega-cap investors",
-        "source": "Editor Picks",
-        "summary": "Cloud demand and margin expansion remain key discussion points for Amazon shareholders.",
-        "publishedAt": "2026-06-02T05:55:00.000Z",
-        "tickers": [
-          "AMZN"
-        ],
-        "url": "https://seekingalpha.com/symbol/AMZN"
+        "title": "Kaspi.kz: Ownership Change Drives Stock Rally",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:39:51.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910860-kaspikz-stock-ownership-change-drives-stock-rally?source=feed_all_articles"
+      },
+      {
+        "title": "The Buckle: 3 Reasons To Be Bullish Again (Rating Upgrade)",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:35:01.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910859-the-buckle-three-reasons-to-be-bullish-again-rating-upgrade?source=feed_all_articles"
+      },
+      {
+        "title": "Since 2004, This Key Investor Indicator Hasn't Been This Low",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:34:38.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910858-since-2004-this-key-investor-indicator-hasnt-been-this-low?source=feed_all_articles"
+      },
+      {
+        "title": "AGC Inc. (ASGLY) Discusses Technology Development Strategy and Diversification in Semiconductor-Related Businesses - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:25:03.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910879-agc-inc-asgly-discusses-technology-development-strategy-and-diversification-in-semiconductor?source=feed_all_articles"
+      },
+      {
+        "title": "William Blair updates its Conviction List",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:19:15.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4599560-william-blair-updates-its-conviction-list?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Top 25 High-Growth Dividend Stocks For June 2026",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:14:28.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910854-top-25-high-growth-dividend-stocks-for-june-2026?source=feed_all_articles"
+      },
+      {
+        "title": "Earnings strength continues driving stocks higher, Oppenheimer says",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:13:18.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4599561-earnings-strength-continues-driving-stocks-higher-oppenheimer-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Hotter-Than-Expected Prices Put South Korea On Track For July Rate Hike",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:13:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910855-hotter-expected-prices-south-korea-track-july-rate-hike?source=feed_all_articles"
+      },
+      {
+        "title": "Grupo Aeroportuario Del Pacifico: Traffic Will Pick Up In The Back Half Of 2026",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:11:52.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910852-grupo-aeroportuario-del-pacifico-traffic-will-pick-up-in-the-back-half-of-2026?source=feed_all_articles"
+      },
+      {
+        "title": "First Financial Holding Co., Ltd. 2026 Q1 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T09:00:50.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910865-first-financial-holding-co-ltd-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "China Tech Is Back - And This Time, It Built The Playbook Itself",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T08:55:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910850-china-tech-back-this-time-built-playbook-itself?source=feed_all_articles"
+      },
+      {
+        "title": "Essity AB (publ) (ETTYF) Presents at 23rd annual dbAccess Global Consumer Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T08:54:04.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910862-essity-ab-publ-ettyf-presents-at-23rd-annual-dbaccess-global-consumer-conference-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "AES: What The $10.7 Billion Buyout Means For Shareholders",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T08:47:57.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910849-aes-what-the-10-7-billion-buyout-means-for-shareholders?source=feed_all_articles"
+      },
+      {
+        "title": "Snowflake: Escalating Agentic AI Catalyst",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T08:43:03.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910848-snowflake-stock-escalating-agentic-ai-catalyst?source=feed_all_articles"
       }
     ],
     "popularItems": [
       {
-        "title": "Market futures edge higher as chip stocks stay in focus",
-        "source": "All News",
-        "summary": "U.S. equity futures were modestly higher as investors continued to watch AI and semiconductor leaders.",
-        "publishedAt": "2026-06-02T05:10:00.000Z",
-        "tickers": [
-          "NVDA",
-          "AMD"
-        ],
-        "url": "https://seekingalpha.com/market-news"
-      },
-      {
-        "title": "Wall Street Breakfast: AI capex remains the big market question",
-        "source": "Wall Street Breakfast",
-        "summary": "Investors are weighing whether large AI infrastructure spending can keep translating into revenue growth.",
-        "publishedAt": "2026-06-02T05:25:00.000Z",
-        "tickers": [
-          "MSFT",
-          "META",
-          "AMZN"
-        ],
-        "url": "https://seekingalpha.com/tag/wall-st-breakfast"
-      },
-      {
-        "title": "Tesla volatility rises as traders debate delivery expectations",
-        "source": "Latest Articles",
-        "summary": "Options activity around Tesla picked up as traders focused on near-term delivery and margin expectations.",
-        "publishedAt": "2026-06-02T05:38:00.000Z",
-        "tickers": [
-          "TSLA"
-        ],
-        "url": "https://seekingalpha.com/symbol/TSLA"
-      },
-      {
-        "title": "Coinbase and crypto-linked stocks move with bitcoin sentiment",
-        "source": "All News",
-        "summary": "Crypto-linked equities were active as bitcoin price action shaped risk appetite.",
-        "publishedAt": "2026-06-02T05:47:00.000Z",
-        "tickers": [
-          "COIN",
-          "MSTR"
-        ],
-        "url": "https://seekingalpha.com/symbol/COIN"
-      },
-      {
-        "title": "Amazon AWS growth remains a focus for mega-cap investors",
-        "source": "Editor Picks",
-        "summary": "Cloud demand and margin expansion remain key discussion points for Amazon shareholders.",
-        "publishedAt": "2026-06-02T05:55:00.000Z",
-        "tickers": [
-          "AMZN"
-        ],
-        "url": "https://seekingalpha.com/symbol/AMZN"
-      },
-      {
-        "title": "Nvidia remains the center of the AI trade",
+        "title": "Celestica: The Quiet Backbone Of The AI Hardware Revolution",
         "source": "Most Popular",
-        "summary": "Semiconductor leadership remains a popular market theme.",
-        "publishedAt": "2026-06-02T05:58:00.000Z",
-        "tickers": [
-          "NVDA"
-        ],
-        "url": "https://seekingalpha.com/symbol/NVDA"
+        "summary": "",
+        "publishedAt": "2026-06-02T06:19:12.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910825-celestica-the-quiet-backbone-of-the-ai-hardware-revolution?source=feed"
       },
       {
-        "title": "Tesla: volatility and delivery debate continue",
+        "title": "TTM Technologies: Negative On Valuation, Positive On Fundamentals",
         "source": "Most Popular",
-        "summary": "Tesla remains actively debated as traders watch delivery and margin data.",
-        "publishedAt": "2026-06-02T05:59:00.000Z",
-        "tickers": [
-          "TSLA"
-        ],
-        "url": "https://seekingalpha.com/symbol/TSLA"
+        "summary": "",
+        "publishedAt": "2026-06-02T05:37:21.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910818-ttm-technologies-stock-negative-on-valuation-positive-on-fundamentals-hold-for-now?source=feed"
       },
       {
-        "title": "Microsoft and Amazon cloud growth stays in focus",
+        "title": "My Oh My, What A Month Of May",
         "source": "Most Popular",
-        "summary": "Mega-cap cloud demand remains central to market sentiment.",
-        "publishedAt": "2026-06-02T06:00:00.000Z",
-        "tickers": [
-          "MSFT",
-          "AMZN"
-        ],
-        "url": "https://seekingalpha.com/symbol/MSFT"
+        "summary": "",
+        "publishedAt": "2026-06-02T04:30:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910724-my-oh-my-what-month-may?source=feed"
       },
       {
-        "title": "Coinbase gains attention as crypto sentiment improves",
+        "title": "Coherent: This Party Is Here To Stay",
         "source": "Most Popular",
-        "summary": "Crypto-linked equities remain sensitive to bitcoin price action.",
-        "publishedAt": "2026-06-02T06:01:00.000Z",
-        "tickers": [
-          "COIN"
-        ],
-        "url": "https://seekingalpha.com/symbol/COIN"
+        "summary": "",
+        "publishedAt": "2026-06-02T04:27:52.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910806-coherent-this-party-is-here-to-stay?source=feed"
       },
       {
-        "title": "Palantir valuation debate continues around AI demand",
+        "title": "Amazon: The Stock Is Missing The AI Wave, But The Business Isn't",
         "source": "Most Popular",
-        "summary": "Investors continue to debate AI software demand and valuation.",
-        "publishedAt": "2026-06-02T06:02:00.000Z",
-        "tickers": [
-          "PLTR"
-        ],
-        "url": "https://seekingalpha.com/symbol/PLTR"
+        "summary": "",
+        "publishedAt": "2026-06-02T04:12:02.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910804-amazon-the-stock-is-missing-the-ai-wave-but-the-business-isnt?source=feed"
+      },
+      {
+        "title": "S&P 500 Quant Leaders: 5 Top Stocks Averaging 133% Forward EPS Growth",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-01T18:37:06.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910697-s-and-ampp-500-quant-leaders-5-top-stocks-averaging-133-percent-forward-eps-growth?source=feed"
+      },
+      {
+        "title": "The Massive AI Lie: Why I'm Up 25% YTD And Cashing Out",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-01T17:12:40.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910680-the-massive-ai-lie-why-im-up-25-percent-ytd-and-cashing-out?source=feed"
+      },
+      {
+        "title": "I Demand +9% Yields",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-01T11:35:25.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910523-i-demand-plus-9-percent-yields?source=feed"
+      },
+      {
+        "title": "I Wouldn't Dare Buy These 3 Popular Retirement-Wrecker Yield Traps",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-01T11:05:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910531-i-wouldnt-dare-buy-these-3-popular-retirement-wrecker-yield-traps?source=feed"
+      },
+      {
+        "title": "I'm Calling A Bottom For Software - 3 Stocks I'm Buying",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-01T06:57:20.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910521-i-m-calling-a-bottom-for-software-3-stocks-i-m-buying?source=feed"
       }
     ]
-  }
+  },
+  "stocks": [],
+  "hotPosts": []
 };
