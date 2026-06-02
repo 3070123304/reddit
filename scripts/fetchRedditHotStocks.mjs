@@ -20,8 +20,12 @@ const SEEKING_ALPHA_FEEDS = [
   { name: 'Latest Articles', url: 'https://seekingalpha.com/feed.xml' },
   { name: 'Wall Street Breakfast', url: 'https://seekingalpha.com/tag/wall-st-breakfast.xml' },
   { name: 'Editor Picks', url: 'https://seekingalpha.com/tag/editors-picks.xml' },
-  { name: 'Most Popular', url: 'https://seekingalpha.com/listing/most-popular-articles.xml' },
 ];
+
+const SEEKING_ALPHA_POPULAR_FEED = {
+  name: 'Most Popular',
+  url: 'https://seekingalpha.com/listing/most-popular-articles.xml',
+};
 
 const KNOWN_TICKERS = new Set([
   'AAPL', 'ABBV', 'ABNB', 'AMD', 'AMZN', 'AVGO', 'BA', 'BABA', 'BAC', 'COIN', 'COST', 'CRM',
@@ -186,11 +190,17 @@ function parseRssItems(xml, feedName) {
 
 async function fetchSeekingAlphaItems() {
   const items = [];
+  let popularItems = [];
 
-  for (const feed of SEEKING_ALPHA_FEEDS) {
+  for (const feed of [SEEKING_ALPHA_POPULAR_FEED, ...SEEKING_ALPHA_FEEDS]) {
     try {
       const xml = await fetchText(feed.url, 2);
-      items.push(...parseRssItems(xml, feed.name));
+      const parsedItems = parseRssItems(xml, feed.name);
+      if (feed.name === SEEKING_ALPHA_POPULAR_FEED.name) {
+        popularItems = parsedItems.slice(0, 10);
+      } else {
+        items.push(...parsedItems);
+      }
     } catch (error) {
       console.log(`Skipped Seeking Alpha feed ${feed.name}: ${error.message}`);
     }
@@ -199,9 +209,18 @@ async function fetchSeekingAlphaItems() {
   const byUrl = new Map();
   for (const item of items) byUrl.set(item.url, item);
 
-  return Array.from(byUrl.values())
+  const latestItems = Array.from(byUrl.values())
     .sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0))
     .slice(0, CONFIG.seekingAlphaLimit);
+
+  if (!popularItems.length) {
+    popularItems = latestItems.slice(0, 10);
+  }
+
+  return {
+    latestItems,
+    popularItems,
+  };
 }
 
 function normalizePost(child) {
@@ -305,7 +324,7 @@ function summarizeStock(ticker, stat) {
   return `过去一小时 ${ticker} 被提及 ${stat.mentions} 次，相关帖子 ${stat.posts.size} 篇，讨论重点集中在${topics}。`;
 }
 
-function analyze(posts, commentTexts, seekingAlphaItems) {
+function analyze(posts, commentTexts, seekingAlphaData) {
   const stockMap = new Map();
   const hotPosts = [];
 
@@ -382,8 +401,9 @@ function analyze(posts, commentTexts, seekingAlphaItems) {
     subreddits: CONFIG.subreddits,
     seekingAlpha: {
       source: 'Seeking Alpha RSS',
-      feeds: SEEKING_ALPHA_FEEDS.map((feed) => feed.name),
-      items: seekingAlphaItems,
+      feeds: [SEEKING_ALPHA_POPULAR_FEED, ...SEEKING_ALPHA_FEEDS].map((feed) => feed.name),
+      items: seekingAlphaData.latestItems,
+      popularItems: seekingAlphaData.popularItems,
     },
     stocks,
     hotPosts: hotPosts
@@ -416,7 +436,7 @@ function formatFeishuMessage(result) {
    ${post.url}`;
   });
 
-  const seekingAlphaLines = (result.seekingAlpha?.items || []).slice(0, 5).map((item, index) => {
+  const seekingAlphaLines = (result.seekingAlpha?.popularItems || result.seekingAlpha?.items || []).slice(0, 10).map((item, index) => {
     const tickers = item.tickers?.length ? `｜${item.tickers.map((ticker) => `$${ticker}`).join(' ')}` : '';
     return `${index + 1}. ${item.title}
    ${item.source}${tickers}
@@ -433,7 +453,7 @@ function formatFeishuMessage(result) {
     `热门帖子 Top ${Math.min(result.hotPosts.length, 5)}`,
     postLines.join('\n\n') || '暂无热门帖子',
     '',
-    `Seeking Alpha 最新资讯 Top ${Math.min(result.seekingAlpha?.items?.length || 0, 5)}`,
+    `Seeking Alpha 热门文章 Top ${Math.min((result.seekingAlpha?.popularItems || result.seekingAlpha?.items || []).length, 10)}`,
     seekingAlphaLines.join('\n\n') || '暂无 Seeking Alpha 资讯',
   ].join('\n');
 }
@@ -484,8 +504,8 @@ async function main() {
   const token = await getRedditToken();
   const posts = await fetchPosts(token);
   const commentTexts = await fetchCommentsForPosts(posts, token);
-  const seekingAlphaItems = await fetchSeekingAlphaItems();
-  const result = analyze(posts, commentTexts, seekingAlphaItems);
+  const seekingAlphaData = await fetchSeekingAlphaItems();
+  const result = analyze(posts, commentTexts, seekingAlphaData);
   await mkdir('data', { recursive: true });
   await writeFile(CONFIG.outputPath, `${JSON.stringify(result, null, 2)}\n`, 'utf8');
   await writeFile(CONFIG.jsOutputPath, `window.redditHotStocksData = ${JSON.stringify(result, null, 2)};\n`, 'utf8');

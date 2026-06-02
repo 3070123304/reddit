@@ -1,91 +1,121 @@
-现在脚本取帖子分两块：Reddit 帖子 和 Seeking Alpha 资讯。
+# 美股情报热榜配置
 
-Reddit 帖子逻辑
+这个项目已经支持每小时生成一次 `data/reddit-hot-stocks.json`，页面会自动读取它并展示：
 
-脚本会抓这些社区：
+- 过去一小时 Reddit 热门股票 Top 10
+- 每只股票的提及次数、相关帖子数、热门话题、情绪和摘要
+- 每只股票相关热门帖子链接
+- Reddit 热门帖子列表
+- Seeking Alpha RSS 资讯标题、摘要和链接
 
-wallstreetbets
-stocks
-investing
-options
-StockMarket
-SecurityAnalysis
-每个社区抓 4 个列表：
+## 1. 不申请 Reddit API 也能运行
 
-hot
-new
-rising
-top?t=hour
-然后只保留：
+脚本现在支持无 API 模式。你可以直接运行：
 
-created_utc 在最近 60 分钟内的帖子
-也就是“过去一小时的新帖子”。
+```powershell
+node scripts/fetchRedditHotStocks.mjs
+```
 
-之后会去重，同一个帖子只保留一次。
+它会走 Reddit 公开 `.json` 地址抓取数据。这个方式不需要 `client id` 和 `client secret`，但更容易遇到限流或被 Reddit 拦截。
 
-热门帖子排序逻辑是：
+Seeking Alpha 使用 RSS feed，只抓标题、摘要、发布时间和链接，不抓全文。
 
-score + comments * 2
-也就是说：
+## 2. 申请 Reddit API，可选
 
-upvote 分数越高越靠前
-评论数越多越靠前
-评论的权重是 upvote 的 2 倍
-最后取前 20 条。
+1. 登录 Reddit。
+2. 打开 https://www.reddit.com/prefs/apps
+3. 点击 `create another app...`
+4. 类型选择 `script`。
+5. 记录：
+   - `client id`
+   - `client secret`
 
-股票怎么从帖子里识别
+有 API 凭证时，脚本会优先走 OAuth API；没有凭证时，会自动退回公开 `.json` 抓取。
 
-脚本会从这些地方找股票代码：
+## 3. 本地运行
 
-帖子标题
-帖子正文
-热门评论
-识别方式：
+Windows PowerShell 示例：
 
-$NVDA 这种 cashtag
-NVDA 这种大写 ticker
-但只认我们白名单里的股票，比如：
+如果你的电脑没有安装 Node.js，直接运行：
 
-NVDA, TSLA, AMD, AAPL, MSFT, META, AMZN, PLTR, MSTR, COIN ...
-也会排除容易误判的词，比如：
+```powershell
+.\run-reddit-hot-stocks.cmd
+```
 
-AI, CEO, DD, ETF, IPO, USA, USD
-热门股票排序逻辑
+它会优先使用 Codex 自带的 Node.js。
 
-每只股票会根据这些因素算分：
+如果你的电脑已经安装 Node.js，也可以运行：
 
-提及次数
-相关帖子数量
-帖子 upvote 总分
-帖子评论总数
-公式大致是：
+```powershell
+$env:REDDIT_CLIENT_ID="你的 client id"
+$env:REDDIT_CLIENT_SECRET="你的 client secret"
+$env:REDDIT_USER_AGENT="qdii-hot-stocks/1.0 by 你的 reddit 用户名"
+node scripts/fetchRedditHotStocks.mjs
+```
 
-mentions * 8
-+ postCount * 12
-+ log10(totalScore + 10) * 18
-+ log10(totalComments + 10) * 10
-最后取 Top 10。
+如果你不想申请 API，就不要设置前两个环境变量，直接运行：
 
-Seeking Alpha 资讯逻辑
+```powershell
+node scripts/fetchRedditHotStocks.mjs
+```
 
-Seeking Alpha 不抓全文，只抓 RSS。脚本会读取几个 RSS 源：
+运行成功后会更新：
 
-All News
-Latest Articles
-Wall Street Breakfast
-Editor Picks
-Most Popular
-每条只取：
+```text
+data/reddit-hot-stocks.json
+data/reddit-hot-stocks.js
+```
 
-标题
-摘要
-发布时间
-链接
-提到的股票代码
-然后按发布时间倒序排序，取前 20 条。
+## 4. GitHub 每小时自动运行
 
-所以整体逻辑可以理解为：
+把项目上传到 GitHub 后，在仓库里配置 Secrets：
 
-Reddit = 看大家正在热议什么
-Seeking Alpha = 看资讯端刚出了什么消息
-Reddit 负责“热度”，Seeking Alpha 负责“资讯入口”。
+```text
+REDDIT_CLIENT_ID
+REDDIT_CLIENT_SECRET
+FEISHU_WEBHOOK_URL
+```
+
+项目已经包含 workflow：
+
+```text
+.github/workflows/reddit-hot-stocks.yml
+```
+
+它会在每小时第 7 分钟自动运行一次，也可以在 GitHub Actions 页面手动点击运行。
+
+如果配置了 `FEISHU_WEBHOOK_URL`，每次运行后会把 Reddit 热榜摘要推送到飞书群。
+
+## 5. 调整抓取范围
+
+可以在 GitHub Actions 或本地环境变量里调整：
+
+```text
+REDDIT_SUBREDDITS=wallstreetbets,stocks,investing,options,StockMarket,SecurityAnalysis
+REDDIT_WINDOW_MINUTES=60
+REDDIT_LIMIT_PER_FEED=50
+SEEKING_ALPHA_LIMIT=20
+```
+
+## 6. 推送到飞书群
+
+1. 在飞书群里添加自定义机器人。
+2. 复制机器人 Webhook 地址。
+3. 本地运行时设置：
+
+```powershell
+$env:FEISHU_WEBHOOK_URL="你的飞书机器人 Webhook"
+node scripts/fetchRedditHotStocks.mjs
+```
+
+4. GitHub Actions 自动运行时，把 Webhook 放到仓库 Secrets：
+
+```text
+FEISHU_WEBHOOK_URL
+```
+
+## 7. 注意
+
+Reddit 热榜只覆盖公开 subreddit 和 API 当前能返回的帖子，不能保证覆盖所有 Reddit 讨论。
+
+Seeking Alpha 只读取 RSS 里的标题、摘要和链接，不抓取文章全文或付费内容。这个工具适合做热点发现和资讯入口，不适合做交易信号。

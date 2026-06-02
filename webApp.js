@@ -122,7 +122,11 @@
     const stocks = Array.isArray(data.stocks) ? data.stocks : [];
     const posts = Array.isArray(data.hotPosts) ? data.hotPosts : [];
     const subreddits = Array.isArray(data.subreddits) ? data.subreddits : [];
-    const seekingAlphaItems = Array.isArray(data.seekingAlpha?.items) ? data.seekingAlpha.items : [];
+    const seekingAlphaItems = Array.isArray(data.seekingAlpha?.popularItems)
+      ? data.seekingAlpha.popularItems
+      : Array.isArray(data.seekingAlpha?.items)
+        ? data.seekingAlpha.items
+        : [];
     const sourceLabel = data.source === 'demo' ? '示例数据' : 'Reddit + Seeking Alpha';
 
     els.dataMeta.textContent = `${sourceLabel} · 更新于 ${formatLocalTime(data.generatedAt)}`;
