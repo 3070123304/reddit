@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-02T09:49:50.974Z",
+  "generatedAt": "2026-06-02T20:30:14.027Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,206 +21,212 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Generac signs global supply deal with hyperscale data center operator; shares up 7%",
+        "title": "GraniteShares Autocallable TSLA ETF declares $0.3916 dividend",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T09:47:25.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4599567-generac-signs-global-supply-deal-with-hyperscale-data-center-operator-shares-up-7?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "publishedAt": "2026-06-02T20:23:28.000Z",
+        "tickers": [
+          "TSLA"
+        ],
+        "url": "https://seekingalpha.com/news/4600009-graniteshares-autocallable-tsla-etf-declares-0_3916-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Can self-driving tech power the new FedEx Freight?",
+        "title": "Stocks to watch on Tuesday after-hours: PANW, ULTA, GTLB",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T09:46:24.000Z",
+        "publishedAt": "2026-06-02T20:22:35.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4599562-can-self-driving-tech-power-the-new-fedex-freight?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4599982-stocks-to-watch-on-tuesday-after-hours-panw-ulta-gtlb?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Investors risk missing rebounds during volatility, Wells Fargo says",
+        "title": "GraniteShares Autocallable PLTR ETF declares $0.4209 dividend",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T09:44:35.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4599566-investors-risk-missing-rebounds-during-volatility-wells-fargo-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "publishedAt": "2026-06-02T20:22:16.000Z",
+        "tickers": [
+          "PLTR"
+        ],
+        "url": "https://seekingalpha.com/news/4600008-graniteshares-autocallable-pltr-etf-declares-0_4209-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Intel unveils new chip-to-rackscale AI innovations at Computex",
+        "title": "Arista Networks, Inc. (ANET) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T20:21:55.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911102-arista-networks-inc-anet-presents-at-46th-annual-william-blair-growth-stock-conference?source=feed_all_articles"
+      },
+      {
+        "title": "First Industrial Realty Trust, Inc. (FR) Presents at Nareit REITweek: 2026 Investor Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T20:21:54.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911151-first-industrial-realty-trust-inc-fr-presents-at-nareit-reitweek-2026-investor-conference?source=feed_all_articles"
+      },
+      {
+        "title": "SharkNinja, Inc. (SN) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T20:21:51.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911141-sharkninja-inc-sn-presents-at-46th-annual-william-blair-growth-stock-conference-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "TETRA Technologies slides after launching $100M public stock offering",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T09:41:38.000Z",
+        "publishedAt": "2026-06-02T20:21:06.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4599564-intel-unveils-new-chip-to-rackscale-ai-innovations-at-computex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4600002-tetra-technologies-slides-after-launching-100m-public-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Bank of America: Let The Capital Flow To Your Portfolio With This Banking Powerhouse",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T09:40:25.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910861-bank-of-america-let-capital-flow-to-your-portfolio-with-this-banking-powerhouse?source=feed_all_articles"
-      },
-      {
-        "title": "Arm may reach $15B AI chip revenue goal early, says CEO",
+        "title": "LendingClub to transfer listing to Nasdaq from NYSE, to change ticker symbol to HAPN",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T09:40:05.000Z",
+        "publishedAt": "2026-06-02T20:21:03.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4599556-arm-may-reach-15b-ai-chip-revenue-goal-early-says-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4599998-lendingclub-to-transfer-listing-to-nasdaq-from-nyse-to-change-ticker-symbol-to-hapn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Kaspi.kz: Ownership Change Drives Stock Rally",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T09:39:51.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910860-kaspikz-stock-ownership-change-drives-stock-rally?source=feed_all_articles"
-      },
-      {
-        "title": "The Buckle: 3 Reasons To Be Bullish Again (Rating Upgrade)",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T09:35:01.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910859-the-buckle-three-reasons-to-be-bullish-again-rating-upgrade?source=feed_all_articles"
-      },
-      {
-        "title": "Since 2004, This Key Investor Indicator Hasn't Been This Low",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T09:34:38.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910858-since-2004-this-key-investor-indicator-hasnt-been-this-low?source=feed_all_articles"
-      },
-      {
-        "title": "AGC Inc. (ASGLY) Discusses Technology Development Strategy and Diversification in Semiconductor-Related Businesses - Slideshow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T09:25:03.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910879-agc-inc-asgly-discusses-technology-development-strategy-and-diversification-in-semiconductor?source=feed_all_articles"
-      },
-      {
-        "title": "William Blair updates its Conviction List",
+        "title": "Earnings Snapshot: Palo Alto Networks issues strong guidance after Q3 double-beat",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T09:19:15.000Z",
+        "publishedAt": "2026-06-02T20:20:23.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4599560-william-blair-updates-its-conviction-list?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4600004-earnings-summary-palo-alto-networks-issues-strong-guidance-after-q3-double-beat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Top 25 High-Growth Dividend Stocks For June 2026",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T09:14:28.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910854-top-25-high-growth-dividend-stocks-for-june-2026?source=feed_all_articles"
-      },
-      {
-        "title": "Earnings strength continues driving stocks higher, Oppenheimer says",
+        "title": "Netskope to join Anthropic's Project Glasswing",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T09:13:18.000Z",
+        "publishedAt": "2026-06-02T20:20:04.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4599561-earnings-strength-continues-driving-stocks-higher-oppenheimer-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4600005-netskope-to-join-anthropics-project-glasswing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Hotter-Than-Expected Prices Put South Korea On Track For July Rate Hike",
+        "title": "How To Invest $100,000 In Japanese Stocks",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-02T09:13:00.000Z",
+        "publishedAt": "2026-06-02T20:15:03.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910855-hotter-expected-prices-south-korea-track-july-rate-hike?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911124-how-to-invest-100000-in-japanese-stocks?source=feed_all_articles"
       },
       {
-        "title": "Grupo Aeroportuario Del Pacifico: Traffic Will Pick Up In The Back Half Of 2026",
+        "title": "Fortinet, Inc. (FTNT) Presents at Bank of America 2026 Global Technology Conference Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-02T09:11:52.000Z",
+        "publishedAt": "2026-06-02T20:11:56.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910852-grupo-aeroportuario-del-pacifico-traffic-will-pick-up-in-the-back-half-of-2026?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911117-fortinet-inc-ftnt-presents-at-bank-of-america-2026-global-technology-conference-transcript?source=feed_all_articles"
       },
       {
-        "title": "First Financial Holding Co., Ltd. 2026 Q1 - Results - Earnings Call Presentation",
+        "title": "Celcuity Inc. (CELC) Discusses VIKTORIA-1 Trial Results for PIK3CA Mutant Advanced Breast Cancer and Gedatolisib Efficacy Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-02T09:00:50.000Z",
+        "publishedAt": "2026-06-02T20:11:55.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910865-first-financial-holding-co-ltd-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911041-celcuity-inc-celc-discusses-viktoriaminus-1-trial-results-for-pik3ca-mutant-advanced-breast?source=feed_all_articles"
       },
       {
-        "title": "China Tech Is Back - And This Time, It Built The Playbook Itself",
+        "title": "EMCOR Group, Inc. (EME) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-02T08:55:00.000Z",
+        "publishedAt": "2026-06-02T20:11:54.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910850-china-tech-back-this-time-built-playbook-itself?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911083-emcor-group-inc-eme-presents-at-46th-annual-william-blair-growth-stock-conference-transcript?source=feed_all_articles"
       },
       {
-        "title": "Essity AB (publ) (ETTYF) Presents at 23rd annual dbAccess Global Consumer Conference Transcript",
+        "title": "Avnet, Inc. (AVT) Presents at Bank of America 2026 Global Technology Conference Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-02T08:54:04.000Z",
+        "publishedAt": "2026-06-02T20:11:53.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910862-essity-ab-publ-ettyf-presents-at-23rd-annual-dbaccess-global-consumer-conference-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911104-avnet-inc-avt-presents-at-bank-of-america-2026-global-technology-conference-transcript?source=feed_all_articles"
       },
       {
-        "title": "AES: What The $10.7 Billion Buyout Means For Shareholders",
+        "title": "Verisk Analytics, Inc. (VRSK) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-02T08:47:57.000Z",
+        "publishedAt": "2026-06-02T20:11:51.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910849-aes-what-the-10-7-billion-buyout-means-for-shareholders?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911074-verisk-analytics-inc-vrsk-presents-at-46th-annual-william-blair-growth-stock-conference?source=feed_all_articles"
       },
       {
-        "title": "Snowflake: Escalating Agentic AI Catalyst",
+        "title": "Outage Outrage For E.W. Scripps: What Investors Need To Know",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-02T08:43:03.000Z",
+        "publishedAt": "2026-06-02T20:11:39.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910848-snowflake-stock-escalating-agentic-ai-catalyst?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911122-outage-outrage-for-ew-scripps-what-investors-need-to-know?source=feed_all_articles"
+      },
+      {
+        "title": "Seagate Technology Holdings plc (STX) Presents at Bank of America 2026 Global Technology Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T20:01:51.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911128-seagate-technology-holdings-plc-stx-presents-at-bank-of-america-2026-global-technology?source=feed_all_articles"
+      },
+      {
+        "title": "Forget The SpaceX Hype: The #1 Hidden Space Defense Stock To Buy Now",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T20:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911140-forget-the-spacex-hype-the-1-hidden-space-defense-stock-to-buy-now?source=feed_all_articles"
+      },
+      {
+        "title": "HP Inc. (HPQ) Presents at 2026 Evercore Global TMT Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-02T19:51:52.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911103-hp-inc-hpq-presents-at-2026-evercore-global-tmt-conference-transcript?source=feed_all_articles"
       }
     ],
     "popularItems": [
       {
-        "title": "Celestica: The Quiet Backbone Of The AI Hardware Revolution",
+        "title": "Credo Just Told The Market Something Bigger Than Earnings",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-02T06:19:12.000Z",
+        "publishedAt": "2026-06-02T14:03:05.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910825-celestica-the-quiet-backbone-of-the-ai-hardware-revolution?source=feed"
+        "url": "https://seekingalpha.com/article/4910957-credo-just-told-the-market-something-bigger-than-earnings?source=feed"
       },
       {
-        "title": "TTM Technologies: Negative On Valuation, Positive On Fundamentals",
+        "title": "Why I Stopped Buying VOO And QQQ - And What I Am Buying Instead",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-02T05:37:21.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910818-ttm-technologies-stock-negative-on-valuation-positive-on-fundamentals-hold-for-now?source=feed"
+        "publishedAt": "2026-06-02T13:30:00.000Z",
+        "tickers": [
+          "QQQ"
+        ],
+        "url": "https://seekingalpha.com/article/4910686-why-i-stopped-buying-voo-and-qqq-and-what-i-am-buying-instead?source=feed"
       },
       {
-        "title": "My Oh My, What A Month Of May",
+        "title": "Stock Market Could Crash In June",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-02T04:30:00.000Z",
+        "publishedAt": "2026-06-02T12:13:11.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910724-my-oh-my-what-month-may?source=feed"
+        "url": "https://seekingalpha.com/article/4910915-stock-market-could-crash-in-june?source=feed"
       },
       {
-        "title": "Coherent: This Party Is Here To Stay",
+        "title": "Credo: Post-Earnings Dip Is A Gift As AI Demand Is Insatiable",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-02T04:27:52.000Z",
+        "publishedAt": "2026-06-02T11:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910806-coherent-this-party-is-here-to-stay?source=feed"
+        "url": "https://seekingalpha.com/article/4910883-credo-post-earnings-dip-is-a-gift-as-ai-demand-is-insatiable?source=feed"
       },
       {
-        "title": "Amazon: The Stock Is Missing The AI Wave, But The Business Isn't",
+        "title": "Micron: Not A Stock For Ordinary Investors To Chase Today",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-02T04:12:02.000Z",
+        "publishedAt": "2026-06-02T07:58:24.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910804-amazon-the-stock-is-missing-the-ai-wave-but-the-business-isnt?source=feed"
+        "url": "https://seekingalpha.com/article/4910841-micron-not-a-stock-for-ordinary-investors-to-chase-today?source=feed"
       },
       {
         "title": "S&P 500 Quant Leaders: 5 Top Stocks Averaging 133% Forward EPS Growth",
