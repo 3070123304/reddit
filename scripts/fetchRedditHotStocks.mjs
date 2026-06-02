@@ -441,7 +441,15 @@ function formatFeishuMessage(result) {
 async function sendFeishuMessage(result) {
   if (!CONFIG.feishuWebhookUrl) return;
 
-  const response = await fetch(CONFIG.feishuWebhookUrl, {
+  let webhookUrl;
+  try {
+    webhookUrl = new URL(CONFIG.feishuWebhookUrl);
+  } catch {
+    console.log('Skipped Feishu message: FEISHU_WEBHOOK_URL is not a valid URL.');
+    return;
+  }
+
+  const response = await fetch(webhookUrl, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
