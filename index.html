@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>美股情报热榜</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="top-bar">
+        <div class="brand-mark">r/</div>
+        <div class="brand-copy">
+          <h1>美股情报热榜</h1>
+          <p id="dataMeta">读取中</p>
+        </div>
+      </header>
+
+      <section class="summary-grid" aria-label="Reddit 热榜统计">
+        <div class="summary-item">
+          <span class="summary-label">热议股票</span>
+          <strong id="stockCount">--</strong>
+        </div>
+        <div class="summary-item">
+          <span class="summary-label">热门帖子</span>
+          <strong id="postCount">--</strong>
+        </div>
+        <div class="summary-item">
+          <span class="summary-label">覆盖社区</span>
+          <strong id="subredditCount">--</strong>
+        </div>
+        <div class="summary-item">
+          <span class="summary-label">SA资讯</span>
+          <strong id="saCount">--</strong>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <h2>过去一小时热门股票</h2>
+          <span id="windowLabel" class="section-pill">last_60_minutes</span>
+        </div>
+        <div id="stockList" class="stock-list"></div>
+      </section>
+
+      <section class="panel topic-panel">
+        <div class="section-head">
+          <h2>热门话题</h2>
+        </div>
+        <div id="topicList" class="topic-list"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <h2>热门帖子</h2>
+        </div>
+        <div id="postList" class="post-list"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <h2>Seeking Alpha 资讯</h2>
+          <span class="section-pill">RSS</span>
+        </div>
+        <div id="seekingAlphaList" class="article-list"></div>
+      </section>
+    </main>
+
+    <script src="./data/reddit-hot-stocks.js"></script>
+    <script src="./webApp.js"></script>
+  </body>
+</html>
