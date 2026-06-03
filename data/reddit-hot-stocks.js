@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-02T20:30:14.027Z",
+  "generatedAt": "2026-06-03T15:23:08.879Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,178 +21,232 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "GraniteShares Autocallable TSLA ETF declares $0.3916 dividend",
+        "title": "IQVIA Holdings Inc. (IQV) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:22:05.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911466-iqvia-holdings-inc-iqv-presents-at-jefferies-global-healthcare-conference-2026-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Cognyte Software Ltd. (CGNT) Q1 2027 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:22:03.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911460-cognyte-software-ltd-cgnt-q1-2027-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "nVent Electric plc (NVT) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:22:02.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911496-nvent-electric-plc-nvt-presents-at-46th-annual-william-blair-growth-stock-conference?source=feed_all_articles"
+      },
+      {
+        "title": "Mid-America Apartment Communities, Inc. (MAA) Presents at Nareit REITweek: 2026 Investor Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:22:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911435-mid-america-apartment-communities-inc-maa-presents-at-nareit-reitweek-2026-investor?source=feed_all_articles"
+      },
+      {
+        "title": "Dell Has Become An AI Infrastructure Powerhouse",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:16:48.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911458-dell-has-become-an-ai-infrastructure-powerhouse?source=feed_all_articles"
+      },
+      {
+        "title": "DiDi Global: Strong Q1 Reinforces Our Long-Term Investment Thesis",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:16:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911457-didi-global-strong-q1-reinforces-our-long-term-investment-thesis?source=feed_all_articles"
+      },
+      {
+        "title": "Ondas May Be Just Getting Started",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:15:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911232-ondas-stock-may-be-just-getting-started?source=feed_all_articles"
+      },
+      {
+        "title": "BW LPG: The Rally Was Earned, And The Dividend Case Still Holds",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:12:59.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911455-bw-lpg-the-rally-was-earned-and-the-dividend-case-still-holds?source=feed_all_articles"
+      },
+      {
+        "title": "Most & least shorted mid- to mega-cap REIT stocks: Who tops the screen in May?",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T20:23:28.000Z",
-        "tickers": [
-          "TSLA"
-        ],
-        "url": "https://seekingalpha.com/news/4600009-graniteshares-autocallable-tsla-etf-declares-0_3916-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "publishedAt": "2026-06-03T15:09:47.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4600328-most-least-shorted-mid--to-mega-cap-reit-stocks-who-tops-the-screen-in-may?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Stocks to watch on Tuesday after-hours: PANW, ULTA, GTLB",
+        "title": "IDEAYA to work with Roche on combo pancreatic cancer treatment",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T20:22:35.000Z",
+        "publishedAt": "2026-06-03T15:09:29.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4599982-stocks-to-watch-on-tuesday-after-hours-panw-ulta-gtlb?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4600326-ideaya-work-roche-combo-pancreatic-cancer-treatment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "GraniteShares Autocallable PLTR ETF declares $0.4209 dividend",
+        "title": "Small-cap REIT stocks split in May: NTST tops most-shorted list, BXDC ranks least shorted",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T20:22:16.000Z",
-        "tickers": [
-          "PLTR"
-        ],
-        "url": "https://seekingalpha.com/news/4600008-graniteshares-autocallable-pltr-etf-declares-0_4209-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Arista Networks, Inc. (ANET) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:21:55.000Z",
+        "publishedAt": "2026-06-03T15:08:50.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911102-arista-networks-inc-anet-presents-at-46th-annual-william-blair-growth-stock-conference?source=feed_all_articles"
+        "url": "https://seekingalpha.com/news/4600307-small-cap-reit-stocks-split-in-may-ntst-tops-most-shorted-list-bxdc-ranks-least-shorted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "First Industrial Realty Trust, Inc. (FR) Presents at Nareit REITweek: 2026 Investor Conference Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:21:54.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911151-first-industrial-realty-trust-inc-fr-presents-at-nareit-reitweek-2026-investor-conference?source=feed_all_articles"
-      },
-      {
-        "title": "SharkNinja, Inc. (SN) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:21:51.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911141-sharkninja-inc-sn-presents-at-46th-annual-william-blair-growth-stock-conference-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "TETRA Technologies slides after launching $100M public stock offering",
+        "title": "Nvidia CEO says only 'some crazy person' fails to see ROI from AI investments: report",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T20:21:06.000Z",
+        "publishedAt": "2026-06-03T15:08:39.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4600002-tetra-technologies-slides-after-launching-100m-public-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4600296-nvidia-ceo-says-only-some-crazy-person-fails-to-see-roi-from-ai-investments-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "LendingClub to transfer listing to Nasdaq from NYSE, to change ticker symbol to HAPN",
+        "title": "Polestar: Unfavorable Risk Matrix",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:07:56.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911449-polestar-unfavorable-risk-matrix?source=feed_all_articles"
+      },
+      {
+        "title": "May AI Kill SaaS--But It Will Supercharge ServiceNow's Growth",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:06:21.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911448-may-ai-kill-saasbut-it-will-supercharge-servicenows-growth?source=feed_all_articles"
+      },
+      {
+        "title": "Citi Trends Continues To Impress, But I Maintain That The Price Is Risky",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:05:43.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911447-citi-trends-continues-to-impress-but-i-maintain-that-the-price-is-risky?source=feed_all_articles"
+      },
+      {
+        "title": "ProAssurance gains after winning Pennsylvania approval for sale to Doctors",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T20:21:03.000Z",
+        "publishedAt": "2026-06-03T15:05:04.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4599998-lendingclub-to-transfer-listing-to-nasdaq-from-nyse-to-change-ticker-symbol-to-hapn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4600330-proassurance-gains-after-winning-pennsylvania-approval-for-sale-to-doctors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Earnings Snapshot: Palo Alto Networks issues strong guidance after Q3 double-beat",
+        "title": "Putin approves TotalEnergies' sale of 10% stake in Arctic LNG 2",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T20:20:23.000Z",
+        "publishedAt": "2026-06-03T15:03:47.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4600004-earnings-summary-palo-alto-networks-issues-strong-guidance-after-q3-double-beat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4600324-putin-approves-totalenergies-sale-of-10-percent-stake-in-arctic-lng-2?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Netskope to join Anthropic's Project Glasswing",
+        "title": "Quanta Services: A Great Business, But The Grid Story May Already Be Priced In",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:02:41.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911446-quanta-services-a-great-business-but-the-grid-story-may-already-be-priced-in?source=feed_all_articles"
+      },
+      {
+        "title": "Ollie's Bargain Outlet: Store Openings Drive Growth (Rating Upgrade)",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T15:00:42.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911442-ollies-bargain-outlet-store-openings-drive-growth-rating-upgrade?source=feed_all_articles"
+      },
+      {
+        "title": "AI data center boom lifts construction stocks, led by Sterling Infrastructure",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-02T20:20:04.000Z",
+        "publishedAt": "2026-06-03T14:59:49.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4600005-netskope-to-join-anthropics-project-glasswing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "How To Invest $100,000 In Japanese Stocks",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:15:03.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911124-how-to-invest-100000-in-japanese-stocks?source=feed_all_articles"
-      },
-      {
-        "title": "Fortinet, Inc. (FTNT) Presents at Bank of America 2026 Global Technology Conference Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:11:56.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911117-fortinet-inc-ftnt-presents-at-bank-of-america-2026-global-technology-conference-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Celcuity Inc. (CELC) Discusses VIKTORIA-1 Trial Results for PIK3CA Mutant Advanced Breast Cancer and Gedatolisib Efficacy Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:11:55.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911041-celcuity-inc-celc-discusses-viktoriaminus-1-trial-results-for-pik3ca-mutant-advanced-breast?source=feed_all_articles"
-      },
-      {
-        "title": "EMCOR Group, Inc. (EME) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:11:54.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911083-emcor-group-inc-eme-presents-at-46th-annual-william-blair-growth-stock-conference-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Avnet, Inc. (AVT) Presents at Bank of America 2026 Global Technology Conference Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:11:53.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911104-avnet-inc-avt-presents-at-bank-of-america-2026-global-technology-conference-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Verisk Analytics, Inc. (VRSK) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:11:51.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911074-verisk-analytics-inc-vrsk-presents-at-46th-annual-william-blair-growth-stock-conference?source=feed_all_articles"
-      },
-      {
-        "title": "Outage Outrage For E.W. Scripps: What Investors Need To Know",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:11:39.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911122-outage-outrage-for-ew-scripps-what-investors-need-to-know?source=feed_all_articles"
-      },
-      {
-        "title": "Seagate Technology Holdings plc (STX) Presents at Bank of America 2026 Global Technology Conference Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:01:51.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911128-seagate-technology-holdings-plc-stx-presents-at-bank-of-america-2026-global-technology?source=feed_all_articles"
-      },
-      {
-        "title": "Forget The SpaceX Hype: The #1 Hidden Space Defense Stock To Buy Now",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T20:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911140-forget-the-spacex-hype-the-1-hidden-space-defense-stock-to-buy-now?source=feed_all_articles"
-      },
-      {
-        "title": "HP Inc. (HPQ) Presents at 2026 Evercore Global TMT Conference Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-02T19:51:52.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911103-hp-inc-hpq-presents-at-2026-evercore-global-tmt-conference-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/news/4600325-ai-data-center-boom-lifts-construction-stocks-led-by-sterling-infrastructure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       }
     ],
     "popularItems": [
       {
-        "title": "Credo Just Told The Market Something Bigger Than Earnings",
+        "title": "Turning Out-Of-Favor Real Estate Into Massive Cash Flow",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-02T14:03:05.000Z",
+        "publishedAt": "2026-06-03T11:35:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910957-credo-just-told-the-market-something-bigger-than-earnings?source=feed"
+        "url": "https://seekingalpha.com/article/4911162-turning-out-of-favor-real-estate-into-massive-cash-flow?source=feed"
+      },
+      {
+        "title": "This Market Looks Insane: But It's A Stock Picker's Dream",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-03T11:30:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910529-this-market-looks-insane-its-stock-pickers-dream?source=feed"
+      },
+      {
+        "title": "AMD: The Case Has Changed, Time To Be Bullish (Rating Upgrade)",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-03T08:42:25.000Z",
+        "tickers": [
+          "AMD"
+        ],
+        "url": "https://seekingalpha.com/article/4911296-amd-the-case-has-changed-time-to-be-bullish?source=feed"
+      },
+      {
+        "title": "Microsoft Is Getting Its Mojo Back, And It Could Be The Best Mag 7 Stock In A Recession",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-03T07:56:44.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911284-microsoft-is-getting-its-mojo-back-and-it-could-be-the-best-mag-7-stock-in-a-recession?source=feed"
+      },
+      {
+        "title": "Nebius And The Next Phase Of AI",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-03T04:58:49.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911254-nebius-stock-next-phase-of-ai?source=feed"
+      },
+      {
+        "title": "Forget The SpaceX Hype: The #1 Hidden Space Defense Stock To Buy Now",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-02T20:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911140-forget-the-spacex-hype-the-1-hidden-space-defense-stock-to-buy-now?source=feed"
+      },
+      {
+        "title": "Alphabet: The Market Is Totally Misreading Berkshire's Buy",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-02T17:05:19.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911051-alphabet-the-market-is-totally-misreading-berkshire-buy?source=feed"
+      },
+      {
+        "title": "Celestica Ready To Explode Higher - 2 Reasons",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-02T13:32:46.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910947-celestica-ready-to-explode-higher-2-reasons?source=feed"
       },
       {
         "title": "Why I Stopped Buying VOO And QQQ - And What I Am Buying Instead",
@@ -211,62 +265,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-02T12:13:11.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4910915-stock-market-could-crash-in-june?source=feed"
-      },
-      {
-        "title": "Credo: Post-Earnings Dip Is A Gift As AI Demand Is Insatiable",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-02T11:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910883-credo-post-earnings-dip-is-a-gift-as-ai-demand-is-insatiable?source=feed"
-      },
-      {
-        "title": "Micron: Not A Stock For Ordinary Investors To Chase Today",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-02T07:58:24.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910841-micron-not-a-stock-for-ordinary-investors-to-chase-today?source=feed"
-      },
-      {
-        "title": "S&P 500 Quant Leaders: 5 Top Stocks Averaging 133% Forward EPS Growth",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-01T18:37:06.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910697-s-and-ampp-500-quant-leaders-5-top-stocks-averaging-133-percent-forward-eps-growth?source=feed"
-      },
-      {
-        "title": "The Massive AI Lie: Why I'm Up 25% YTD And Cashing Out",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-01T17:12:40.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910680-the-massive-ai-lie-why-im-up-25-percent-ytd-and-cashing-out?source=feed"
-      },
-      {
-        "title": "I Demand +9% Yields",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-01T11:35:25.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910523-i-demand-plus-9-percent-yields?source=feed"
-      },
-      {
-        "title": "I Wouldn't Dare Buy These 3 Popular Retirement-Wrecker Yield Traps",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-01T11:05:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910531-i-wouldnt-dare-buy-these-3-popular-retirement-wrecker-yield-traps?source=feed"
-      },
-      {
-        "title": "I'm Calling A Bottom For Software - 3 Stocks I'm Buying",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-01T06:57:20.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910521-i-m-calling-a-bottom-for-software-3-stocks-i-m-buying?source=feed"
       }
     ]
   },
