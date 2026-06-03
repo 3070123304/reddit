@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-03T15:23:08.879Z",
+  "generatedAt": "2026-06-03T23:18:18.829Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,167 +21,183 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "IQVIA Holdings Inc. (IQV) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+        "title": "Barry Callebaut AG (BRRLY) Shareholder/Analyst Call - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:22:05.000Z",
+        "publishedAt": "2026-06-03T23:15:37.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911466-iqvia-holdings-inc-iqv-presents-at-jefferies-global-healthcare-conference-2026-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911710-barry-callebaut-ag-brrly-shareholder-analyst-call-slideshow?source=feed_all_articles"
       },
       {
-        "title": "Cognyte Software Ltd. (CGNT) Q1 2027 Earnings Call Transcript",
+        "title": "Tiger Brands Limited 2026 Q2 - Results - Earnings Call Presentation",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:22:03.000Z",
+        "publishedAt": "2026-06-03T23:14:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911460-cognyte-software-ltd-cgnt-q1-2027-earnings-call-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911709-tiger-brands-limited-2026-q2-results-earnings-call-presentation?source=feed_all_articles"
       },
       {
-        "title": "nVent Electric plc (NVT) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
+        "title": "GRAIL, Inc. (GRAL) Shareholder/Analyst Call - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:22:02.000Z",
+        "publishedAt": "2026-06-03T23:13:16.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911496-nvent-electric-plc-nvt-presents-at-46th-annual-william-blair-growth-stock-conference?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911708-grail-inc-gral-shareholder-analyst-call-slideshow?source=feed_all_articles"
       },
       {
-        "title": "Mid-America Apartment Communities, Inc. (MAA) Presents at Nareit REITweek: 2026 Investor Conference Transcript",
+        "title": "NexPoint Residential Trust, Inc. (NXRT) Presents at Nareit REITweek: 2026 Investor Conference - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:22:00.000Z",
+        "publishedAt": "2026-06-03T23:13:02.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911435-mid-america-apartment-communities-inc-maa-presents-at-nareit-reitweek-2026-investor?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911707-nexpoint-residential-trust-inc-nxrt-presents-at-nareit-reitweek-2026-investor-conference?source=feed_all_articles"
       },
       {
-        "title": "Dell Has Become An AI Infrastructure Powerhouse",
+        "title": "Cango Inc. 2026 Q1 - Results - Earnings Call Presentation",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:16:48.000Z",
+        "publishedAt": "2026-06-03T23:12:35.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911458-dell-has-become-an-ai-infrastructure-powerhouse?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911706-cango-inc-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
       },
       {
-        "title": "DiDi Global: Strong Q1 Reinforces Our Long-Term Investment Thesis",
+        "title": "Pets at Home Group Plc 2026 Q4 - Results - Earnings Call Presentation",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:16:00.000Z",
+        "publishedAt": "2026-06-03T23:12:21.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911457-didi-global-strong-q1-reinforces-our-long-term-investment-thesis?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911705-pets-at-home-group-plc-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
       },
       {
-        "title": "Ondas May Be Just Getting Started",
+        "title": "American Tower Corporation (AMT) Presents at Nareit REITweek: 2026 Investor Conference Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:15:00.000Z",
+        "publishedAt": "2026-06-03T23:12:01.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911232-ondas-stock-may-be-just-getting-started?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911652-american-tower-corporation-amt-presents-at-nareit-reitweek-2026-investor-conference?source=feed_all_articles"
       },
       {
-        "title": "BW LPG: The Rally Was Earned, And The Dividend Case Still Holds",
+        "title": "Unilever PLC (UL) Presents at 23rd annual dbAccess Global Consumer Conference Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:12:59.000Z",
+        "publishedAt": "2026-06-03T23:12:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911455-bw-lpg-the-rally-was-earned-and-the-dividend-case-still-holds?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911256-unilever-plc-ul-presents-at-23rd-annual-dbaccess-global-consumer-conference-transcript?source=feed_all_articles"
       },
       {
-        "title": "Most & least shorted mid- to mega-cap REIT stocks: Who tops the screen in May?",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-03T15:09:47.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4600328-most-least-shorted-mid--to-mega-cap-reit-stocks-who-tops-the-screen-in-may?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "IDEAYA to work with Roche on combo pancreatic cancer treatment",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-03T15:09:29.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4600326-ideaya-work-roche-combo-pancreatic-cancer-treatment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Small-cap REIT stocks split in May: NTST tops most-shorted list, BXDC ranks least shorted",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-03T15:08:50.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4600307-small-cap-reit-stocks-split-in-may-ntst-tops-most-shorted-list-bxdc-ranks-least-shorted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Nvidia CEO says only 'some crazy person' fails to see ROI from AI investments: report",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-03T15:08:39.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4600296-nvidia-ceo-says-only-some-crazy-person-fails-to-see-roi-from-ai-investments-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Polestar: Unfavorable Risk Matrix",
+        "title": "Everpure, Inc. (P) Presents at 2026 Evercore Global TMT Conference Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:07:56.000Z",
+        "publishedAt": "2026-06-03T23:11:58.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911449-polestar-unfavorable-risk-matrix?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911684-everpure-inc-p-presents-at-2026-evercore-global-tmt-conference-transcript?source=feed_all_articles"
       },
       {
-        "title": "May AI Kill SaaS--But It Will Supercharge ServiceNow's Growth",
+        "title": "Sound Energy plc (SNEGF) Discusses Balance Sheet Challenges and Rationale Behind Recent Transaction - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:06:21.000Z",
+        "publishedAt": "2026-06-03T23:11:44.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911448-may-ai-kill-saasbut-it-will-supercharge-servicenows-growth?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911701-sound-energy-plc-snegf-discusses-balance-sheet-challenges-and-rationale-behind-recent?source=feed_all_articles"
       },
       {
-        "title": "Citi Trends Continues To Impress, But I Maintain That The Price Is Risky",
+        "title": "Revolution Medicines, Inc. (RVMD) Discusses Positive Clinical Results and Implications for Metastatic Pancreatic Cancer Treatment - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:05:43.000Z",
+        "publishedAt": "2026-06-03T23:11:33.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911447-citi-trends-continues-to-impress-but-i-maintain-that-the-price-is-risky?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911700-revolution-medicines-inc-rvmd-discusses-positive-clinical-results-and-implications-for?source=feed_all_articles"
       },
       {
-        "title": "ProAssurance gains after winning Pennsylvania approval for sale to Doctors",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-03T15:05:04.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4600330-proassurance-gains-after-winning-pennsylvania-approval-for-sale-to-doctors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Putin approves TotalEnergies' sale of 10% stake in Arctic LNG 2",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-03T15:03:47.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4600324-putin-approves-totalenergies-sale-of-10-percent-stake-in-arctic-lng-2?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Quanta Services: A Great Business, But The Grid Story May Already Be Priced In",
+        "title": "Equillium, Inc. (EQ) Discusses Mechanistic Insights Linking AhR Signaling and miR-124 in Inflammatory Disease - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:02:41.000Z",
+        "publishedAt": "2026-06-03T23:11:12.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911446-quanta-services-a-great-business-but-the-grid-story-may-already-be-priced-in?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911699-equillium-inc-eq-discusses-mechanistic-insights-linking-ahr-signaling-and-mirminus-124-in?source=feed_all_articles"
       },
       {
-        "title": "Ollie's Bargain Outlet: Store Openings Drive Growth (Rating Upgrade)",
+        "title": "TTM Technologies, Inc. (TTMI) Analyst/Investor Day - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T15:00:42.000Z",
+        "publishedAt": "2026-06-03T23:09:16.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911442-ollies-bargain-outlet-store-openings-drive-growth-rating-upgrade?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911698-ttm-technologies-inc-ttmi-analyst-investor-day-slideshow?source=feed_all_articles"
       },
       {
-        "title": "AI data center boom lifts construction stocks, led by Sterling Infrastructure",
-        "source": "All News",
+        "title": "Chevron Corporation (CVX) Presents at Bernstein 42nd Annual Strategic Decisions Conference - Slideshow",
+        "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-03T14:59:49.000Z",
+        "publishedAt": "2026-06-03T23:07:49.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4600325-ai-data-center-boom-lifts-construction-stocks-led-by-sterling-infrastructure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/article/4911697-chevron-corporation-cvx-presents-at-bernstein-42nd-annual-strategic-decisions-conference?source=feed_all_articles"
+      },
+      {
+        "title": "Merck KGaA (MKKGY) Presents at DbAccess European Champions Conference 2026 - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T23:06:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911696-merck-kgaa-mkkgy-presents-at-dbaccess-european-champions-conference-2026-slideshow?source=feed_all_articles"
+      },
+      {
+        "title": "ePlus inc. 2026 Q4 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T23:03:06.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911695-eplus-inc-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "Netskope, Inc. 2027 Q1 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T23:02:22.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911694-netskope-inc-2027-q1-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "Vienna Insurance Group AG 2026 Q1 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T23:02:11.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911693-vienna-insurance-group-ag-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "Formycon AG 2026 Q1 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T23:01:54.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911691-formycon-ag-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "Adeka Corporation 2026 Q4 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-03T23:01:42.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911690-adeka-corporation-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
       }
     ],
     "popularItems": [
+      {
+        "title": "A Free Peek Inside The Quant Growth & Income Portfolio: 3 Top Stocks",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-03T17:30:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911172-a-free-peek-inside-the-quant-growth-and-income-portfolio-3-top-stocks?source=feed"
+      },
+      {
+        "title": "Micron: Stop Playing Musical Chairs And Take A Seat",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-03T14:30:47.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911437-micron-stop-playing-musical-chairs-and-take-a-seat?source=feed"
+      },
       {
         "title": "Turning Out-Of-Favor Real Estate Into Massive Cash Flow",
         "source": "Most Popular",
@@ -199,30 +215,20 @@ window.redditHotStocksData = {
         "url": "https://seekingalpha.com/article/4910529-this-market-looks-insane-its-stock-pickers-dream?source=feed"
       },
       {
-        "title": "AMD: The Case Has Changed, Time To Be Bullish (Rating Upgrade)",
+        "title": "Too Hot To Buy, Too Risky To Sell",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-03T08:42:25.000Z",
-        "tickers": [
-          "AMD"
-        ],
-        "url": "https://seekingalpha.com/article/4911296-amd-the-case-has-changed-time-to-be-bullish?source=feed"
+        "publishedAt": "2026-06-03T10:25:54.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911329-too-hot-to-buy-too-risky-to-sell?source=feed"
       },
       {
-        "title": "Microsoft Is Getting Its Mojo Back, And It Could Be The Best Mag 7 Stock In A Recession",
+        "title": "Fasten Your Seatbelt",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-03T07:56:44.000Z",
+        "publishedAt": "2026-06-02T21:21:12.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911284-microsoft-is-getting-its-mojo-back-and-it-could-be-the-best-mag-7-stock-in-a-recession?source=feed"
-      },
-      {
-        "title": "Nebius And The Next Phase Of AI",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-03T04:58:49.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911254-nebius-stock-next-phase-of-ai?source=feed"
+        "url": "https://seekingalpha.com/article/4911147-fasten-your-seatbelt?source=feed"
       },
       {
         "title": "Forget The SpaceX Hype: The #1 Hidden Space Defense Stock To Buy Now",
@@ -257,14 +263,6 @@ window.redditHotStocksData = {
           "QQQ"
         ],
         "url": "https://seekingalpha.com/article/4910686-why-i-stopped-buying-voo-and-qqq-and-what-i-am-buying-instead?source=feed"
-      },
-      {
-        "title": "Stock Market Could Crash In June",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-02T12:13:11.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910915-stock-market-could-crash-in-june?source=feed"
       }
     ]
   },
