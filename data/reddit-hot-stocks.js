@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-04T19:52:18.562Z",
+  "generatedAt": "2026-06-05T00:21:44.171Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,164 +21,164 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "PayPay to acquire 70% of T&D Financial Life Insurance",
+        "title": "Columbia Overseas Value Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-05T00:20:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912207-columbia-overseas-value-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "ISM Services PMI: Continued Expansion In May",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-05T00:15:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912205-ism-services-pmi-continued-expansion-in-may?source=feed_all_articles"
+      },
+      {
+        "title": "Forvia SE (FAURY) Shareholder/Analyst Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-05T00:12:57.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911939-forvia-se-faury-shareholder-analyst-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Virtus SGA U.S. Large Cap Growth Portfolio Q1 2026: Fundamentals And Execution Remains Strong",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-05T00:05:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912204-virtus-sga-us-large-cap-growth-portfolio-q1-2026-fundamentals-and-execution-remains-strong?source=feed_all_articles"
+      },
+      {
+        "title": "lululemon athletica inc. (LULU) Q1 2027 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-05T00:02:54.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912158-lululemon-athletica-inc-lulu-q1-2027-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Virtus SGA U.S. Large Cap Growth Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-04T23:56:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912200-virtus-sga-us-large-cap-growth-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "C3.ai: Struggling To Compete In AI",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-04T23:54:38.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912171-c3ai-struggling-to-compete-in-ai?source=feed_all_articles"
+      },
+      {
+        "title": "Robinhood Markets, Inc. (HOOD) Presents at Piper Sandler Global Exchange and Fintech Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-04T23:52:54.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912149-robinhood-markets-inc-hood-presents-at-piper-sandler-global-exchange-and-fintech-conference?source=feed_all_articles"
+      },
+      {
+        "title": "Argan anticipates adding new projects over the next 10 to 18 months while buyback authorization rises to $200M",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-04T19:50:33.000Z",
+        "publishedAt": "2026-06-04T23:33:40.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4600823-paypay-to-acquire-70-percent-of-t-and-d-financial-life-insurance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4600896-argan-anticipates-adding-new-projects-over-the-next-10-to-18-months-while-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Ecopetrol cut at Citi as political risk has been partially re-priced",
+        "title": "Argan, Inc. (AGX) Q1 2027 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-04T23:32:55.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912160-argan-inc-agx-q1-2027-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "CRISPR Therapeutics AG (CRSP) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-04T23:32:53.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912195-crispr-therapeutics-ag-crsp-presents-at-46th-annual-william-blair-growth-stock-conference?source=feed_all_articles"
+      },
+      {
+        "title": "Chinese oil imports at near-decade low helping tamp down global crude prices",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-04T19:50:24.000Z",
+        "publishedAt": "2026-06-04T23:25:17.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4600824-ecopetrol-cut-at-citi-as-political-risk-has-been-partially-re-priced?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4600891-chinese-oil-imports-at-near-decade-low-helping-tamp-down-crude-prices?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Datadog Is Becoming Too Important To Ignore",
+        "title": "ResMed Inc. (RMD) Presents At 46th Annual William Blair Growth Stock Conference Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-04T19:48:54.000Z",
+        "publishedAt": "2026-06-04T23:23:41.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912118-datadog-is-becoming-too-important-to-ignore?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911212-resmed-inc-rmd-presents-at-46th-annual-william-blair-growth-stock-conference-transcript?source=feed_all_articles"
       },
       {
-        "title": "Mexco Energy declares $0.10 dividend",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-04T19:45:03.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4600829-mexco-energy-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "International Flavors & Fragrances: Not The Best Investment Anymore",
+        "title": "USA Compression Partners, LP Common Units (USAC) Presents at RBC Capital Markets Global Energy, Power & Infrastructure Conference 2026 - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-04T19:43:53.000Z",
+        "publishedAt": "2026-06-04T23:19:46.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912117-international-flavors-and-fragrances-not-best-investment-anymore?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912193-usa-compression-partners-lp-common-units-usac-presents-at-rbc-capital-markets-global-energy?source=feed_all_articles"
       },
       {
-        "title": "Five Below: When Great Isn't Enough",
+        "title": "Celcuity Inc. (CELC) Discusses VIKTORIA-1 Trial Results for PIK3CA Mutant Advanced Breast Cancer and Gedatolisib Efficacy - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-04T19:40:32.000Z",
+        "publishedAt": "2026-06-04T23:19:10.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912115-five-below-when-great-isnt-enough?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912192-celcuity-inc-celc-discusses-viktoriaminus-1-trial-results-for-pik3ca-mutant-advanced-breast?source=feed_all_articles"
       },
       {
-        "title": "DHI Group, Inc. (DHX) Presents at Noble Capital Markets June 2026 Emerging Growth Virtual Equity Conference - Slideshow",
+        "title": "Hiab Oyj (CYJBY) Labrie Environmental Group, LLC - M&A Call - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-04T19:33:16.000Z",
+        "publishedAt": "2026-06-04T23:18:39.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912127-dhi-group-inc-dhx-presents-at-noble-capital-markets-june-2026-emerging-growth-virtual-equity?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912191-hiab-oyj-cyjby-labrie-environmental-group-llc-m-and-a-call-slideshow?source=feed_all_articles"
       },
       {
-        "title": "Viking Therapeutics, Inc. (VKTX) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+        "title": "Merck & Co., Inc. (MRK) Discusses Oncology Strategy and Program Update With Focus on Clinical Progress and Pipeline Diversification - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-04T19:32:55.000Z",
+        "publishedAt": "2026-06-04T23:18:26.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912124-viking-therapeutics-inc-vktx-presents-at-jefferies-global-healthcare-conference-2026?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912190-merck-and-co-inc-mrk-discusses-oncology-strategy-and-program-update-with-focus-on-clinical?source=feed_all_articles"
       },
       {
-        "title": "Boralex Inc. (BLX:CA) Shareholder/Analyst Call Prepared Remarks Transcript",
+        "title": "Coty Inc. (COTY) Presents at TD Cowen 10th Annual Future of the Consumer Conference - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-04T19:32:54.000Z",
+        "publishedAt": "2026-06-04T23:17:41.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912040-boralex-inc-blx-ca-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912189-coty-inc-coty-presents-at-td-cowen-10th-annual-future-of-the-consumer-conference-slideshow?source=feed_all_articles"
       },
       {
-        "title": "Jobs picture looks solid ahead of the May nonfarm payrolls report on Friday",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-04T19:31:44.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4600811-jobs-picture-looks-solid-ahead-of-the-may-nonfarm-payrolls-report-on-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "EHang shares fall after UBS downgrade on slower-than-expected commercial progress",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-04T19:23:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4600821-ehang-shares-fall-after-ubs-downgrade-on-slower-than-expected-commercial-progress?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "ZOO Digital Group plc (ZDGGF) Shareholder/Analyst Call Transcript",
+        "title": "Mesoblast Limited (MESO) Presents at ASX CEO Connect June 2026 - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-04T19:22:58.000Z",
+        "publishedAt": "2026-06-04T23:17:14.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912080-zoo-digital-group-plc-zdggf-shareholder-analyst-call-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912188-mesoblast-limited-meso-presents-at-asx-ceo-connect-june-2026-slideshow?source=feed_all_articles"
       },
       {
-        "title": "Elastic N.V. (ESTC) Presents at Bank of America 2026 Global Technology Conference Transcript",
+        "title": "Elevra Lithium Limited (ELVR) Presents at ASX CEO Connect June 2026 - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-04T19:22:56.000Z",
+        "publishedAt": "2026-06-04T23:16:58.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912094-elastic-n-v-estc-presents-at-bank-of-america-2026-global-technology-conference-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "SpaceX AI-related revenue expected to jump 100 times by 2030: report",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-04T19:15:02.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4600816-spacex-ai-related-revenue-expected-to-jump-100-times-by-2030-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Market Volatility At 40 Vs. 65: What Changes",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-04T19:15:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912119-market-volatility-at-40-vs-65-what-changes?source=feed_all_articles"
-      },
-      {
-        "title": "Qantas is said to weigh wide-body jet order as Airbus and Boeing vie for deal",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-04T19:13:24.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4600818-qantas-is-said-to-weigh-wide-body-jet-order-as-airbus-and-boeing-vie-for-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Credo Technology Group Holding Ltd (CRDO) Presents at Bank of America 2026 Global Technology Conference Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-04T19:12:56.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912092-credo-technology-group-holding-ltd-crdo-presents-at-bank-of-america-2026-global-technology?source=feed_all_articles"
-      },
-      {
-        "title": "GitLab Inc. (GTLB) Presents at Bank of America 2026 Global Technology Conference Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-04T19:12:55.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912110-gitlab-inc-gtlb-presents-at-bank-of-america-2026-global-technology-conference-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Core Holdings, Educated Guesses, And Falling Knives",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-04T19:12:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912111-core-holdings-educated-guesses-falling-knives?source=feed_all_articles"
-      },
-      {
-        "title": "Nvidia: I Do Not Fear The AI Bubble Yet",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-04T19:06:58.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912109-nvidia-i-do-not-fear-the-ai-bubble-yet?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912187-elevra-lithium-limited-elvr-presents-at-asx-ceo-connect-june-2026-slideshow?source=feed_all_articles"
       }
     ],
     "popularItems": [
@@ -199,20 +199,20 @@ window.redditHotStocksData = {
         "url": "https://seekingalpha.com/article/4911956-why-alphabets-85b-stock-sale-is-a-game-changer?source=feed"
       },
       {
+        "title": "Time To Take Some Chips Off The Table",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-04T12:09:06.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911901-time-to-take-some-chips-off-the-table?source=feed"
+      },
+      {
         "title": "A Rare Opportunity To Buy Dirt Cheap Sustainable 8-12% Yields",
         "source": "Most Popular",
         "summary": "",
         "publishedAt": "2026-06-04T11:05:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4911841-rare-opportunity-to-buy-dirt-cheap-sustainable-8-12-percent-yields?source=feed"
-      },
-      {
-        "title": "Broadcom Q2: Undervalued After The Post-Earnings Selloff (Rating Downgrade)",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-04T09:26:48.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911847-broadcom-q2-undervalued-after-the-post-earnings-selloff?source=feed"
       },
       {
         "title": "Sandisk: The Valuation Gap With Micron Looks Excessive",
