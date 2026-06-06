@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-06T19:59:08.304Z",
+  "generatedAt": "2026-06-06T23:48:19.564Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -20,6 +20,62 @@ window.redditHotStocksData = {
       "Editor Picks"
     ],
     "items": [
+      {
+        "title": "Mitsui Chemicals, Inc. 2026 Q4 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-06T23:16:59.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912640-mitsui-chemicals-inc-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "Miura Co., Ltd. 2026 Q4 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-06T23:16:28.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912639-miura-co-ltd-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "The Vita Coco Company, Inc. (COCO) Presents at 46th Annual William Blair Growth Stock Conference - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-06T23:13:34.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912638-the-vita-coco-company-inc-coco-presents-at-46th-annual-william-blair-growth-stock-conference?source=feed_all_articles"
+      },
+      {
+        "title": "G City Ltd 2026 Q1 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-06T23:08:11.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912637-g-city-ltd-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "SRS Holdings Co.,Ltd. 2026 Q4 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-06T23:01:16.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912636-srs-holdings-co-ltd-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "Riyadh Air receives first Boeing 787 Dreamliners ahead of service launch",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-06T21:51:47.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4601218-riyadh-air-receives-first-boeing-787-dreamliners-ahead-of-service-launch?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Eli Lilly reports broad benefits for experimental obesity drug retatrutide",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-06T21:37:02.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4601217-eli-lilly-reports-broad-benefits-for-experimental-obesity-drug-retatrutide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
       {
         "title": "Senseonics Holdings, Inc. (SENS) Shareholder/Analyst Call Transcript",
         "source": "Latest Articles",
@@ -69,28 +125,12 @@ window.redditHotStocksData = {
         "url": "https://seekingalpha.com/news/4601212-marvell-stock-flex-stock-join-sp-500?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Real estate stocks shine as traders switch to defensives from tech",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-06T16:00:10.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4601206-real-estate-stocks-shine-as-traders-switch-to-defensives-from-tech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
         "title": "Oracle: Next Level Up",
         "source": "Latest Articles",
         "summary": "",
         "publishedAt": "2026-06-06T15:45:01.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4912633-oracle-next-level-up?source=feed_all_articles"
-      },
-      {
-        "title": "In-N-Out Burger: The hamburger chain with a cult following and simple model",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-06T15:16:28.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4601210-in-n-out-burger-the-hamburger-chain-with-a-cult-following-and-simple-model?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
         "title": "Investors To Watch Out For Oracle, Adobe Earnings Next Week",
@@ -139,46 +179,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-06T14:36:15.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4912627-viasat-real-catalysts-but-not-enough-margin-of-safety?source=feed_all_articles"
-      },
-      {
-        "title": "IDT Corporation: A Better Mix With Good Long-Term Potential",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-06T14:30:50.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912621-idt-corporation-a-better-mix-with-good-long-term-potential?source=feed_all_articles"
-      },
-      {
-        "title": "The Withdrawal Trap: Why Paper Wealth Fails Retirees",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-06T14:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912360-the-withdrawal-trap-why-paper-wealth-fails-retirees?source=feed_all_articles"
-      },
-      {
-        "title": "Torrid's Expected 14% FCF Yield Is Fair For A Falling Knife Retailer",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-06T14:17:26.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912626-torrids-expected-14-percent-fcf-yield-is-fair-for-a-falling-knife-retailer?source=feed_all_articles"
-      },
-      {
-        "title": "Ellington Financial: A Diversified Mortgage REIT That Saw Q1 Loans And Earnings Grow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-06T14:07:31.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912625-ellington-financial-a-diversified-mortgage-reit-that-saw-q1-loans-and-earnings-grow?source=feed_all_articles"
-      },
-      {
-        "title": "Rolls-Royce: The Strong Forward Trajectory",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-06T14:00:17.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912624-rolls-royce-the-strong-forward-trajectory?source=feed_all_articles"
       }
     ],
     "popularItems": [
