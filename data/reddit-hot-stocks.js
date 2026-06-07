@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-06T23:48:19.564Z",
+  "generatedAt": "2026-06-07T10:17:54.369Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,167 +21,207 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Mitsui Chemicals, Inc. 2026 Q4 - Results - Earnings Call Presentation",
+        "title": "ASE Technology: No Longer Just An OSAT, The LEAP Ramp Changes Everything",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T23:16:59.000Z",
+        "publishedAt": "2026-06-07T09:56:36.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912640-mitsui-chemicals-inc-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912674-ase-technology-no-longer-just-osat-leap-ramp-changes-everything?source=feed_all_articles"
       },
       {
-        "title": "Miura Co., Ltd. 2026 Q4 - Results - Earnings Call Presentation",
+        "title": "AutoNation: The Ride Could Get Bumpy, But That Doesn't Change The Opportunity",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T23:16:28.000Z",
+        "publishedAt": "2026-06-07T09:55:02.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912639-miura-co-ltd-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912673-autonation-the-ride-could-get-bumpy-but-that-doesnt-change-the-opportunity?source=feed_all_articles"
       },
       {
-        "title": "The Vita Coco Company, Inc. (COCO) Presents at 46th Annual William Blair Growth Stock Conference - Slideshow",
+        "title": "Two-Month Market Rally: What Comes Next?",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T23:13:34.000Z",
+        "publishedAt": "2026-06-07T09:45:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912638-the-vita-coco-company-inc-coco-presents-at-46th-annual-william-blair-growth-stock-conference?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912675-2-month-market-rally-what-comes-next?source=feed_all_articles"
       },
       {
-        "title": "G City Ltd 2026 Q1 - Results - Earnings Call Presentation",
+        "title": "Micron: Robotics Supercycle Meets Fed Rate Hike Risks",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T23:08:11.000Z",
+        "publishedAt": "2026-06-07T09:38:51.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912637-g-city-ltd-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade?source=feed_all_articles"
       },
       {
-        "title": "SRS Holdings Co.,Ltd. 2026 Q4 - Results - Earnings Call Presentation",
+        "title": "The Reasons Why I Believe A Buy Rating Is Not Justified For Clorox (Rating Upgrade)",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T23:01:16.000Z",
+        "publishedAt": "2026-06-07T09:21:20.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912636-srs-holdings-co-ltd-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912667-reasons-why-i-believe-a-buy-rating-is-not-justified-for-clorox?source=feed_all_articles"
       },
       {
-        "title": "Riyadh Air receives first Boeing 787 Dreamliners ahead of service launch",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-06T21:51:47.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4601218-riyadh-air-receives-first-boeing-787-dreamliners-ahead-of-service-launch?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Eli Lilly reports broad benefits for experimental obesity drug retatrutide",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-06T21:37:02.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4601217-eli-lilly-reports-broad-benefits-for-experimental-obesity-drug-retatrutide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Senseonics Holdings, Inc. (SENS) Shareholder/Analyst Call Transcript",
+        "title": "S&P 500: This Is Not A Dip Yet (Rating Downgrade)",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T19:22:53.000Z",
+        "publishedAt": "2026-06-07T08:57:01.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912632-senseonics-holdings-inc-sens-shareholder-analyst-call-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912665-s-and-p-500-this-is-not-a-dip-yet-rating-downgrade?source=feed_all_articles"
       },
       {
-        "title": "Key deals this week: Mobix Labs, MGM Resorts, Cloudflare, and more",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-06T19:15:45.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4601214-key-deals-this-week-mobix-labs-mgm-resorts-cloudflare-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Paramount is ready to divest kids&#x2019; channels to win EU for Warner deal: report",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-06T18:10:06.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4601215-paramount-sell-kids-channels-win-eu-warner-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "SpaceX IPO positioned for an oversubscription &#x200C;rate of two times: Reuters",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-06T17:07:40.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4601213-spacex-ipo-over-two-times-oversubscribed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "SA Asks: What's the most undervalued AI-adjacent stock right now?",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-06T16:30:10.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4601170-sa-asks-whats-the-most-undervalued-ai-adjacent-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Marvell and Flex set to replace Pool and Campbell&#x2019;s in S&P 500",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-06T16:27:37.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4601212-marvell-stock-flex-stock-join-sp-500?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Oracle: Next Level Up",
+        "title": "Credo's Next Growth Phase",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T15:45:01.000Z",
+        "publishedAt": "2026-06-07T08:44:17.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912633-oracle-next-level-up?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912664-credos-next-growth-phase?source=feed_all_articles"
       },
       {
-        "title": "Investors To Watch Out For Oracle, Adobe Earnings Next Week",
+        "title": "Younger Generations Drive Investment Growth In Southeast Asia",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T15:00:00.000Z",
+        "publishedAt": "2026-06-07T08:40:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912450-investors-to-watch-out-for-oracle-adobe-earnings-next-week?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912670-younger-generations-drive-investment-growth-in-southeast-asia?source=feed_all_articles"
       },
       {
-        "title": "Nebius Is Priced For Flawless Delivery",
+        "title": "This Week's Market Wrap: AI Ups And Downs, Oil Roars Back, And Strong Data",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T14:59:52.000Z",
+        "publishedAt": "2026-06-07T08:20:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912631-nebius-is-priced-for-flawless-delivery?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912666-market-wrap-ai-ups-downs-oil-roars-back-strong-data?source=feed_all_articles"
       },
       {
-        "title": "XIC:CA: Ready To Surge Once The Oil Market Breaks",
+        "title": "Drifting In The Same Lane: The Convergence Of Porsche And Ferrari",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T14:44:27.000Z",
+        "publishedAt": "2026-06-07T07:33:27.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912630-xicca-ready-to-surge-once-the-oil-market-breaks?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912661-drifting-in-the-same-lane-the-convergence-of-porsche-and-ferrari?source=feed_all_articles"
       },
       {
-        "title": "May Jobs Report: Same, But Different",
+        "title": "Week Ahead: Surging Greenback On Robust Jobs Data, While ECB Hike Seen As A Done Deal",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T14:40:24.000Z",
+        "publishedAt": "2026-06-07T07:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912629-may-jobs-report-same-but-different?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912662-week-ahead-surging-greenback-on-robust-jobs-data-while-ecb-hike-seen-as-done-deal?source=feed_all_articles"
       },
       {
-        "title": "Assurant's High Yield Baby Bonds Are Attractive",
+        "title": "Investor AB: Short-Term Outperformance Masks Fundamental Growth Issues",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T14:40:00.000Z",
+        "publishedAt": "2026-06-07T06:24:23.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4911420-assurant-high-yield-baby-bonds-are-attractive?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912656-investor-ab-short-term-outperformance-masks-fundamental-growth-issues?source=feed_all_articles"
       },
       {
-        "title": "Viasat: Real Catalysts, But Not Enough Margin Of Safety",
+        "title": "Legence: A Home Run",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-06T14:36:15.000Z",
+        "publishedAt": "2026-06-07T05:45:16.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912627-viasat-real-catalysts-but-not-enough-margin-of-safety?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912653-legence-a-home-run?source=feed_all_articles"
+      },
+      {
+        "title": "Coty Inc. (COTY) Presents at TD Cowen 10th Annual Future of the Consumer Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-07T05:42:55.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912659-coty-inc-coty-presents-at-td-cowen-10th-annual-future-of-the-consumer-conference-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "SS&C Technologies Holdings, Inc. (SSNC) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-07T05:03:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912654-ss-and-c-technologies-holdings-inc-ssnc-presents-at-46th-annual-william-blair-growth-stock?source=feed_all_articles"
+      },
+      {
+        "title": "Health Care Flies High",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-07T04:30:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912541-health-care-flies-high?source=feed_all_articles"
+      },
+      {
+        "title": "S&P 500 Snapshot: Sharpest Drop Since April 2025",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-07T04:30:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912555-sp-500-snapshot-sharpest-drop-since-april-2025?source=feed_all_articles"
+      },
+      {
+        "title": "Politics And The Markets 06/07/26",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-07T04:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910470-politics-and-the-markets-060726?source=feed_all_articles"
+      },
+      {
+        "title": "Magnite: Great Start To 2026 Should Drive The Stock's Recovery",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-07T03:48:27.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912652-magnite-great-start-to-2026-should-drive-the-stocks-recovery?source=feed_all_articles"
+      },
+      {
+        "title": "Bonterra Energy: Charlie Lake Is The New Core Area",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-07T03:38:17.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912651-bonterra-energy-charlie-lake-is-the-new-core-area?source=feed_all_articles"
       }
     ],
     "popularItems": [
+      {
+        "title": "Investor AB: Short-Term Outperformance Masks Fundamental Growth Issues",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-07T06:24:23.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912656-investor-ab-short-term-outperformance-masks-fundamental-growth-issues?source=feed"
+      },
+      {
+        "title": "Legence: A Home Run",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-07T05:45:16.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912653-legence-a-home-run?source=feed"
+      },
+      {
+        "title": "Health Care Flies High",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-07T04:30:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912541-health-care-flies-high?source=feed"
+      },
+      {
+        "title": "S&P 500 Snapshot: Sharpest Drop Since April 2025",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-07T04:30:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912555-sp-500-snapshot-sharpest-drop-since-april-2025?source=feed"
+      },
+      {
+        "title": "Politics And The Markets 06/07/26",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-07T04:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910470-politics-and-the-markets-060726?source=feed"
+      },
       {
         "title": "The Withdrawal Trap: Why Paper Wealth Fails Retirees",
         "source": "Most Popular",
@@ -207,12 +247,12 @@ window.redditHotStocksData = {
         "url": "https://seekingalpha.com/article/4912612-i-have-been-patiently-waiting-for-this-market-meltdown?source=feed"
       },
       {
-        "title": "Nvidia: Downgrade To Hold As Earnings Fail To Push Price Higher",
+        "title": "Credo: Optics Ramp, Margin Upside And Bullish Charts Point To More Upside",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-06T10:21:30.000Z",
+        "publishedAt": "2026-06-06T06:56:58.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912599-nvidia-downgrade-to-hold-as-earnings-fail-to-push-price-higher?source=feed"
+        "url": "https://seekingalpha.com/article/4912573-credo-optics-ramp-margin-upside-and-bullish-charts-point-to-more-upside?source=feed"
       },
       {
         "title": "Teeing Up The Next Great Rug Pull",
@@ -221,46 +261,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-06T06:29:59.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4912571-teeing-up-the-next-great-rug-pull?source=feed"
-      },
-      {
-        "title": "Broadcom: A Golden Buying Opportunity",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-05T20:33:25.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912484-broadcom-a-golden-buying-opportunity?source=feed"
-      },
-      {
-        "title": "The Market Is Misreading The May Jobs Report",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-05T17:23:55.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912440-the-market-is-misreading-may-jobs-report?source=feed"
-      },
-      {
-        "title": "Micron: Beware Of The $1 Trillion Bubble",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-05T13:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912157-micron-beware-the-1-trillion-bubble?source=feed"
-      },
-      {
-        "title": "If I Retire Today, These 2 Income Machines Would Be My Top Buys",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-05T12:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911979-if-i-retire-today-these-2-income-machines-would-be-my-top-buys?source=feed"
-      },
-      {
-        "title": "Buy The Chip Dip: 3 Top Semiconductor Stocks",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-05T09:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912161-buy-the-chip-dip-3-top-semiconductor-stocks?source=feed"
       }
     ]
   },
