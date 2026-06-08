@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-07T20:51:20.569Z",
+  "generatedAt": "2026-06-08T12:55:58.917Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,167 +21,207 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "3 Growth & Income Stocks To Buy&#xA0;+ Steve Answers Your Questions",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-07T20:15:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912710-3-growth-and-income-stocks-to-buy-plus-steve-answers-your-questions?source=feed_all_articles"
-      },
-      {
-        "title": "Boeing clears key 777X certification hurdle as FAA approves next flight tests",
+        "title": "US acquiring voluntary equity stakes in AI firms appears manageable: Wedbush",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-07T20:10:45.000Z",
+        "publishedAt": "2026-06-08T12:49:24.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4601255-boeing-clears-key-777x-certification-hurdle-as-faa-approves-next-flight-tests?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4601379-us-acquiring-voluntary-equity-stakes-in-ai-firms-appears-manageable-wedbush?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Iran fires new missile barrages at Israel as ceasefire strains",
+        "title": "Corning jumps as Amazon enters into pact on US-based fiber optics manufacturing",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-07T20:03:02.000Z",
+        "publishedAt": "2026-06-08T12:44:35.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4601254-iran-fires-new-missile-barrages-at-israel-as-ceasefire-strains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4601390-corning-jumps-as-amazon-enters-into-pact-on-us-based-fiber-optics-manufacturing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Boehringer's obesity drug cuts harmful belly and liver fat in late-stage trials",
+        "title": "Ciena plans $2B debt offering in private placement",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-07T19:51:50.000Z",
+        "publishedAt": "2026-06-08T12:43:16.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4601253-boehringers-obesity-drug-cuts-harmful-belly-and-liver-fat-in-late-stage-trials?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4601384-ciena-plans-2b-debt-offering-in-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Wall Street Brunch: SpaceX IPO, WWDC And CPI",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-07T19:51:17.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912706-wall-street-brunch-spacex-ipo-wwdc-and-cpi?source=feed_all_articles"
-      },
-      {
-        "title": "Wall Street Brunch: SpaceX IPO, WWDC And CPI",
-        "source": "Wall Street Breakfast",
-        "summary": "",
-        "publishedAt": "2026-06-07T19:51:17.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912706-wall-street-brunch-spacex-ipo-wwdc-and-cpi?source=feed_tag_wall_st_breakfast"
-      },
-      {
-        "title": "Rethinking Diversification In An AI-Driven World",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-07T19:50:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912708-rethinking-diversification-in-an-ai-driven-world?source=feed_all_articles"
-      },
-      {
-        "title": "Lilly says experimental obesity drug delivered weight loss across all stages of menopause",
+        "title": "Johnson & Johnson to buy Firefly Bio for $1B in cash",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-07T19:36:25.000Z",
+        "publishedAt": "2026-06-08T12:42:12.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4601252-lilly-says-experimental-obesity-drug-delivered-weight-loss-across-all-stages-of-menopause?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4601387-johnson-johnson-to-buy-firefly-bio-for-1b-in-cash?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Big Yellow: The Commodity Of Empty Space Is As Valuable As Ever",
+        "title": "Powerlaw: Private Tech, Public Premium",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-07T19:26:10.000Z",
+        "publishedAt": "2026-06-08T12:40:42.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912705-big-yellow-the-commodity-of-empty-space-is-as-valuable-as-ever?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912842-powerlaw-private-tech-public-premium?source=feed_all_articles"
       },
       {
-        "title": "Goldman Sachs drops 2026 Fed cut call after strong jobs data",
+        "title": "Oil prices trim gains after Iran says it has ended attacks on Israel",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-07T19:22:35.000Z",
+        "publishedAt": "2026-06-08T12:36:39.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4601251-goldman-sachs-drops-2026-fed-cut-call-after-strong-jobs-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4601380-oil-prices-trim-gains-after-iran-says-it-has-ended-attacks-on-israel?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Wealthfront: This Earnings Sell-Off Opens A Great Entry Point (Rating Upgrade)",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-07T19:21:57.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912704-wealthfront-this-earnings-sell-off-opens-a-great-entry-point-rating-upgrade?source=feed_all_articles"
-      },
-      {
-        "title": "Expanding AI Footprint Lifts Moat Stocks",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-07T19:20:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912707-expanding-ai-footprint-lifts-moat-stocks?source=feed_all_articles"
-      },
-      {
-        "title": "U.S. is said to push U.N. nuclear watchdog for answers from Iran on uranium",
+        "title": "MSG shares surge on Knicks Finals run ahead of Trump's expected Game 3 visit",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-07T19:16:38.000Z",
+        "publishedAt": "2026-06-08T12:33:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4601250-u-s-is-said-to-push-u-n-nuclear-watchdog-for-answers-from-iran-on-uranium?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4601382-msg-shares-surge-on-knicks-finals-run-ahead-of-trumps-expected-game-3-visit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Bybit launches tokenized IPO platform with SpaceX debut",
+        "title": "These 3 consumer staples stocks continue to show strong Quant momentum",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-07T19:03:42.000Z",
+        "publishedAt": "2026-06-08T12:32:01.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4601249-bybit-launches-tokenized-ipo-platform-with-spacex-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4601365-these-3-consumer-staples-stocks-continue-to-show-strong-quant-momentum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Virtus Large Cap Growth SMA Q1 2026 Commentary",
+        "title": "Dividend Harvesting Portfolio Week 275: $27,500 Allocated, $3,056.45 In Projected Dividends",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-07T18:51:00.000Z",
+        "publishedAt": "2026-06-08T12:30:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912703-virtus-large-cap-growth-sma-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912729-dividend-harvesting-portfolio-week-275-27500-allocated-3056-45-in-projected-dividends?source=feed_all_articles"
       },
       {
-        "title": "Weitz Ultra Short Government Fund Q1 2026 Commentary",
+        "title": "Realty Income: As AI Euphoria Cools, Income May Shine Again",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-07T18:35:00.000Z",
+        "publishedAt": "2026-06-08T12:29:17.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912702-weitz-ultra-short-government-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912839-realty-income-stock-as-ai-euphoria-cools-income-may-shine-again?source=feed_all_articles"
       },
       {
-        "title": "Voya Corporate Leaders Trust Fund B Q1 2026 Commentary",
+        "title": "AH Realty Trust: Rebrand Attracts Bulls To This Diversified Retail/Office REIT",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-07T18:27:00.000Z",
+        "publishedAt": "2026-06-08T12:29:14.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912701-voya-corporate-leaders-trust-fund-b-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912838-ah-realty-trust-reit-rebrand-attracts-bulls-to-this-diversified-retailoffice-reit?source=feed_all_articles"
       },
       {
-        "title": "Thornburg Global Opportunities Fund Q1 2026 Commentary",
+        "title": "MetLife: Not Exciting, But It Works",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-07T18:19:00.000Z",
+        "publishedAt": "2026-06-08T12:27:50.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912700-thornburg-global-opportunities-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912837-metlife-not-exciting-but-it-works?source=feed_all_articles"
       },
       {
-        "title": "Skeena Resources: A Construction Re-Rate Hidden Inside A Precious Metals Developer",
+        "title": "Temenos AG (TMSNY) M&A Call Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-07T16:50:30.000Z",
+        "publishedAt": "2026-06-08T12:26:39.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912699-skeena-resources-a-construction-re-rate-hidden-inside-a-precious-metals-developer?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912831-temenos-ag-tmsny-m-and-a-call-transcript?source=feed_all_articles"
       },
       {
-        "title": "Touchstone Dividend Equity Fund Q1 2026 Commentary",
+        "title": "Adobe: Buybacks Are The Only Answer In Upcoming Earnings (Rating Downgrade)",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-07T15:45:00.000Z",
+        "publishedAt": "2026-06-08T12:21:32.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4912698-touchstone-dividend-equity-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4912835-adobe-buybacks-are-the-only-answer-in-upcoming-earnings-rating-downgrade?source=feed_all_articles"
+      },
+      {
+        "title": "Equity Supply Surge: What Historically Comes Next",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-08T12:21:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912836-equity-supply-surge-what-historically-comes-next?source=feed_all_articles"
+      },
+      {
+        "title": "Nuvation Bio: Buy The Ibtrozi Launch (Rating Upgrade)",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-08T12:15:49.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912813-nuvation-bio-stock-buy-ibtrozi-launch-rating-upgrade?source=feed_all_articles"
+      },
+      {
+        "title": "Centrus: Falling Earnings Outlook Makes It Hard To Buy The Dip",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-08T12:15:30.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912803-centrus-stock-falling-earnings-outlook-makes-it-hard-to-buy-dip?source=feed_all_articles"
+      },
+      {
+        "title": "Broadcom: The Market Overreacted To Great Earnings, And I Started A Position",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-08T12:15:22.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912774-broadcom-stock-market-overreacted-to-great-earnings-i-started-position?source=feed_all_articles"
+      },
+      {
+        "title": "X-Energy, Inc. (XE) Q1 2026 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-08T12:06:40.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912845-x-energy-inc-xe-q1-2026-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Momentum Group Limited (MMTHF) Analyst/Investor Day Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-08T12:06:39.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912129-momentum-group-limited-mmthf-analyst-investor-day-transcript?source=feed_all_articles"
       }
     ],
     "popularItems": [
+      {
+        "title": "ASML: Three Risks The Market Is Completely Ignoring",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-08T08:50:12.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912797-asml-three-risks-the-market-is-completely-ignoring?source=feed"
+      },
+      {
+        "title": "Google TPU V8 Vs. Nvidia: How Inference Is Rewriting The AI Market",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-08T07:49:14.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912784-google-tpu-v8-vs-nvidia-how-inference-is-rewriting-the-ai-market?source=feed"
+      },
+      {
+        "title": "Boeing And Lockheed: SpaceX Hype Isn't Needed For These Buys",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-08T07:38:59.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912782-boeing-and-lockheed-spacex-hype-isnt-needed-for-these-buys?source=feed"
+      },
+      {
+        "title": "A Critical Week For The Markets Ahead",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-08T05:46:18.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912765-a-critical-week-for-the-markets-ahead?source=feed"
+      },
+      {
+        "title": "SaaS-Pocalypse",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-08T04:55:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4912768-saas-pocalypse?source=feed"
+      },
       {
         "title": "Mega Dividends And Growth: Win Big With Up To 11% Yield",
         "source": "Most Popular",
@@ -221,46 +261,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-07T08:44:17.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4912664-credos-next-growth-phase?source=feed"
-      },
-      {
-        "title": "The Withdrawal Trap: Why Paper Wealth Fails Retirees",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-06T14:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912360-the-withdrawal-trap-why-paper-wealth-fails-retirees?source=feed"
-      },
-      {
-        "title": "Two 11%+ Dividends That Belong In Any Retirement Portfolio",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-06T13:15:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4911948-two-11-percent-plus-dividends-that-belong-in-any-retirement-portfolio?source=feed"
-      },
-      {
-        "title": "I Have Been Patiently Waiting For This Market Meltdown",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-06T12:35:39.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912612-i-have-been-patiently-waiting-for-this-market-meltdown?source=feed"
-      },
-      {
-        "title": "After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-06T12:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912432-after-40-percent-gain-in-10-weeks-where-does-sp-tech-index-go-from-here?source=feed"
-      },
-      {
-        "title": "Teeing Up The Next Great Rug Pull",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-06T06:29:59.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4912571-teeing-up-the-next-great-rug-pull?source=feed"
       }
     ]
   },
