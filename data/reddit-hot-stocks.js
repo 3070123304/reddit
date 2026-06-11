@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-11T12:36:09.600Z",
+  "generatedAt": "2026-06-11T21:34:24.484Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,190 +21,198 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Initial jobless claims unexpectedly rise in past week",
+        "title": "Maris-Tech regains compliance with Nasdaq equity requirement",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-11T12:33:12.000Z",
+        "publishedAt": "2026-06-11T21:26:59.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602560-initial-jobless-claims-unexpectedly-rise-in-past-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4602807-maris-tech-regain-compliance-with-nasdaq-equity-requirement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "JPIE: Low-Duration Fixed Income With Above-Treasury Yield",
+        "title": "Nike: 29 Times Earnings And Negative Guidance",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-11T12:31:51.000Z",
+        "publishedAt": "2026-06-11T21:25:03.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914173-jpie-low-duration-fixed-income-with-above-treasury-yield?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914355-nike-29-times-earnings-and-negative-guidance?source=feed_all_articles"
       },
       {
-        "title": "Under Armour: No Reason To Be Bullish At This Point",
+        "title": "AAII Sentiment Survey: Pessimism Surges",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-11T12:30:51.000Z",
+        "publishedAt": "2026-06-11T21:24:31.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914171-under-armour-no-reason-to-be-bullish-at-this-point?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914354-aaii-sentiment-survey-pessimism-surges?source=feed_all_articles"
       },
       {
-        "title": "PFFA: Attractive Yield As The Fed Stays Put",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-11T12:30:47.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914046-pffa-attractive-yield-as-the-fed-stays-put?source=feed_all_articles"
-      },
-      {
-        "title": "Modiv declares $0.10 dividend",
+        "title": "Precision Peptide Company plans private placement to raise up to $2M",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-11T12:30:34.000Z",
+        "publishedAt": "2026-06-11T21:23:49.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602563-modiv-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4602803-precision-peptide-company-plans-private-placement-to-raise-up-to-2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Navan's Q1 Growth Impresses, But Valuation Is Very Expensive",
+        "title": "Nintech Mould Factory Seeks Pricey IPO On Falling Margins",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-11T12:30:01.000Z",
+        "publishedAt": "2026-06-11T21:23:08.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914170-navan-q1-earnings-growth-impresses-but-valuation-is-very-expensive?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914353-nintech-mould-factory-seeks-pricey-ipo-on-falling-margins?source=feed_all_articles"
       },
       {
-        "title": "Super Micro Computer's $7B Plan Is A Red Flag",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-11T12:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914136-super-micro-computers-7b-plan-is-a-red-flag?source=feed_all_articles"
-      },
-      {
-        "title": "ATWEC Technologies appoints new CEO",
+        "title": "Laser Photonics GAAP EPS of -$0.11, revenue of $0.9M",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-11T12:27:12.000Z",
+        "publishedAt": "2026-06-11T21:17:56.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602562-atwec-technologies-appoints-new-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4602806-laser-photonics-gaap-eps-of-0_11-revenue-of-0_9m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "VNM: The Gulf War Puts A Spanner In The Works",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-11T12:25:38.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914169-vnm-the-gulf-war-puts-a-spanner-in-the-works?source=feed_all_articles"
-      },
-      {
-        "title": "Energy Fuels expects to hit full-year uranium production target by mid-year",
+        "title": "Broadstone net lease adds Tesla project to development pipeline",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-11T12:23:40.000Z",
+        "publishedAt": "2026-06-11T21:16:06.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602548-energy-fuels-expects-to-hit-full-year-uranium-production-target-by-mid-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4602804-broadstone-net-lease-adds-tesla-project-to-development-pipeline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Best Buy: Rating Downgrade As I Await More Evidence That Earnings Growth Can Accelerate",
+        "title": "Trump's AI Dividend: Public Payoff Or Preemptive Tech Bailout?",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-11T12:23:36.000Z",
+        "publishedAt": "2026-06-11T21:15:31.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914168-best-buy-rating-downgrade-as-i-await-more-evidence-that-earnings-growth-can-accelerate?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914301-trumps-ai-dividend-public-payoff-or-preemptive-tech-bailout?source=feed_all_articles"
       },
       {
-        "title": "Target shareholders vote to keep Cornell as exec chairman",
+        "title": "Lennar Q2 GAAP earnings meet, revenue misses; full-year deliveries guidance trimmed",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-11T12:22:27.000Z",
+        "publishedAt": "2026-06-11T21:15:10.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602544-target-shareholders-vote-to-keep-cornell-as-exec-chairman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4602789-lennar-q2-gaap-earnings-meet-revenue-misses-full-year-deliveries-guidance-trimmed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Evolv Technologies Holdings, Inc. (EVLV) Analyst/Investor Day Prepared Remarks Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-11T12:22:11.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914196-evolv-technologies-holdings-inc-evlv-analyst-investor-day-prepared-remarks-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Elevance Health, Inc. (ELV) Presents at Goldman Sachs 47th Annual Global Healthcare Conference 2026 Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-11T12:22:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914192-elevance-health-inc-elv-presents-at-goldman-sachs-47th-annual-global-healthcare-conference?source=feed_all_articles"
-      },
-      {
-        "title": "Nakamoto cuts debt by $45M, extends loan maturity to 2027, launches $25M buyback",
+        "title": "IDW Media GAAP EPS of -$0.56, revenue of $5.68M",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-11T12:22:07.000Z",
+        "publishedAt": "2026-06-11T21:14:43.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602559-nakamoto-cuts-debt-by-45m-extends-loan-maturity-to-2027-launches-25m-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4602805-idw-media-gaap-eps-of-0_56-revenue-of-5_68m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Summit Therapeutics withdraws proposed securities offering citing market conditions",
+        "title": "Earnings Snapshot: Lennar Q2 revenue miss led by decline in new home orders",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-11T12:21:09.000Z",
+        "publishedAt": "2026-06-11T21:14:04.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602553-summit-therapeutics-withdraws-proposed-securities-offering-citing-market-conditions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4602738-earnings-snapshot-lennar-q2-revenue-miss-led-by-decline-in-new-home-orders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Garrett Motion Inc: A Turbo-Charged Cash Flow Engine That Outran Its Valuation",
+        "title": "Terveystalo Oyj (TTALF) Terveystalo Oyj, - M&A Call - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-11T12:18:18.000Z",
+        "publishedAt": "2026-06-11T21:12:36.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914167-garrett-motion-inc-stock-turbo-charged-cash-flow-engine-that-outran-its-valuation?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914364-terveystalo-oyj-ttalf-terveystalo-oyj-m-and-a-call-slideshow?source=feed_all_articles"
       },
       {
-        "title": "Garrett Motion Inc: A Turbo-Charged Cash Flow Engine That Outran Its Valuation",
-        "source": "Editor Picks",
-        "summary": "",
-        "publishedAt": "2026-06-11T12:18:18.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914167-garrett-motion-inc-stock-turbo-charged-cash-flow-engine-that-outran-its-valuation?source=feed_tag_editors_picks"
-      },
-      {
-        "title": "Loblaw: Built To Survive The 'Groceryapocalypse'",
+        "title": "Terveystalo Oyj (TTALF) M&A Call Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-11T12:16:27.000Z",
+        "publishedAt": "2026-06-11T21:12:10.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914166-loblaw-built-to-survive-the-groceryapocalypse?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914363-terveystalo-oyj-ttalf-m-and-a-call-transcript?source=feed_all_articles"
       },
       {
-        "title": "Invesco Intermediate Term Municipal Income Fund Q1 2026 Commentary",
+        "title": "Oracle Q4: The $638 Billion Question (Rating Downgrade)",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-11T12:15:00.000Z",
+        "publishedAt": "2026-06-11T21:07:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914165-invesco-intermediate-term-municipal-income-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914349-oracle-q4-the-638-billion-question-rating-downgrade?source=feed_all_articles"
+      },
+      {
+        "title": "CECO Environmental Corp. (CECO) Presents at 16th Annual East Coast IDEAS Conference - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-11T21:02:02.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914361-ceco-environmental-corp-ceco-presents-at-16th-annual-east-coast-ideas-conference-slideshow?source=feed_all_articles"
+      },
+      {
+        "title": "Plug Power Inc. (PLUG) Shareholder/Analyst Call - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-11T21:01:20.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914360-plug-power-inc-plug-shareholder-analyst-call-slideshow?source=feed_all_articles"
+      },
+      {
+        "title": "Melrose Industries: The Market Is Pricing In An Aerospace Growth Failure",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-11T20:36:42.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914346-melrose-industries-market-is-pricing-in-aerospace-growth-failure?source=feed_all_articles"
+      },
+      {
+        "title": "VO: Mid Caps Now Look Attractive, But Vanguard's $103 Billion ETF Misses The Mark",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-11T20:14:52.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914339-vo-mid-caps-now-look-attractive-but-vanguards-103-billion-etf-misses-the-mark?source=feed_all_articles"
+      },
+      {
+        "title": "BorgWarner Inc. (BWA) Presents at 16th Annual Wells Fargo Industrials & Materials Conference Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-11T20:12:15.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914351-borgwarner-inc-bwa-presents-at-16th-annual-wells-fargo-industrials-and-materials-conference?source=feed_all_articles"
+      },
+      {
+        "title": "Wizz Air Holdings Plc (WZZZY) Q4 2026 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-11T20:12:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914156-wizz-air-holdings-plc-wzzzy-q4-2026-earnings-call-transcript?source=feed_all_articles"
       }
     ],
     "popularItems": [
       {
-        "title": "MP Materials: Rare Earth Powerhouse",
+        "title": "3 Safe Haven Stocks For Market Chaos",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-11T09:10:28.000Z",
+        "publishedAt": "2026-06-11T15:00:04.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914110-mp-materials-rare-earth-powerhouse?source=feed"
+        "url": "https://seekingalpha.com/article/4914246-3-safe-haven-stocks-for-market-chaos?source=feed"
       },
       {
-        "title": "Broadcom: Buying Into Weakness For Long-Term Growth",
+        "title": "Market Rotation Alert: The AI Bubble Is Showing Cracks",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-11T08:40:58.000Z",
+        "publishedAt": "2026-06-11T13:05:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914100-broadcom-buying-into-weakness-for-long-term-growth?source=feed"
+        "url": "https://seekingalpha.com/article/4914101-market-rotation-alert-ai-bubble-is-showing-cracks?source=feed"
       },
       {
-        "title": "Realty Income Vs. EastGroup: A Case Study In Overcoming Cost Of Capital",
+        "title": "The Market Is Getting Marvell Wrong",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-11T06:28:28.000Z",
+        "publishedAt": "2026-06-11T11:55:25.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914057-realty-income-vs-eastgroup-a-case-study-in-overcoming-cost-of-capital?source=feed"
+        "url": "https://seekingalpha.com/article/4914158-the-market-is-getting-marvell-wrong?source=feed"
+      },
+      {
+        "title": "Oracle: Out-Of-Touch Valuation",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-11T11:03:30.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914139-oracle-out-of-touch-valuation?source=feed"
       },
       {
         "title": "Microsoft: The Opportunity Cost Is Rising",
@@ -213,14 +221,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-11T06:11:15.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914054-microsoft-the-opportunity-cost-is-rising?source=feed"
-      },
-      {
-        "title": "Oracle: Leveraged But Accelerating AI Bet",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-11T06:04:38.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914051-oracle-leveraged-but-accelerating-ai-bet?source=feed"
       },
       {
         "title": "SpaceX's Trillion&#x2011;Dollar Moonshot: 3 Aerospace And Defense Stocks Delivering 50%+ EPS Growth",
