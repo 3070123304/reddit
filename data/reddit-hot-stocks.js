@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-12T11:58:18.275Z",
+  "generatedAt": "2026-06-12T19:35:02.408Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,208 +21,214 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Britannia Life Sciences acquires $5.3M equipment loan portfolio",
+        "title": "Roku jumps on report of sale talks",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-12T11:55:47.000Z",
+        "publishedAt": "2026-06-12T19:23:49.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602925-britannia-life-sciences-acquires-5_3m-equipment-loan-portfolio?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603057-roku-jumps-on-report-of-sale-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Amalgamated Financial boosts existing share repurchase plan by $31.4M",
+        "title": "ONE Gas initiated Buy at BTIG, driven by large load growth opportunities",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-12T11:47:03.000Z",
+        "publishedAt": "2026-06-12T19:21:16.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602920-amalgamated-financial-boosts-existing-share-repurchase-plan-by-314m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603054-one-gas-initiated-buy-at-btig-driven-by-large-load-growth-opportunities?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Citigroup largely exits international consumer businesses",
+        "title": "Beyond SpaceX: The defense-space convergence",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-12T11:46:33.000Z",
+        "publishedAt": "2026-06-12T19:20:02.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602917-citigroup-largely-exits-international-consumer-businesses-with-velobank-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4602628-beyond-spacex-the-defense-space-convergence?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Limoneira: Hidden Land Value Is Real, But The Cash Flow Bridge Is Still Narrow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-12T11:46:11.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914497-limoneira-hidden-land-value-is-real-but-the-cash-flow-bridge-is-still-narrow?source=feed_all_articles"
-      },
-      {
-        "title": "Rithm Capital Preferreds: Balancing Yield Against Call Risk.",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-12T11:45:51.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914496-rithm-capital-preferreds-balancing-yield-against-call-risk?source=feed_all_articles"
-      },
-      {
-        "title": "Clough Closed-End Funds renew 5% share repurchase programs through June 30, 2027",
+        "title": "DraftKings and FanDuel boost marketing spending during the World Cup",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-12T11:43:28.000Z",
+        "publishedAt": "2026-06-12T19:14:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602921-clough-closed-end-funds-renew-5-percent-share-repurchase-programs-through-june-30-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603055-draftkings-and-fanduel-boost-marketing-spending-during-the-world-cup?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "UCB SA (UCBJY) Analyst/Investor Day Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-12T11:42:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914509-ucb-sa-ucbjy-analyst-investor-day-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Airbnb 2026 annual meeting: oversight and dual-class sunset proposals fail votes",
+        "title": "Lennar anticipates Q3 2026 EPS of $1.20-$1.40 and adjusts annual deliveries to 82,000-83,000 amid macro uncertainty",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-12T11:41:16.000Z",
+        "publishedAt": "2026-06-12T19:13:06.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602907-airbnb-2026-annual-meeting-oversight-and-dual-class-sunset-proposals-fail-votes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603056-lennar-anticipates-q3-2026-eps-of-1_20-1_40-and-adjusts-annual-deliveries-to-82000minus-83000?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Leveraged SpaceX ETFs hit with one-day delay to ensure smooth IPO - report",
+        "title": "Lennar Corporation (LEN) Q2 2026 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-12T19:12:13.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914633-lennar-corporation-len-q2-2026-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Beyond AI Hype, 3 Trends Are Giving Industrial Stocks A Boost",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-12T19:09:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914649-beyond-ai-hype-3-trends-giving-industrial-stocks-boost?source=feed_all_articles"
+      },
+      {
+        "title": "Centene's Impressive Comeback Still Holds Up",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-12T19:06:34.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914648-centenes-impressive-comeback-still-holds-up?source=feed_all_articles"
+      },
+      {
+        "title": "Robinhood customers face issues in first minutes of SpaceX trading - report",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-12T11:40:50.000Z",
+        "publishedAt": "2026-06-12T19:06:02.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602914-leveraged-spacex-etfs-hit-with-one-day-delay-to-ensure-smooth-ipo---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603051-robinhood-customers-face-issues-in-first-minutes-of-spacex-trading---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "DoorDash: The Selloff Doesn't Match The Fundamentals",
+        "title": "June 2026 Trading Outlook: Fiscal Flows, Oil, Bank Credit, And Fed Interest Rates",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-12T11:40:42.000Z",
+        "publishedAt": "2026-06-12T19:04:01.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914495-doordash-the-selloff-doesnt-match-the-fundamentals?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914647-june-2026-trading-outlook-fiscal-flows-oil-bank-credit-and-fed-interest-rates?source=feed_all_articles"
       },
       {
-        "title": "Dassault Syst&#xE8;mes drops on fears of AI disruption from Anthropic, Prometheus",
+        "title": "Catalyst Watch: G7 drama, retail sales, and Warsh's first Fed meeting",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-12T11:40:01.000Z",
+        "publishedAt": "2026-06-12T19:00:02.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4602915-dassault-systemes-drops-on-fears-of-ai-disruption-from-anthropic-prometheus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603008-catalyst-watch-g7-drama-retail-sales-and-warshs-first-fed-meeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Raining On The Russell 1000's Parade",
+        "title": "Triple Flag Precious Metals Corp. (TFPM:CA) M&A Call Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-12T11:40:00.000Z",
+        "publishedAt": "2026-06-12T18:52:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914513-raining-on-russell-1000-parade?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914618-triple-flag-precious-metals-corp-tfpm-ca-m-and-a-call-transcript?source=feed_all_articles"
       },
       {
-        "title": "Verizon: Steady, Cheap, And Still Standing",
+        "title": "Super Micro Computer: A High-Risk Balancing Act",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-12T11:39:55.000Z",
+        "publishedAt": "2026-06-12T18:40:33.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914494-verizon-steady-cheap-and-still-standing?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914644-super-micro-computer-a-high-risk-balancing-act?source=feed_all_articles"
       },
       {
-        "title": "Oracle: The Spending Boom Continues",
+        "title": "MBX Biosciences, Inc. (MBX) Discusses One-Year Data From Phase II Open-Label Extension Study of Once-Weekly Canvuparatide Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-12T11:33:22.000Z",
+        "publishedAt": "2026-06-12T18:32:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914492-oracle-spending-boom-continues?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914571-mbx-biosciences-inc-mbx-discusses-one-year-data-from-phase-ii-open-label-extension-study-of?source=feed_all_articles"
       },
       {
-        "title": "Clear Secure: The Shutdown Helped, But The Growth Is Broader",
+        "title": "Regeneron Pharmaceuticals, Inc. (REGN) Shareholder/Analyst Call - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-12T11:33:02.000Z",
+        "publishedAt": "2026-06-12T18:30:42.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914491-clear-secure-the-shutdown-helped-but-the-growth-is-broader?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914652-regeneron-pharmaceuticals-inc-regn-shareholder-analyst-call-slideshow?source=feed_all_articles"
       },
       {
-        "title": "Hugo Boss: Updating For H2 After Frasers' Offer (Rating Downgrade)",
+        "title": "John Hancock Freedom 529 2025-2028 Portfolio Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-12T11:30:56.000Z",
+        "publishedAt": "2026-06-12T18:29:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914463-hugo-boss-stock-updating-for-h2-after-frasers-offer-rating-downgrade?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914643-john-hancock-freedom-529-2025-2028-portfolio-q1-2026-commentary?source=feed_all_articles"
       },
       {
-        "title": "Hugo Boss: Updating For H2 After Frasers' Offer (Rating Downgrade)",
-        "source": "Editor Picks",
-        "summary": "",
-        "publishedAt": "2026-06-12T11:30:56.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914463-hugo-boss-stock-updating-for-h2-after-frasers-offer-rating-downgrade?source=feed_tag_editors_picks"
-      },
-      {
-        "title": "NNN REIT: Don't Miss Out On This Dividend Champion Now",
+        "title": "Epiroc AB (publ) (EPOAY) Analyst/Investor Day - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-12T11:30:53.000Z",
+        "publishedAt": "2026-06-12T18:24:44.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914442-nnn-reit-stock-dont-miss-out-on-this-dividend-champion-now?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914651-epiroc-ab-publ-epoay-analyst-investor-day-slideshow?source=feed_all_articles"
       },
       {
-        "title": "2 Terrific 7%-Yielding Income Plays Every Retiree Should Know",
+        "title": "Seneca Foods: A Canned Vegetable Giant With Frozen Upside",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-12T11:30:00.000Z",
+        "publishedAt": "2026-06-12T18:23:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4913876-2-terrific-7-percent-yielding-income-plays-every-retiree-should-know?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914642-seneca-foods-a-canned-vegetable-giant-with-frozen-upside?source=feed_all_articles"
       },
       {
-        "title": "Eaton Mobility And Dana: Separating The Fast Growth From The Slow",
+        "title": "L.B. Foster Company's Historic Run Can Keep Going",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-12T11:29:18.000Z",
+        "publishedAt": "2026-06-12T18:12:48.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914490-eaton-mobility-dana-separating-fast-growth-from-slow?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914641-lb-foster-companys-historic-run-can-keep-going?source=feed_all_articles"
+      },
+      {
+        "title": "One Stop Systems: The Growth Phase Is Just Beginning For This Smaller Defense/AI Gem",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-12T18:10:24.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914640-one-stop-systems-the-growth-phase-is-just-beginning-for-this-smaller-defenseai-gem?source=feed_all_articles"
       }
     ],
     "popularItems": [
       {
-        "title": "Broadcom Is Becoming A Core Infrastructure Winner In AI",
+        "title": "Buy The Dip: 5 Top Nasdaq AI Stocks",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-12T08:57:45.000Z",
+        "publishedAt": "2026-06-12T15:30:50.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914462-broadcom-is-becoming-a-core-infrastructure-winner-in-ai?source=feed"
+        "url": "https://seekingalpha.com/article/4914594-buy-the-dip-5-top-nasdaq-ai-stocks?source=feed"
       },
       {
-        "title": "AST SpaceMobile: The Next Phase Could Be Massive",
+        "title": "SpaceX: Good Luck Beating The IPO Curse",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-12T07:16:32.000Z",
+        "publishedAt": "2026-06-12T14:17:14.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914436-ast-spacemobile-next-phase-could-be-massive?source=feed"
+        "url": "https://seekingalpha.com/article/4914558-spacex-good-luck-beating-ipo-curse?source=feed"
       },
       {
-        "title": "Meta's AI Spending Looks Insane Until You See What It Is Building",
+        "title": "SpaceX Debut Likely Marks An Intermediate Top",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-12T05:37:41.000Z",
+        "publishedAt": "2026-06-12T12:59:14.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914426-meta-stock-ai-spending-looks-insane-until-you-see-what-it-is-building?source=feed"
+        "url": "https://seekingalpha.com/article/4914524-spacex-debut-likely-marks-intermediate-top?source=feed"
       },
       {
-        "title": "AMD: The Market Is Still Underpricing Its AI CPU Super Cycle",
+        "title": "Defensive +9% Yields In The Face Of Interest Rate Uncertainty",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-12T05:22:56.000Z",
-        "tickers": [
-          "AMD"
-        ],
-        "url": "https://seekingalpha.com/article/4914422-amd-stock-market-is-still-underpricing-its-ai-cpu-super-cycle?source=feed"
+        "publishedAt": "2026-06-12T12:30:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914187-defensive-plus-9-percent-yields-in-the-face-of-interest-rate-uncertainty?source=feed"
       },
       {
-        "title": "May CPI Report: War Impact Remains Contained, Allowing The Fed To Stay On Hold",
+        "title": "The Most Undervalued Dividend Stocks I Am Buying Right Now",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-12T04:40:00.000Z",
+        "publishedAt": "2026-06-12T11:05:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914425-may-cpi-report-war-impact-remains-contained-allowing-fed-to-stay-on-hold?source=feed"
+        "url": "https://seekingalpha.com/article/4914470-most-undervalued-dividend-stocks-i-am-buying-right-now?source=feed"
+      },
+      {
+        "title": "SpaceX IPO Preview: Placing It In Context",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-11T22:23:31.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914365-spacex-ipo-preview-placing-it-in-context?source=feed"
       },
       {
         "title": "Heading For The Exits",
@@ -247,14 +253,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-11T13:05:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914101-market-rotation-alert-ai-bubble-is-showing-cracks?source=feed"
-      },
-      {
-        "title": "Adobe: The $23 Billion Buyback That Bought The Top",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-11T12:51:30.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914180-adobe-the-23-billion-buyback-that-bought-the-top?source=feed"
       },
       {
         "title": "The Market Is Getting Marvell Wrong",
