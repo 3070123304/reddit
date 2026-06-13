@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-13T08:36:25.443Z",
+  "generatedAt": "2026-06-13T15:23:33.294Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,167 +21,201 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Weekly Commentary: SpaceX And A Z.1 (Q1 2026)",
+        "title": "Northern Funds Intermediate Tax-Exempt Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T08:15:47.000Z",
+        "publishedAt": "2026-06-13T15:20:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914744-weekly-commentary-spacex-and-a-z-1-q1-2026?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914797-northern-funds-intermediate-tax-exempt-fund-q1-2026-commentary?source=feed_all_articles"
       },
       {
-        "title": "WhiteFiber: AI Capacity Scarcity Supports Further Upside",
-        "source": "Latest Articles",
+        "title": "China opposes Pentagon move against top firms including Alibaba, Baidu, Nio",
+        "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-13T07:57:09.000Z",
+        "publishedAt": "2026-06-13T15:16:59.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914736-whitefiber-ai-capacity-scarcity-supports-further-upside?source=feed_all_articles"
+        "url": "https://seekingalpha.com/news/4603105-china-opposes-pentagon-move-against-top-firms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Behind The Yield: A Closer Look At NCV",
+        "title": "PGIM Global Real Estate Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T07:48:41.000Z",
+        "publishedAt": "2026-06-13T15:10:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914734-behind-the-yield-a-closer-look-at-ncv?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914793-pgim-global-real-estate-fund-q1-2026-commentary?source=feed_all_articles"
       },
       {
-        "title": "CMB.TECH: A Stronger Shipping Platform, But Not A Cheap One",
-        "source": "Latest Articles",
+        "title": "Insider trades: Microsoft, Tesla, Pfizer among notable names",
+        "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-13T07:35:16.000Z",
+        "publishedAt": "2026-06-13T15:03:25.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914733-cmbtech-a-stronger-shipping-platform-but-not-a-cheap-one?source=feed_all_articles"
+        "url": "https://seekingalpha.com/news/4603033-insider-trades-microsoft-tesla-pfizer-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Opportunities Emerge In A Higher-Yield World",
+        "title": "BTQ Technologies: Quantum Dreams Meet A Very Hard Reality",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T07:35:00.000Z",
+        "publishedAt": "2026-06-13T15:00:49.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914740-opportunities-emerge-in-higher-yield-world?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914788-btq-technologies-quantum-dreams-meet-a-very-hard-reality?source=feed_all_articles"
       },
       {
-        "title": "Dividend Announcements: May 30-June 5, 2026",
+        "title": "Fed Rate Decision Takes Centre Stage As Earnings Wind Down",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T07:30:57.000Z",
+        "publishedAt": "2026-06-13T15:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914732-dividend-announcements-may-30-june-5-2026?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914621-fed-rate-decision-takes-centre-stage-as-earnings-wind-down?source=feed_all_articles"
       },
       {
-        "title": "Whale's Insight: Bitcoin Near The Cycle Floor: Buy The Dip, Or Wait For Capitulation?",
+        "title": "NNN REIT: Why I'm Still Buying This 5% Yielding Dividend Aristocrat",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T07:30:00.000Z",
+        "publishedAt": "2026-06-13T14:30:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914739-whales-insight-bitcoin-near-cycle-floor-buy-dip-or-wait-for-capitulation?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914776-nnn-reit-why-im-still-buying-this-5-percent-yielding-dividend-aristocrat?source=feed_all_articles"
       },
       {
-        "title": "GOF: Lower Your Return Expectations, Not Your Conviction",
+        "title": "Build Your Wealth With Happy Dividends",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T07:25:35.000Z",
+        "publishedAt": "2026-06-13T14:30:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914731-gof-lower-your-return-expectations-not-your-conviction?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914553-build-your-wealth-with-happy-dividends?source=feed_all_articles"
       },
       {
-        "title": "Can The Eurozone Tolerate Higher Rates For Long?",
+        "title": "ArcelorMittal: Steel Import Controls Are A Massive Tailwind",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T07:20:00.000Z",
+        "publishedAt": "2026-06-13T14:28:24.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914738-can-eurozone-tolerate-higher-rates-for-long?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914787-arcelormittal-steel-import-controls-are-a-massive-tailwind?source=feed_all_articles"
       },
       {
-        "title": "AI's True Costs Limit Its Impact On Job Displacement",
-        "source": "Latest Articles",
+        "title": "Sanofi type 1 diabetes therapy Tzield approved in U.S. for stage 3 of the disease",
+        "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-13T07:10:00.000Z",
+        "publishedAt": "2026-06-13T14:14:25.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914737-ais-true-costs-limit-its-impact-on-job-displacement?source=feed_all_articles"
+        "url": "https://seekingalpha.com/news/4603104-sanofi-wins-label-expansion-type-1-diabetes-drug-tzield?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Inflation And The Fed",
+        "title": "Rare Buying Opportunity: Discounted Elite Dividend Machines With Major Macro Tailwinds",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T07:00:00.000Z",
+        "publishedAt": "2026-06-13T14:11:23.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914735-inflation-fed?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914786-rare-buying-opportunity-discounted-elite-dividend-machines-with-major-macro-tailwinds?source=feed_all_articles"
       },
       {
-        "title": "QuantumScape Corporation (QS) Presents at 16th Annual Wells Fargo Industrials & Materials Conference Transcript",
+        "title": "Nebius: Addressing The Current AI Constraints As It Grows",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T06:52:10.000Z",
+        "publishedAt": "2026-06-13T14:11:15.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914727-quantumscape-corporation-qs-presents-at-16th-annual-wells-fargo-industrials-and-materials?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914785-nebius-addressing-the-current-ai-constraints-as-it-grows?source=feed_all_articles"
       },
       {
-        "title": "Aehr Test Systems: A Brilliant Order Book Wrapped In A Brutal Multiple",
-        "source": "Latest Articles",
+        "title": "Notable analyst calls this week: Pfizer, AMD and Intel among top picks",
+        "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-13T06:36:57.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914729-aehr-test-systems-a-brilliant-order-book-wrapped-in-a-brutal-multiple?source=feed_all_articles"
+        "publishedAt": "2026-06-13T14:05:59.000Z",
+        "tickers": [
+          "AMD"
+        ],
+        "url": "https://seekingalpha.com/news/4602944-notable-analyst-calls-this-week-pfizer-amd-and-intel-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Blue Owl Capital: A 22% Discount To NAV Makes This One Of The Cheapest Stocks In The Market",
+        "title": "CAVA Group Looks Like A Buy (Technical Analysis)",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T05:33:40.000Z",
+        "publishedAt": "2026-06-13T14:00:51.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914722-blue-owl-capital-a-22-percent-discount-to-nav-makes-this-one-of-the-cheapest-stocks-in-the-market?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914784-cava-group-looks-like-a-buy-technical-analysis?source=feed_all_articles"
       },
       {
-        "title": "Kura Oncology, Inc. (KURA) Presents at European Hematology Association (EHA) 2026 Congress - Slideshow",
+        "title": "Applied Optoelectronics: The Laser Bottleneck Winner",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T05:30:51.000Z",
+        "publishedAt": "2026-06-13T14:00:21.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914728-kura-oncology-inc-kura-presents-at-european-hematology-association-eha-2026-congress?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914768-applied-optoelectronics-laser-bottleneck-winner?source=feed_all_articles"
       },
       {
-        "title": "Asana: Improving Fundamentals, But Not Yet A Buy",
-        "source": "Latest Articles",
+        "title": "Applied Optoelectronics: The Laser Bottleneck Winner",
+        "source": "Editor Picks",
         "summary": "",
-        "publishedAt": "2026-06-13T05:07:15.000Z",
+        "publishedAt": "2026-06-13T14:00:21.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914716-asana-improving-fundamentals-but-not-yet-a-buy?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914768-applied-optoelectronics-laser-bottleneck-winner?source=feed_tag_editors_picks"
       },
       {
-        "title": "Triple Flag Precious Metals Corp. (TFPM:CA) Triple Flag International Ltd., Ravenswood Gold Pty Ltd, - M&A Call - Slideshow",
+        "title": "Verizon: Starlink Mobile Is The Threat",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T05:01:06.000Z",
+        "publishedAt": "2026-06-13T14:00:13.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914725-triple-flag-precious-metals-corp-tfpm-ca-triple-flag-international-ltd-ravenswood-gold-pty?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914718-verizon-starlink-mobile-is-the-threat?source=feed_all_articles"
       },
       {
-        "title": "Cogent Biosciences, Inc. (COGT) Presents at European Hematology Association (EHA) 2026 Congress - Slideshow",
+        "title": "PayPal: If It's So Cheap Why Is Nobody Buying",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T05:00:44.000Z",
+        "publishedAt": "2026-06-13T14:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914724-cogent-biosciences-inc-cogt-presents-at-european-hematology-association-eha-2026-congress?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914749-paypal-if-it-is-so-cheap-why-nobody-buying?source=feed_all_articles"
       },
       {
-        "title": "Bridgestone: Improved Execution, But Limited Upside Justifies A Neutral Stance",
-        "source": "Latest Articles",
+        "title": "PayPal: If It's So Cheap Why Is Nobody Buying",
+        "source": "Editor Picks",
         "summary": "",
-        "publishedAt": "2026-06-13T04:48:49.000Z",
+        "publishedAt": "2026-06-13T14:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914713-bridgestone-improved-execution-but-limited-upside-justifies-a-neutral-stance?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914749-paypal-if-it-is-so-cheap-why-nobody-buying?source=feed_tag_editors_picks"
       },
       {
-        "title": "The Unit Economics Of AI Infrastructure",
+        "title": "AppLovin: The AI Advertising Monster Investors Can't Help But Love",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T04:40:00.000Z",
+        "publishedAt": "2026-06-13T13:57:29.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914723-unit-economics-of-ai-infrastructure?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914783-applovin-the-ai-advertising-monster-investors-cant-help-but-love?source=feed_all_articles"
       }
     ],
     "popularItems": [
+      {
+        "title": "The 'Problem' With Broadcom's Guidance",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-13T12:02:53.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914769-the-problem-with-broadcoms-guidance?source=feed"
+      },
+      {
+        "title": "MANGOS: Let's Follow The Big Money (Why I'm 30% Cash)",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-13T12:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914650-mangos-lets-follow-the-big-money-why-im-30-percent-cash?source=feed"
+      },
+      {
+        "title": "Why I Put 75% Of My Portfoio In Real Assets",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-13T11:15:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4913723-why-i-put-75-percent-of-my-portfoio-in-real-assets?source=feed"
+      },
+      {
+        "title": "Adobe's Beat And Selloff: The Best Bargain In U.S. Tech (Rating Upgrade)",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-13T09:20:49.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914748-adobes-beat-and-selloff-the-best-bargain-in-us-tech?source=feed"
+      },
       {
         "title": "Blue Owl Capital: A 22% Discount To NAV Makes This One Of The Cheapest Stocks In The Market",
         "source": "Most Popular",
@@ -189,38 +223,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-13T05:33:40.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914722-blue-owl-capital-a-22-percent-discount-to-nav-makes-this-one-of-the-cheapest-stocks-in-the-market?source=feed"
-      },
-      {
-        "title": "The Unit Economics Of AI Infrastructure",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-13T04:40:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914723-unit-economics-of-ai-infrastructure?source=feed"
-      },
-      {
-        "title": "Short-Term Energy Outlook: June 2026",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-13T04:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914706-short-term-energy-outlook-june-2026?source=feed"
-      },
-      {
-        "title": "SpaceX Settles",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-13T04:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914709-spacex-settles?source=feed"
-      },
-      {
-        "title": "World's First Net-Worth Trillionaire Shows Us How Markets Price The Future",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-13T04:15:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914717-world-first-net-worth-trillionaire-shows-us-how-markets-price-future?source=feed"
       },
       {
         "title": "Buy The Dip: 5 Top Nasdaq AI Stocks",
