@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-13T15:23:33.294Z",
+  "generatedAt": "2026-06-13T20:52:39.788Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,200 +21,198 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Northern Funds Intermediate Tax-Exempt Fund Q1 2026 Commentary",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-13T15:20:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914797-northern-funds-intermediate-tax-exempt-fund-q1-2026-commentary?source=feed_all_articles"
-      },
-      {
-        "title": "China opposes Pentagon move against top firms including Alibaba, Baidu, Nio",
+        "title": "Key deals this week: GSK, Incyte, Ingredion, OpenAI, and more",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-13T15:16:59.000Z",
+        "publishedAt": "2026-06-13T19:15:14.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603105-china-opposes-pentagon-move-against-top-firms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603111-key-deals-this-week-gsk-incyte-ingredion-openai-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "PGIM Global Real Estate Fund Q1 2026 Commentary",
+        "title": "Strive's Debt-Free Bitcoin Treasury And Daily Dividend Make SATA And ASST Cleaner Plays",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T15:10:00.000Z",
+        "publishedAt": "2026-06-13T18:59:33.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914793-pgim-global-real-estate-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914808-strives-debt-free-bitcoin-treasury-and-daily-dividend-make-sata-and-asst-cleaner-plays?source=feed_all_articles"
       },
       {
-        "title": "Insider trades: Microsoft, Tesla, Pfizer among notable names",
+        "title": "Trump says Strait of Hormuz will be &#x201C;open to all&#x201D; after Iran deal &#x201C;tomorrow&#x201D;",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-13T15:03:25.000Z",
+        "publishedAt": "2026-06-13T18:55:33.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603033-insider-trades-microsoft-tesla-pfizer-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603116-trump-signals-signing-iran-peace-deal-tomorrow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "BTQ Technologies: Quantum Dreams Meet A Very Hard Reality",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-13T15:00:49.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914788-btq-technologies-quantum-dreams-meet-a-very-hard-reality?source=feed_all_articles"
-      },
-      {
-        "title": "Fed Rate Decision Takes Centre Stage As Earnings Wind Down",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-13T15:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914621-fed-rate-decision-takes-centre-stage-as-earnings-wind-down?source=feed_all_articles"
-      },
-      {
-        "title": "NNN REIT: Why I'm Still Buying This 5% Yielding Dividend Aristocrat",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-13T14:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914776-nnn-reit-why-im-still-buying-this-5-percent-yielding-dividend-aristocrat?source=feed_all_articles"
-      },
-      {
-        "title": "Build Your Wealth With Happy Dividends",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-13T14:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914553-build-your-wealth-with-happy-dividends?source=feed_all_articles"
-      },
-      {
-        "title": "ArcelorMittal: Steel Import Controls Are A Massive Tailwind",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-13T14:28:24.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914787-arcelormittal-steel-import-controls-are-a-massive-tailwind?source=feed_all_articles"
-      },
-      {
-        "title": "Sanofi type 1 diabetes therapy Tzield approved in U.S. for stage 3 of the disease",
+        "title": "SA Asks: Is Oracle a buy after the sell-off? (Update)",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-13T14:14:25.000Z",
+        "publishedAt": "2026-06-13T18:30:42.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603104-sanofi-wins-label-expansion-type-1-diabetes-drug-tzield?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603113-sa-asks-is-oracle-a-buy-after-the-sell-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Rare Buying Opportunity: Discounted Elite Dividend Machines With Major Macro Tailwinds",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-13T14:11:23.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914786-rare-buying-opportunity-discounted-elite-dividend-machines-with-major-macro-tailwinds?source=feed_all_articles"
-      },
-      {
-        "title": "Nebius: Addressing The Current AI Constraints As It Grows",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-13T14:11:15.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914785-nebius-addressing-the-current-ai-constraints-as-it-grows?source=feed_all_articles"
-      },
-      {
-        "title": "Notable analyst calls this week: Pfizer, AMD and Intel among top picks",
+        "title": "Cathie Wood's ARK Invest goes all in on SpaceX after blockbuster IPO debut",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-13T14:05:59.000Z",
-        "tickers": [
-          "AMD"
-        ],
-        "url": "https://seekingalpha.com/news/4602944-notable-analyst-calls-this-week-pfizer-amd-and-intel-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "publishedAt": "2026-06-13T18:20:19.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603115-cathie-woods-ark-invest-goes-all-in-on-spacex-after-blockbuster-ipo-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "CAVA Group Looks Like A Buy (Technical Analysis)",
+        "title": "Amazon CEO is reportedly behind U.S. crackdown on Anthropic AI models",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-13T18:09:30.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603114-amazon-behind-us-crackdown-anthropic-models?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Agios Pharmaceuticals, Inc. (AGIO) Discusses New Data and Strategic Expansion in Rare Hematology at EHA Investor Event Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T14:00:51.000Z",
+        "publishedAt": "2026-06-13T18:02:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914784-cava-group-looks-like-a-buy-technical-analysis?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914792-agios-pharmaceuticals-inc-agio-discusses-new-data-and-strategic-expansion-in-rare-hematology?source=feed_all_articles"
       },
       {
-        "title": "Applied Optoelectronics: The Laser Bottleneck Winner",
+        "title": "Trending stocks this week as investors cheer SpaceX IPO, diplomacy hopes",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-13T17:57:27.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603112-trending-stocks-this-week-as-investors-cheer-spacex-ipo-diplomacy-hopes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Iran disputes claims of an imminent U.S. peace deal",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-13T17:20:02.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603110-iran-disputes-claims-an-imminent-peace-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "SpaceX: Wall Street's $226 Billion Assumption Is Frail",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T14:00:21.000Z",
+        "publishedAt": "2026-06-13T17:16:42.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914768-applied-optoelectronics-laser-bottleneck-winner?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914807-spacex-wall-streets-226-billion-assumption-is-frail?source=feed_all_articles"
       },
       {
-        "title": "Applied Optoelectronics: The Laser Bottleneck Winner",
-        "source": "Editor Picks",
-        "summary": "",
-        "publishedAt": "2026-06-13T14:00:21.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914768-applied-optoelectronics-laser-bottleneck-winner?source=feed_tag_editors_picks"
-      },
-      {
-        "title": "Verizon: Starlink Mobile Is The Threat",
+        "title": "Genius Sports: A Perfect Blend",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T14:00:13.000Z",
+        "publishedAt": "2026-06-13T17:02:20.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914718-verizon-starlink-mobile-is-the-threat?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914806-genius-sports-a-perfect-blend?source=feed_all_articles"
       },
       {
-        "title": "PayPal: If It's So Cheap Why Is Nobody Buying",
+        "title": "Kali & Salz - Outperformance, If Only Slight, Updating For 2026-2028E",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T14:00:00.000Z",
+        "publishedAt": "2026-06-13T16:42:20.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914749-paypal-if-it-is-so-cheap-why-nobody-buying?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914803-kali-and-salz-outperformance-if-only-slight-updating-for-2026-2028e?source=feed_all_articles"
       },
       {
-        "title": "PayPal: If It's So Cheap Why Is Nobody Buying",
-        "source": "Editor Picks",
-        "summary": "",
-        "publishedAt": "2026-06-13T14:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914749-paypal-if-it-is-so-cheap-why-nobody-buying?source=feed_tag_editors_picks"
-      },
-      {
-        "title": "AppLovin: The AI Advertising Monster Investors Can't Help But Love",
+        "title": "Lyell Immunopharma: Undervalued Ahead Of A Major CAR-T Inflection",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-13T13:57:29.000Z",
+        "publishedAt": "2026-06-13T16:23:38.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914783-applovin-the-ai-advertising-monster-investors-cant-help-but-love?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914802-lyell-immunopharma-undervalued-ahead-of-a-major-car-t-inflection?source=feed_all_articles"
+      },
+      {
+        "title": "Lee Enterprises: Interest Costs Coming Down",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-13T16:17:04.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914800-lee-enterprises-interest-costs-coming-down?source=feed_all_articles"
+      },
+      {
+        "title": "Peoples Financial Services Remains Compelling Enough To Bank On",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-13T16:15:11.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914799-peoples-financial-services-remains-compelling-enough-to-bank-on?source=feed_all_articles"
+      },
+      {
+        "title": "Securitize: A Crypto Use Case That Actually Works, And A Buy On Macro Tailwinds",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-13T16:08:50.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914796-securitize-a-crypto-use-case-that-actually-works-and-a-buy-on-macro-tailwinds?source=feed_all_articles"
+      },
+      {
+        "title": "SpaceX Is No Longer A Company - It's A Belief System",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-13T16:06:42.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914795-spacex-is-no-longer-a-company-its-a-belief-system?source=feed_all_articles"
+      },
+      {
+        "title": "Kratos Defense & Security Solutions, Inc: Why I Am Buying The Dip",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-13T16:05:17.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914794-kratos-defense-and-security-solutions-inc-why-i-am-buying-the-dip?source=feed_all_articles"
+      },
+      {
+        "title": "Alphabet: Buckle Up For What's Coming",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-13T16:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914757-alphabet-buckle-up-for-whats-coming?source=feed_all_articles"
+      },
+      {
+        "title": "Why Factor Diversification Matters In The Stock Market Now",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-13T16:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914805-factor-diversification-matters-in-stock-market-now?source=feed_all_articles"
       }
     ],
     "popularItems": [
       {
-        "title": "The 'Problem' With Broadcom's Guidance",
+        "title": "Build Your Wealth With Happy Dividends",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-13T12:02:53.000Z",
+        "publishedAt": "2026-06-13T14:30:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914769-the-problem-with-broadcoms-guidance?source=feed"
+        "url": "https://seekingalpha.com/article/4914553-build-your-wealth-with-happy-dividends?source=feed"
       },
       {
-        "title": "MANGOS: Let's Follow The Big Money (Why I'm 30% Cash)",
+        "title": "Rare Buying Opportunity: Discounted Elite Dividend Machines With Major Macro Tailwinds",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-13T12:00:00.000Z",
+        "publishedAt": "2026-06-13T14:11:23.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914650-mangos-lets-follow-the-big-money-why-im-30-percent-cash?source=feed"
+        "url": "https://seekingalpha.com/article/4914786-rare-buying-opportunity-discounted-elite-dividend-machines-with-major-macro-tailwinds?source=feed"
       },
       {
-        "title": "Why I Put 75% Of My Portfoio In Real Assets",
+        "title": "Why I'm Still Holding Every Micron Share",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-13T11:15:00.000Z",
+        "publishedAt": "2026-06-13T13:00:21.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4913723-why-i-put-75-percent-of-my-portfoio-in-real-assets?source=feed"
+        "url": "https://seekingalpha.com/article/4914775-why-im-still-holding-every-micron-share?source=feed"
       },
       {
-        "title": "Adobe's Beat And Selloff: The Best Bargain In U.S. Tech (Rating Upgrade)",
+        "title": "This 'Looney Tunes' Market Calls For Second-Order Thinking: Here Are My Thoughts",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-13T09:20:49.000Z",
+        "publishedAt": "2026-06-13T12:30:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914748-adobes-beat-and-selloff-the-best-bargain-in-us-tech?source=feed"
+        "url": "https://seekingalpha.com/article/4913849-this-looney-tunes-market-calls-for-second-order-thinking-here-are-my-thoughts?source=feed"
       },
       {
         "title": "Blue Owl Capital: A 22% Discount To NAV Makes This One Of The Cheapest Stocks In The Market",
