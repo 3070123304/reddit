@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-14T17:43:48.705Z",
+  "generatedAt": "2026-06-14T19:56:23.425Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,52 +21,124 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
+        "title": "Knicks win adds to the market top zeitgeist - BofA",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T19:47:43.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603145-knicks-win-adds-to-the-market-top-zeitgeist-bofa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "U.K. seizes Russian &#x2018;shadow fleet&#x2019; tanker in first solo operation",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T19:31:37.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603143-u-k-seizes-russian-shadow-fleet-tanker-in-first-solo-operation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "John Hancock Freedom 529 2029-2032 Portfolio Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T19:25:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914885-john-hancock-freedom-529-2029-2032-portfolio-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "Franklin New York Intermediate-Term Tax-Free Income Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T19:14:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914884-franklin-new-york-intermediate-term-tax-free-income-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "Invesco Quality Income Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T19:06:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914883-invesco-quality-income-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "SocGen flags rare market extremes as tech volatility reaches multi-year highs",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T19:04:10.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603137-socgen-flags-rare-market-extremes-as-tech-volatility-reaches-multi-year-highs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Fidelity Freedom 2025 Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T18:51:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914882-fidelity-freedom-2025-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "SpaceX options set to debut after blockbuster market launch",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T18:27:23.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603139-spacex-options-set-to-debut-after-blockbuster-market-launch?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Columbia Small Cap Growth Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T18:24:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914881-columbia-small-cap-growth-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "Top global stories this week",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T18:17:14.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603142-top-global-stories-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Trump pushes for Iran deal as drafts reveal disputes over sanctions relief",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T18:13:34.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603141-trump-pushes-for-iran-deal-as-drafts-reveal-disputes-over-sanctions-relief?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Fed's Warsh faces early test as inflation rebounds, markets price in rate hikes",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T18:13:08.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603140-feds-warsh-faces-early-test-as-inflation-rebounds-markets-price-in-rate-hikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "The Merger Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T18:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914880-the-merger-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "Voya Global Equity Dividend And Premium Opportunity Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T17:47:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914879-voya-global-equity-dividend-and-premium-opportunity-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
         "title": "Thornburg Strategic Income Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
         "publishedAt": "2026-06-14T17:38:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914878-thornburg-strategic-income-fund-q1-2026-commentary?source=feed_all_articles"
-      },
-      {
-        "title": "Lazard is said to challenge Centerview for Venezuela debt mandate",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T17:34:45.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603134-lazard-is-said-to-challenge-centerview-for-venezuela-debt-mandate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Europe&#x2019;s defense boom brings jobs, higher costs, growing frustration",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T17:01:36.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603131-europe-s-defense-boom-brings-jobs-higher-costs-growing-frustration?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Frank founder Charlie Javice seeks Trump pardon after fraud conviction: WSJ",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T16:51:08.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603135-frank-founder-charlie-javice-seeks-trump-pardon-after-fraud-conviction-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Japan eyes Greenland rare earths as supply security concerns grow",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T16:29:19.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603132-japan-eyes-greenland-rare-earths-as-supply-security-concerns-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "AI spending boom is boosting profits now, but could pressure Big Tech returns later: Goldman Sachs",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T16:06:19.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603129-ai-spending-boom-is-boosting-profits-now-but-could-pressure-big-tech-returns-later-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
         "title": "Headwater Exploration: The Earnings Report May Announce A Strategy Change",
@@ -93,22 +165,6 @@ window.redditHotStocksData = {
         "url": "https://seekingalpha.com/article/4914876-spacex-wait-for-a-pullback?source=feed_all_articles"
       },
       {
-        "title": "Allianz nears deal for HSBC's Singapore insurance business",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T15:26:59.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603130-allianz-nears-deal-for-hsbcs-singapore-insurance-business?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Trump urges Israel to halt Lebanon strikes as Iran deal talks continue",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T15:12:14.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603133-trump-urges-israel-to-halt-lebanon-strikes-as-iran-deal-talks-continue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
         "title": "Touchstone Mid Cap Value Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
@@ -123,62 +179,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-14T14:41:58.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914874-wall-street-brunch-what-will-kevin-warsh-say?source=feed_all_articles"
-      },
-      {
-        "title": "Wall Street Brunch: What Will Kevin Warsh Say?",
-        "source": "Wall Street Breakfast",
-        "summary": "",
-        "publishedAt": "2026-06-14T14:41:58.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914874-wall-street-brunch-what-will-kevin-warsh-say?source=feed_tag_wall_st_breakfast"
-      },
-      {
-        "title": "Hoegh LNG Partners: I'm Still Long The 10.5% Yielding Preferred Shares",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T14:40:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914243-hoegh-lng-partners-i-am-still-long-10_5-percent-yielding-preferred-shares?source=feed_all_articles"
-      },
-      {
-        "title": "WESCO International: The Easy Money Has Been Made (Rating Downgrade)",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T14:33:02.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914873-wesco-international-easy-money-has-been-made?source=feed_all_articles"
-      },
-      {
-        "title": "BP's Valuation Says Buy, Yet The Balance Sheet Says Wait",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T14:26:13.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914872-bps-valuation-says-buy-yet-the-balance-sheet-says-wait?source=feed_all_articles"
-      },
-      {
-        "title": "Richtech Robotics: More Cash, More Robots, But Less Financial Trust",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T14:18:35.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914871-richtech-robotics-more-cash-more-robots-but-less-financial-trust?source=feed_all_articles"
-      },
-      {
-        "title": "Oil Is Dirt Cheap, Prepare For The Spike Up Now",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T14:15:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914519-oil-is-dirt-cheap-prepare-for-the-spike-up-now?source=feed_all_articles"
-      },
-      {
-        "title": "Wasatch International Opportunities Fund Q1 2026 Commentary",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T13:58:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914870-wasatch-international-opportunities-fund-q1-2026-commentary?source=feed_all_articles"
       }
     ],
     "popularItems": [
@@ -199,20 +199,20 @@ window.redditHotStocksData = {
         "url": "https://seekingalpha.com/article/4914693-these-are-the-two-24-percent-plus-yielding-weekly-cash-machines-id-buy?source=feed"
       },
       {
+        "title": "Blue Owl Capital: Irrational Fears Result In Massive 10% Yield Opportunity",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-14T11:50:23.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914858-blue-owl-capital-irrational-fears-result-in-massive-10-percent-yield-opportunity?source=feed"
+      },
+      {
         "title": "The S&P 500 May Be The Most Overrated Investment In America",
         "source": "Most Popular",
         "summary": "",
         "publishedAt": "2026-06-14T11:30:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914358-sp500-may-be-most-overrated-investment-in-america?source=feed"
-      },
-      {
-        "title": "Powerlaw Corp. And Its SpaceX Holding Are Now Likely A Discount-To-NAV Story, Strong Buy",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-14T11:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914851-powerlaw-corp-spacex-holding-are-now-likely-discount-to-nav-story-strong-buy?source=feed"
       },
       {
         "title": "Meta At 17x P/E: Investing Doesn't Get Any Easier",
