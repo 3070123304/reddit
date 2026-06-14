@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-14T21:38:16.633Z",
+  "generatedAt": "2026-06-14T23:26:01.958Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,6 +21,62 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
+        "title": "Stocks rally, oil slides as U.S.-Iran peace deal lifts market mood",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T23:12:30.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603154-stocks-rally-oil-slides-as-u-s-iran-peace-deal-lifts-market-mood?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Picton Property Income Limited 2026 Q4 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T23:08:17.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914888-picton-property-income-limited-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "Picton Property Income Limited 2026 Q4 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T23:07:47.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914887-picton-property-income-limited-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "Trump says Strait of Hormuz to reopen Friday following Iran agreement",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T22:59:47.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603153-trump-says-strait-of-hormuz-to-reopen-friday-following-iran-agreement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Here are the major earnings before the open Monday",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T22:00:08.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603119-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Dave &amp; Buster's Q1 2027 Earnings Preview",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T21:35:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603011-dave-and-busters-q1-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "High Tide Q2 Earnings Preview",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T21:35:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603013-high-tide-q2-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
         "title": "SpaceX wireless ambitions may be less threatening to carriers than feared: BNP Paribas",
         "source": "All News",
         "summary": "",
@@ -35,46 +91,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-14T20:48:57.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/news/4603148-odds-of-anthropic-openai-going-public-dip-after-spacex-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Medicare enrollment wave puts spotlight on costly retirement decisions",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T20:45:48.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603144-medicare-enrollment-wave-puts-spotlight-on-costly-retirement-decisions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Lundbeck reports early success for experimental Cushing's disease treatment",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T20:24:33.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603149-lundbeck-reports-early-success-for-experimental-cushings-disease-treatment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Anthropic scrambles to resolve AI dispute with White House, Axios reports",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T20:13:20.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603147-anthropic-scrambles-to-resolve-ai-dispute-with-white-house-axios-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Private equity returns may rebound as liquidity improves -- Goldman",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T20:03:40.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603146-private-equity-returns-may-rebound-as-liquidity-improves-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "U.S. HVAC shipments mixed in April as heat pumps outperform furnaces",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T20:02:28.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603136-u-s-hvac-shipments-mixed-in-april-as-heat-pumps-outperform-furnaces?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
         "title": "S&P 500: Setting Up The Second Leg Lower (Technical Analysis)",
@@ -163,22 +179,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-14T15:58:17.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914877-headwater-exploration-earnings-report-may-announce-strategy-change?source=feed_tag_editors_picks"
-      },
-      {
-        "title": "SpaceX: Wait For A Pullback",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T15:49:01.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914876-spacex-wait-for-a-pullback?source=feed_all_articles"
-      },
-      {
-        "title": "Touchstone Mid Cap Value Fund Q1 2026 Commentary",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T15:05:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914875-touchstone-mid-cap-value-fund-q1-2026-commentary?source=feed_all_articles"
       }
     ],
     "popularItems": [
