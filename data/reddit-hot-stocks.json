@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T19:56:23.425Z",
+  "generatedAt": "2026-06-14T21:38:16.633Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,20 +21,68 @@
     ],
     "items": [
       {
-        "title": "Knicks win adds to the market top zeitgeist - BofA",
+        "title": "SpaceX wireless ambitions may be less threatening to carriers than feared: BNP Paribas",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-14T19:47:43.000Z",
+        "publishedAt": "2026-06-14T21:01:47.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603145-knicks-win-adds-to-the-market-top-zeitgeist-bofa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603151-spacex-wireless-ambitions-may-be-less-threatening-to-carriers-than-feared-bnp-paribas?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "U.K. seizes Russian &#x2018;shadow fleet&#x2019; tanker in first solo operation",
+        "title": "Odds of Anthropic, OpenAI going public dip after SpaceX IPO",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-14T19:31:37.000Z",
+        "publishedAt": "2026-06-14T20:48:57.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603143-u-k-seizes-russian-shadow-fleet-tanker-in-first-solo-operation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603148-odds-of-anthropic-openai-going-public-dip-after-spacex-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Medicare enrollment wave puts spotlight on costly retirement decisions",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T20:45:48.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603144-medicare-enrollment-wave-puts-spotlight-on-costly-retirement-decisions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Lundbeck reports early success for experimental Cushing's disease treatment",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T20:24:33.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603149-lundbeck-reports-early-success-for-experimental-cushings-disease-treatment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Anthropic scrambles to resolve AI dispute with White House, Axios reports",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T20:13:20.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603147-anthropic-scrambles-to-resolve-ai-dispute-with-white-house-axios-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Private equity returns may rebound as liquidity improves -- Goldman",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T20:03:40.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603146-private-equity-returns-may-rebound-as-liquidity-improves-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "U.S. HVAC shipments mixed in April as heat pumps outperform furnaces",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T20:02:28.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603136-u-s-hvac-shipments-mixed-in-april-as-heat-pumps-outperform-furnaces?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "S&P 500: Setting Up The Second Leg Lower (Technical Analysis)",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T20:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914865-s-and-p500-setting-up-the-second-leg-lower-technical-analysis?source=feed_all_articles"
       },
       {
         "title": "John Hancock Freedom 529 2029-2032 Portfolio Q1 2026 Commentary",
@@ -61,14 +109,6 @@
         "url": "https://seekingalpha.com/article/4914883-invesco-quality-income-fund-q1-2026-commentary?source=feed_all_articles"
       },
       {
-        "title": "SocGen flags rare market extremes as tech volatility reaches multi-year highs",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T19:04:10.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603137-socgen-flags-rare-market-extremes-as-tech-volatility-reaches-multi-year-highs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
         "title": "Fidelity Freedom 2025 Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
@@ -77,44 +117,12 @@
         "url": "https://seekingalpha.com/article/4914882-fidelity-freedom-2025-fund-q1-2026-commentary?source=feed_all_articles"
       },
       {
-        "title": "SpaceX options set to debut after blockbuster market launch",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T18:27:23.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603139-spacex-options-set-to-debut-after-blockbuster-market-launch?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
         "title": "Columbia Small Cap Growth Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
         "publishedAt": "2026-06-14T18:24:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914881-columbia-small-cap-growth-fund-q1-2026-commentary?source=feed_all_articles"
-      },
-      {
-        "title": "Top global stories this week",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T18:17:14.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603142-top-global-stories-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Trump pushes for Iran deal as drafts reveal disputes over sanctions relief",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T18:13:34.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603141-trump-pushes-for-iran-deal-as-drafts-reveal-disputes-over-sanctions-relief?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Fed's Warsh faces early test as inflation rebounds, markets price in rate hikes",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-14T18:13:08.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603140-feds-warsh-faces-early-test-as-inflation-rebounds-markets-price-in-rate-hikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
         "title": "The Merger Fund Q1 2026 Commentary",
@@ -171,14 +179,6 @@
         "publishedAt": "2026-06-14T15:05:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914875-touchstone-mid-cap-value-fund-q1-2026-commentary?source=feed_all_articles"
-      },
-      {
-        "title": "Wall Street Brunch: What Will Kevin Warsh Say?",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T14:41:58.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914874-wall-street-brunch-what-will-kevin-warsh-say?source=feed_all_articles"
       }
     ],
     "popularItems": [
