@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-14T10:32:43.315Z",
+  "generatedAt": "2026-06-14T13:04:46.082Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,164 +21,164 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Chubb Limited: The Stock's Consistent Compounding Makes It A Strategic Gem",
+        "title": "Peace Hopes Revive Rally",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T10:31:25.000Z",
+        "publishedAt": "2026-06-14T13:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914848-chubb-limited-stock-stocks-consistent-compounding-makes-it-a-strategic-gem?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914836-peace-hopes-revive-rally?source=feed_all_articles"
       },
       {
-        "title": "Gabelli Preferred Stocks: Safe, But Not The Best Yield In The Room",
+        "title": "Salesforce: A New Breakdown Point Could Be Coming Fast (Rating Downgrade)",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T10:23:22.000Z",
+        "publishedAt": "2026-06-14T13:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914846-gab-preferred-stocks-safe-but-not-the-best-yield-in-the-room?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914849-salesforce-new-breakdown-point-could-be-coming-fast?source=feed_all_articles"
       },
       {
-        "title": "California Resources: The Winds Of Change In California Finally",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T10:12:21.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914845-california-resources-winds-of-change-in-california-finally?source=feed_all_articles"
-      },
-      {
-        "title": "TAV Airports: Profitability Still Depressed, But Cycle Is Turning",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T10:07:13.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914844-tav-airports-stock-profitability-still-depressed-but-cycle-is-turning?source=feed_all_articles"
-      },
-      {
-        "title": "The Simply Good Foods Company: A Hold Until Margins And Brand Momentum Improve",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T10:06:50.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914843-the-simply-good-foods-company-a-hold-until-margins-and-brand-momentum-improve?source=feed_all_articles"
-      },
-      {
-        "title": "Wall Street Week Ahead",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T10:06:03.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914853-wall-street-week-ahead?source=feed_all_articles"
-      },
-      {
-        "title": "Wall Street Week Ahead",
-        "source": "Wall Street Breakfast",
-        "summary": "",
-        "publishedAt": "2026-06-14T10:06:03.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914853-wall-street-week-ahead?source=feed_tag_wall_st_breakfast"
-      },
-      {
-        "title": "Week Ahead: 7 G10 Central Banks Meet, Only BOJ To Hike, Warsh Chairs First FOMC Meeting, G7 Summit, And Possible U.S.-Iran Agreement",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T09:45:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914847-week-ahead-7-g10-central-banks-meet-boj-to-hike-warsh-chairs-first-fomc-g7-summit-possible-us-iran-agreement?source=feed_all_articles"
-      },
-      {
-        "title": "Quantum Computing: A Speculative Buy In An Emerging Technological Frontier",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T09:37:48.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914842-quantum-computing-stock-speculative-buy-in-an-emerging-technological-frontier?source=feed_all_articles"
-      },
-      {
-        "title": "Meta At 17x P/E: Investing Doesn't Get Any Easier",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T09:25:23.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914841-meta-at-17x-pe-investing-does-not-get-any-easier?source=feed_all_articles"
-      },
-      {
-        "title": "Nova: Riding A Trillion&#x2011;Dollar Fab Capex Wave",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T09:16:11.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914840-nova-riding-a-trilliondollar-fab-capex-wave?source=feed_all_articles"
-      },
-      {
-        "title": "Nova: Riding A Trillion&#x2011;Dollar Fab Capex Wave",
+        "title": "Salesforce: A New Breakdown Point Could Be Coming Fast (Rating Downgrade)",
         "source": "Editor Picks",
         "summary": "",
-        "publishedAt": "2026-06-14T09:16:11.000Z",
+        "publishedAt": "2026-06-14T13:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914840-nova-riding-a-trilliondollar-fab-capex-wave?source=feed_tag_editors_picks"
+        "url": "https://seekingalpha.com/article/4914849-salesforce-new-breakdown-point-could-be-coming-fast?source=feed_tag_editors_picks"
       },
       {
-        "title": "'No Idea' Investing:&#xA0;How I Built A Concentrated, Fundamentals-Based Portfolio Using Nothing But Algorithms",
+        "title": "U.S., Iran edge toward deal as fighting continues and hardliners push back",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T12:54:46.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603122-u-s-iran-edge-toward-deal-as-fighting-continues-and-hardliners-push-back?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "HFRO: Assessing The New $100 Million Share Buyback Program",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T06:47:06.000Z",
+        "publishedAt": "2026-06-14T12:43:58.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914835-no-idea-investing-how-i-built-concentrated-fundamentals-based-portfolio-using-algorithms?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914862-hfro-cef-assessing-the-new-100-million-share-buyback-program?source=feed_all_articles"
       },
       {
-        "title": "ON Semiconductor: Growth Recovery Underway With Margin Expansion",
+        "title": "Snap: Growth Story Remains Unclear",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T06:21:11.000Z",
+        "publishedAt": "2026-06-14T12:38:37.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914833-on-semiconductor-growth-recovery-underway-with-margin-expansion?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914861-snap-growth-story-remains-unclear?source=feed_all_articles"
       },
       {
-        "title": "Eli Lilly: The Macro Health Crisis Is Still Undervalued",
+        "title": "FOMC Chair Warsh Won't Cut Rates Soon, A More Hawkish Fed Looms",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T06:14:12.000Z",
+        "publishedAt": "2026-06-14T12:30:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914832-eli-lilly-macro-health-crisis-still-undervalued?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914834-fomc-chair-warsh-wont-cut-rates-soon-a-more-hawkish-fed-looms?source=feed_all_articles"
       },
       {
-        "title": "SPS Commerce: Amazon Weakness Has Created A Buying Opportunity",
+        "title": "UTF: The AI Buildout Is Still Powering The 7% Yield And Delivering Alpha For Investors",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T04:49:35.000Z",
+        "publishedAt": "2026-06-14T12:30:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914831-sps-commerce-stock-amazon-weakness-has-created-a-buying-opportunity?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914856-utf-the-ai-buildout-is-still-powering-the-7-percent-yield-and-delivering-alpha-for-investors?source=feed_all_articles"
       },
       {
-        "title": "S&P 500 Snapshot: Late Week Rally Pushes Index Into Green",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T04:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914712-sp-500-snapshot-late-week-rally-pushes-index-into-green?source=feed_all_articles"
-      },
-      {
-        "title": "EOS: Provides Monthly Income And Stability For Retirees",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T04:04:55.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914830-eos-cef-provides-monthly-income-and-stability-for-retirees?source=feed_all_articles"
-      },
-      {
-        "title": "EOS: Provides Monthly Income And Stability For Retirees",
+        "title": "FOMC Chair Warsh Won't Cut Rates Soon, A More Hawkish Fed Looms",
         "source": "Editor Picks",
         "summary": "",
-        "publishedAt": "2026-06-14T04:04:55.000Z",
+        "publishedAt": "2026-06-14T12:30:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914830-eos-cef-provides-monthly-income-and-stability-for-retirees?source=feed_tag_editors_picks"
+        "url": "https://seekingalpha.com/article/4914834-fomc-chair-warsh-wont-cut-rates-soon-a-more-hawkish-fed-looms?source=feed_tag_editors_picks"
       },
       {
-        "title": "Politics And The Markets 06/14/26",
+        "title": "AI gold rush powers $100B fundraising frenzy despite rising risks: FT",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T12:28:50.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603121-ai-gold-rush-powers-100b-fundraising-frenzy-despite-rising-risks-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Why AST SpaceMobile May Be One Of The Market's Biggest Asymmetric Bets",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T04:00:00.000Z",
+        "publishedAt": "2026-06-14T12:25:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4910478-politics-and-the-markets-061426?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914839-why-ast-spacemobile-may-be-one-of-the-markets-biggest-asymmetric-bets?source=feed_all_articles"
+      },
+      {
+        "title": "Why AST SpaceMobile May Be One Of The Market's Biggest Asymmetric Bets",
+        "source": "Editor Picks",
+        "summary": "",
+        "publishedAt": "2026-06-14T12:25:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914839-why-ast-spacemobile-may-be-one-of-the-markets-biggest-asymmetric-bets?source=feed_tag_editors_picks"
+      },
+      {
+        "title": "May Inflation Print: Why The 4.2% Headline Is An Oil Story",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T12:15:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914864-may-inflation-print-why-4-2-percent-headline-is-oil-story?source=feed_all_articles"
+      },
+      {
+        "title": "Earnings week ahead: KR, ACN, CGC, JBL, and more",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-14T12:07:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4602949-earnings-week-ahead-kr-acn-cgc-jbl-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Lattice Semiconductor Transitioning To A Strong Upcycle",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T12:03:51.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914860-lattice-semiconductor-transitioning-to-a-strong-upcycle?source=feed_all_articles"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co.: Bolt-On Acquisitions Fuel Growth",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T12:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914259-arthur-gallagher-bolt-on-acquisitions-fuel-growth?source=feed_all_articles"
+      },
+      {
+        "title": "Sallie Mae's Safest Borrowers Are Suddenly Defaulting",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T12:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914837-sallie-mae-safest-borrowers-suddenly-defaulting?source=feed_all_articles"
+      },
+      {
+        "title": "Sallie Mae's Safest Borrowers Are Suddenly Defaulting",
+        "source": "Editor Picks",
+        "summary": "",
+        "publishedAt": "2026-06-14T12:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914837-sallie-mae-safest-borrowers-suddenly-defaulting?source=feed_tag_editors_picks"
+      },
+      {
+        "title": "Park Aerospace: The Double Juggernaut Is Just Getting Started",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-14T11:50:31.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914859-park-aerospace-the-double-juggernaut-is-just-getting-started?source=feed_all_articles"
+      },
+      {
+        "title": "Park Aerospace: The Double Juggernaut Is Just Getting Started",
+        "source": "Editor Picks",
+        "summary": "",
+        "publishedAt": "2026-06-14T11:50:31.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914859-park-aerospace-the-double-juggernaut-is-just-getting-started?source=feed_tag_editors_picks"
       }
     ],
     "popularItems": [
