@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-15T12:41:38.885Z",
+  "generatedAt": "2026-06-15T18:03:17.870Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,167 +21,183 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "iShares U.S. Utilities ETF declares quarterly distribution of $0.6315",
+        "title": "Shareholders sue Microsoft: \"Was AI, Azure growth story too good to be true?\"",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T12:39:58.000Z",
+        "publishedAt": "2026-06-15T18:00:01.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603356-ishares-us-utilities-etf-declares-quarterly-distribution-of-06315?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603663-shareholders-sue-microsoft-was-ai-azure-growth-story-too-good-to-be-true?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "iShares&#xAE; ESG MSCI EM Leaders ETF declares semi-annual distribution of $0.4964",
+        "title": "BioCryst Pharmaceuticals: Management's Plans For Multibillion HAE Franchise Add Up",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T17:59:19.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915096-biocryst-pharmaceuticals-management-plans-for-multibillion-hae-franchise-add-up?source=feed_all_articles"
+      },
+      {
+        "title": "AI stocks with real revenue growth: Who's leading the pack?",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T12:39:07.000Z",
+        "publishedAt": "2026-06-15T17:57:30.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603355-ishares-esg-msci-em-leaders-etf-declares-semi-annual-distribution-of-04964?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603103-ai-stocks-with-real-revenue-growth-whos-leading-the-pack?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "iShares U.S. Digital Infrastructure and Real Estate ETF declares quarterly distribution of $0.1241",
+        "title": "HEFT: Long-Short ETF Focused On Macro Trends",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T17:56:04.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915095-heft-long-short-etf-focused-on-macro-trends?source=feed_all_articles"
+      },
+      {
+        "title": "REITs remain resilient despite rates, volatility, Auerbach says",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T12:38:25.000Z",
+        "publishedAt": "2026-06-15T17:55:59.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603354-ishares-us-digital-infrastructure-and-real-estate-etf-declares-quarterly-distribution-of-01241?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603680-reits-remain-resilient-despite-rates-volatility-auerbach-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "iShares World ex U.S. Carbon Transition Readiness Aware Active ETF declares semi-annual distribution of $0.9559",
+        "title": "Voya Target Retirement Trust Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T17:52:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915094-voya-target-retirement-trust-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "Update On The VDE ETF As The Hold Rating Stands",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T17:50:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915093-update-on-the-vde-etf-as-the-hold-rating-stands?source=feed_all_articles"
+      },
+      {
+        "title": "Top gold-mining stocks by Quant rating as gold prices recover",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T12:38:15.000Z",
+        "publishedAt": "2026-06-15T17:46:04.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603353-ishares-world-ex-us-carbon-transition-readiness-aware-active-etf-declares-semi-annual-distribution-of-09559?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603677-top-gold-mining-stocks-by-quant-rating-as-gold-prices-recover?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Bringing back Tarjay: Target taps Isaac Mizrahi as creative director at large",
+        "title": "CoreWeave: The Liabilities Keep On Piling Up",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T17:42:32.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915090-coreweave-the-liabilities-keep-on-piling-up?source=feed_all_articles"
+      },
+      {
+        "title": "Coda Octopus Group, Inc. (CODA) Q2 2026 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T17:42:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915057-coda-octopus-group-inc-coda-q2-2026-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Strong Earnings Key As Rates Stay High",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T17:42:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915091-strong-earnings-key-rates-stay-high?source=feed_all_articles"
+      },
+      {
+        "title": "Dow tops record high, and here&#x2019;s how all 30 stocks rank according to SA Quant Ratings",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T12:37:47.000Z",
+        "publishedAt": "2026-06-15T17:38:50.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603272-bringing-back-tarjay-target-taps-isaac-mizrahi-as-creative-director-at-large?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603674-dow-tops-record-high-and-heres-how-all-30-stocks-rank-according-to-sa-quant-ratings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "iShares Select U.S. REIT ETF declares quarterly distribution of $0.3817",
+        "title": "Zeta Global: Sheltered From AI Disruption, Another Buyable Dip",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T17:38:01.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915087-zeta-global-sheltered-from-ai-disruption-another-buyable-dip?source=feed_all_articles"
+      },
+      {
+        "title": "Markets are overestimating progress on the U.S.-Iran conflict; the oil picture is still concerning &#x2013; analyst",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T12:36:48.000Z",
+        "publishedAt": "2026-06-15T17:36:19.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603352-ishares-select-us-reit-etf-declares-quarterly-distribution-of-03817?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603676-markets-are-overestimating-progress-on-the-u-s-iran-conflict-oil-picture-is-still-concerning?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "iShares Global Consumer Staples ETF declares semi-annual distribution of $0.8195",
+        "title": "Summit Therapeutics: Getting A Foot In The Door Isn't Getting Through It",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T17:35:43.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915086-summit-therapeutics-getting-a-foot-in-the-door-isnt-getting-through-it?source=feed_all_articles"
+      },
+      {
+        "title": "Snap set to end six straight sessions of losses",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T12:36:24.000Z",
+        "publishedAt": "2026-06-15T17:34:21.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603351-ishares-global-consumer-staples-etf-declares-semi-annual-distribution-of-08195?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603673-snap-set-to-end-six-straight-sessions-of-losses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Novo Nordisk: The Danish Empire Strikes Back",
+        "title": "DGS: Emerging Market Small-Cap ETF With An Attractive Yield",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T12:34:46.000Z",
+        "publishedAt": "2026-06-15T17:31:37.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914991-novo-nordisk-stock-danish-empire-strikes-back?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915085-dgs-emerging-market-small-cap-etf-with-an-attractive-yield?source=feed_all_articles"
       },
       {
-        "title": "Dividend Harvesting Portfolio Week 276: $27,600 Allocated, $3,076.33 In Projected Dividends",
+        "title": "Thornburg Summit Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T12:30:47.000Z",
+        "publishedAt": "2026-06-15T17:29:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914973-dividend-harvesting-portfolio-week-276-27600-allocated-3076n-projected-dividends?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915083-thornburg-summit-fund-q1-2026-commentary?source=feed_all_articles"
       },
       {
-        "title": "Verizon Wireless: Three Wild Cards Could Still Boost Stock Higher",
+        "title": "Figure Technology: Massive Unclaimed Market Opportunity And Tremendous Execution",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T12:30:00.000Z",
+        "publishedAt": "2026-06-15T17:26:03.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914536-verizon-wireless-three-wild-cards-could-still-boost-stock-higher?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915082-figure-massive-unclaimed-market-opportunity-and-tremendous-execution?source=feed_all_articles"
       },
       {
-        "title": "Wasatch Global Opportunities Fund Q1 2026 Commentary",
+        "title": "Ondas: Drone Bet, Premium Value, Execution Risks",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T12:29:00.000Z",
+        "publishedAt": "2026-06-15T17:23:43.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914989-wasatch-global-opportunities-fund-q1-2026-commentary?source=feed_all_articles"
-      },
-      {
-        "title": "Bull Market Pullback: Why The 4.5% Dip Held The 50-DMA",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T12:29:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914990-bull-market-pullback-why-4-5-percent-dip-held-50-dma?source=feed_all_articles"
-      },
-      {
-        "title": "Kimco Realty: A Sleep-Well-At-Night REIT With Growth Ahead",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T12:15:23.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914953-kimco-realty-stock-sleep-well-at-night-reit-with-growth-ahead?source=feed_all_articles"
-      },
-      {
-        "title": "SpaceX: The $2 Trillion Valuation Makes No Sense",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T12:15:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914968-spacex-the-2-trillion-valuation-makes-no-sense?source=feed_all_articles"
-      },
-      {
-        "title": "JEPQ: Tech-Heavy Covered Call ETF, Strong Distribution Yield, Market-Beating Returns",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T12:02:52.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914987-jepq-tech-heavy-covered-call-etf-strong-distribution-yield-market-beating-returns?source=feed_all_articles"
-      },
-      {
-        "title": "Insperity's 70% Collapse May Not Be Cheap Enough Yet",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T12:00:49.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914986-insperitys-70-percent-collapse-may-not-be-cheap-enough-yet?source=feed_all_articles"
-      },
-      {
-        "title": "Evergy: Power Up Your Portfolio With 3.4% Yield And 5% Dividend Growth",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T12:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914434-evergy-stock-power-up-your-portfolio-3-percent-yield-5-percent-dividend-growth?source=feed_all_articles"
-      },
-      {
-        "title": "Three Viable, Buyable, Fast-Growing Senior Housing REITs",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T12:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914528-three-viable-buyable-fast-growing-senior-housing-reits?source=feed_all_articles"
-      },
-      {
-        "title": "Adobe: The AI Discount Is Not Yet Fully Priced",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T11:59:26.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914985-adobe-the-ai-discount-is-not-yet-fully-priced?source=feed_all_articles"
-      },
-      {
-        "title": "Forbright: Distinctive And Interesting Banking Play",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T11:55:50.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914984-forbright-distinctive-and-interesting-banking-play?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915081-ondas-drone-bet-premium-value-execution-risks?source=feed_all_articles"
       }
     ],
     "popularItems": [
+      {
+        "title": "2 Picks To Turn $1 Million Into $75,000 Of Annual Income",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-15T11:35:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914838-2-picks-to-turn-1-million-into-75000-of-annual-income?source=feed"
+      },
+      {
+        "title": "How I Would Invest $2 Million To Retire On Dividends",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-15T11:05:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914939-how-i-would-invest-2-million-to-retire-on-dividends?source=feed"
+      },
       {
         "title": "The S&P 500's Missing Giant: What Happens If The 6th-Largest Stock Stays Out A Full Year?",
         "source": "Most Popular",
@@ -207,20 +223,12 @@ window.redditHotStocksData = {
         "url": "https://seekingalpha.com/article/4914909-meta-stock-valuation-gap-is-hard-to-ignore?source=feed"
       },
       {
-        "title": "Lumentum: A High-Risk, High-Reward AI Infrastructure Play",
+        "title": "SpaceX: Wait For A Pullback",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-15T04:58:23.000Z",
+        "publishedAt": "2026-06-14T15:49:01.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914908-lumentum-stock-high-risk-high-reward-ai-infrastructure-play?source=feed"
-      },
-      {
-        "title": "Blue Owl Capital: Once-In-A-Decade Opportunity",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-15T04:39:51.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914906-blue-owl-capital-once-in-a-decade-opportunity?source=feed"
+        "url": "https://seekingalpha.com/article/4914876-spacex-wait-for-a-pullback?source=feed"
       },
       {
         "title": "Oil Is Dirt Cheap, Prepare For The Spike Up Now",
@@ -229,14 +237,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-14T14:15:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914519-oil-is-dirt-cheap-prepare-for-the-spike-up-now?source=feed"
-      },
-      {
-        "title": "The Fed May Have A Hawkish Surprise For Markets This Week",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-14T13:55:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914798-the-fed-may-have-a-hawkish-surprise-for-markets-this-week?source=feed"
       },
       {
         "title": "These Are The Two 24%+ Yielding Weekly Cash Machines I'd Buy",
