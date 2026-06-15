@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-14T23:26:01.958Z",
+  "generatedAt": "2026-06-15T05:26:42.327Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,164 +21,164 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Stocks rally, oil slides as U.S.-Iran peace deal lifts market mood",
+        "title": "PGIM Jennison Financial Services Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T05:25:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914916-pgim-jennison-financial-services-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "Asian equities and U.S. futures rally on US-Iran peace breakthrough; crude oil plunges 5%",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-14T23:12:30.000Z",
+        "publishedAt": "2026-06-15T05:06:27.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603154-stocks-rally-oil-slides-as-u-s-iran-peace-deal-lifts-market-mood?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603157-asian-equities-and-us-futures-rally-on-us-iran-peace-breakthrough-crude-oil-plunges-5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Picton Property Income Limited 2026 Q4 - Results - Earnings Call Presentation",
+        "title": "BlackRock Health Sciences Opportunities Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T23:08:17.000Z",
+        "publishedAt": "2026-06-15T05:05:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914888-picton-property-income-limited-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914913-blackrock-health-sciences-opportunities-fund-q1-2026-commentary?source=feed_all_articles"
       },
       {
-        "title": "Picton Property Income Limited 2026 Q4 - Results - Earnings Call Presentation",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T23:07:47.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914887-picton-property-income-limited-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
-      },
-      {
-        "title": "Trump says Strait of Hormuz to reopen Friday following Iran agreement",
+        "title": "ByteDance weighs chips from Iluvatar CoreX and Baidu's Kunlunxin to power AI - report",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-14T22:59:47.000Z",
+        "publishedAt": "2026-06-15T05:04:38.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603153-trump-says-strait-of-hormuz-to-reopen-friday-following-iran-agreement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603160-bytedance-weighs-chips-from-iluvatar-corex-and-baidus-kunlunxin-to-power-ai---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Here are the major earnings before the open Monday",
+        "title": "Meta: Valuation Gap Is Hard To Ignore",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T05:04:17.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914909-meta-stock-valuation-gap-is-hard-to-ignore?source=feed_all_articles"
+      },
+      {
+        "title": "SpaceX logs historic retail investor demand on IPO day",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-14T22:00:08.000Z",
+        "publishedAt": "2026-06-15T05:00:10.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603119-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603156-spacex-logs-historic-retail-investor-demand-on-ipo-day?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Dave &amp; Buster's Q1 2027 Earnings Preview",
+        "title": "Lumentum: A High-Risk, High-Reward AI Infrastructure Play",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T04:58:23.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914908-lumentum-stock-high-risk-high-reward-ai-infrastructure-play?source=feed_all_articles"
+      },
+      {
+        "title": "Blue Owl Capital: Once-In-A-Decade Opportunity",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T04:39:51.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914906-blue-owl-capital-once-in-a-decade-opportunity?source=feed_all_articles"
+      },
+      {
+        "title": "Asian tech stocks soar; SoftBank leads rally on U.S.-Iran peace deal",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-14T21:35:00.000Z",
+        "publishedAt": "2026-06-15T04:38:01.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603011-dave-and-busters-q1-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603155-asian-tech-stocks-soar-softbank-leads-rally-on-us-iran-peace-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "High Tide Q2 Earnings Preview",
+        "title": "Perseus Mining completes A$100M buyback; boosts program by additional A$50M to A$150M total",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-14T21:35:00.000Z",
+        "publishedAt": "2026-06-15T04:32:51.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603013-high-tide-q2-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603163-perseus-mining-completes-a100m-buyback-boosts-program-by-additional-a50m-to-a150m-total?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "SpaceX wireless ambitions may be less threatening to carriers than feared: BNP Paribas",
+        "title": "Heartland Express declares $0.02 dividend",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-14T21:01:47.000Z",
+        "publishedAt": "2026-06-15T04:17:07.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603151-spacex-wireless-ambitions-may-be-less-threatening-to-carriers-than-feared-bnp-paribas?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603161-heartland-express-declares-002-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Odds of Anthropic, OpenAI going public dip after SpaceX IPO",
+        "title": "eToro looks to buy two wealth-tech firms, expand into payments: FT",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-14T20:48:57.000Z",
+        "publishedAt": "2026-06-15T04:15:47.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603148-odds-of-anthropic-openai-going-public-dip-after-spacex-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603159-etoro-looks-to-buy-two-wealth-tech-firms-expand-into-payments-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "S&P 500: Setting Up The Second Leg Lower (Technical Analysis)",
+        "title": "Bloomin' Brands: Why We Own It",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T20:00:00.000Z",
+        "publishedAt": "2026-06-15T04:10:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914865-s-and-p500-setting-up-the-second-leg-lower-technical-analysis?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914910-bloomin-brands-why-we-own-it?source=feed_all_articles"
       },
       {
-        "title": "John Hancock Freedom 529 2029-2032 Portfolio Q1 2026 Commentary",
+        "title": "Politics And The Markets 06/15/26",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T19:25:00.000Z",
+        "publishedAt": "2026-06-15T04:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914885-john-hancock-freedom-529-2029-2032-portfolio-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4910479-politics-and-the-markets-061526?source=feed_all_articles"
       },
       {
-        "title": "Franklin New York Intermediate-Term Tax-Free Income Fund Q1 2026 Commentary",
+        "title": "The Gabelli U.S. Treasury Money Market Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T19:14:00.000Z",
+        "publishedAt": "2026-06-15T04:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914884-franklin-new-york-intermediate-term-tax-free-income-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914907-the-gabelli-us-treasury-money-market-fund-q1-2026-commentary?source=feed_all_articles"
       },
       {
-        "title": "Invesco Quality Income Fund Q1 2026 Commentary",
+        "title": "GPIX: Retirees Don't Need The 4% Rule With This Monthly Income ETF",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T19:06:00.000Z",
+        "publishedAt": "2026-06-15T03:49:15.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914883-invesco-quality-income-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914904-gpix-retirees-dont-need-the-4-percent-rule-with-this-monthly-income-etf?source=feed_all_articles"
       },
       {
-        "title": "Fidelity Freedom 2025 Fund Q1 2026 Commentary",
+        "title": "OEF: Earnings Growth Trends Don't Favor The Market's Top 100 Stocks",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T18:51:00.000Z",
+        "publishedAt": "2026-06-15T03:28:19.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914882-fidelity-freedom-2025-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914903-oef-etf-earnings-growth-trends-dont-favor-market-top-100-stocks?source=feed_all_articles"
       },
       {
-        "title": "Columbia Small Cap Growth Fund Q1 2026 Commentary",
+        "title": "Gold Reserve Still Has Some Optionality, But The Easy Money Has Already Played Out",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T18:24:00.000Z",
+        "publishedAt": "2026-06-15T03:27:28.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914881-columbia-small-cap-growth-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914902-gold-reserve-still-has-some-optionality-but-easy-money-already-played-out-downgrade-hold?source=feed_all_articles"
       },
       {
-        "title": "The Merger Fund Q1 2026 Commentary",
+        "title": "XLF: Why I Am Downgrading Large Financial Stocks Again",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T18:00:00.000Z",
+        "publishedAt": "2026-06-15T03:04:44.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914880-the-merger-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4914901-xlf-etf-i-am-downgrading-large-financial-stocks-again?source=feed_all_articles"
       },
       {
-        "title": "Voya Global Equity Dividend And Premium Opportunity Fund Q1 2026 Commentary",
+        "title": "Vizsla Royalties: Attractive Arbitrage, Though Returns Depend On Deal Terms",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-14T17:47:00.000Z",
+        "publishedAt": "2026-06-15T03:01:27.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914879-voya-global-equity-dividend-and-premium-opportunity-fund-q1-2026-commentary?source=feed_all_articles"
-      },
-      {
-        "title": "Thornburg Strategic Income Fund Q1 2026 Commentary",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T17:38:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914878-thornburg-strategic-income-fund-q1-2026-commentary?source=feed_all_articles"
-      },
-      {
-        "title": "Headwater Exploration: The Earnings Report May Announce A Strategy Change",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-14T15:58:17.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914877-headwater-exploration-earnings-report-may-announce-strategy-change?source=feed_all_articles"
-      },
-      {
-        "title": "Headwater Exploration: The Earnings Report May Announce A Strategy Change",
-        "source": "Editor Picks",
-        "summary": "",
-        "publishedAt": "2026-06-14T15:58:17.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914877-headwater-exploration-earnings-report-may-announce-strategy-change?source=feed_tag_editors_picks"
+        "url": "https://seekingalpha.com/article/4914900-vizsla-royalties-attractive-arbitrage-though-returns-depend-on-deal-terms?source=feed_all_articles"
       }
     ],
     "popularItems": [
@@ -191,20 +191,20 @@ window.redditHotStocksData = {
         "url": "https://seekingalpha.com/article/4914519-oil-is-dirt-cheap-prepare-for-the-spike-up-now?source=feed"
       },
       {
+        "title": "The Fed May Have A Hawkish Surprise For Markets This Week",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-14T13:55:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914798-the-fed-may-have-a-hawkish-surprise-for-markets-this-week?source=feed"
+      },
+      {
         "title": "These Are The Two 24%+ Yielding Weekly Cash Machines I'd Buy",
         "source": "Most Popular",
         "summary": "",
         "publishedAt": "2026-06-14T13:15:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914693-these-are-the-two-24-percent-plus-yielding-weekly-cash-machines-id-buy?source=feed"
-      },
-      {
-        "title": "Blue Owl Capital: Irrational Fears Result In Massive 10% Yield Opportunity",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-14T11:50:23.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914858-blue-owl-capital-irrational-fears-result-in-massive-10-percent-yield-opportunity?source=feed"
       },
       {
         "title": "The S&P 500 May Be The Most Overrated Investment In America",
