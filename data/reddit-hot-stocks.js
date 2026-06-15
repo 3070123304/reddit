@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-15T18:03:17.870Z",
+  "generatedAt": "2026-06-15T21:19:52.855Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,164 +21,164 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Shareholders sue Microsoft: \"Was AI, Azure growth story too good to be true?\"",
+        "title": "Galantas shareholders approve Sol de Oro acquisition, appoints new CFO",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T18:00:01.000Z",
+        "publishedAt": "2026-06-15T21:17:21.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603663-shareholders-sue-microsoft-was-ai-azure-growth-story-too-good-to-be-true?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603826-galantas-shareholders-approve-sol-de-oro-acquisition-appoints-new-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "BioCryst Pharmaceuticals: Management's Plans For Multibillion HAE Franchise Add Up",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T17:59:19.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915096-biocryst-pharmaceuticals-management-plans-for-multibillion-hae-franchise-add-up?source=feed_all_articles"
-      },
-      {
-        "title": "AI stocks with real revenue growth: Who's leading the pack?",
+        "title": "Gilead weekly Yeztugo HIV pill sNDA accepted by FDA",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T17:57:30.000Z",
+        "publishedAt": "2026-06-15T21:14:26.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603103-ai-stocks-with-real-revenue-growth-whos-leading-the-pack?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603822-gilead-weekly-yeztugo-hiv-pill-snda-accepted-by-fda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "HEFT: Long-Short ETF Focused On Macro Trends",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T17:56:04.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915095-heft-long-short-etf-focused-on-macro-trends?source=feed_all_articles"
-      },
-      {
-        "title": "REITs remain resilient despite rates, volatility, Auerbach says",
+        "title": "Blue Ant Media restructures global media operations; leadership changes follow",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T17:55:59.000Z",
+        "publishedAt": "2026-06-15T21:09:41.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603680-reits-remain-resilient-despite-rates-volatility-auerbach-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603820-blue-ant-media-restructures-global-media-operations-leadership-changes-follow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Voya Target Retirement Trust Q1 2026 Commentary",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T17:52:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915094-voya-target-retirement-trust-q1-2026-commentary?source=feed_all_articles"
-      },
-      {
-        "title": "Update On The VDE ETF As The Hold Rating Stands",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T17:50:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915093-update-on-the-vde-etf-as-the-hold-rating-stands?source=feed_all_articles"
-      },
-      {
-        "title": "Top gold-mining stocks by Quant rating as gold prices recover",
+        "title": "Lovesac appoints new CFO, reaffirms FY2027 guidance",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T17:46:04.000Z",
+        "publishedAt": "2026-06-15T21:08:51.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603677-top-gold-mining-stocks-by-quant-rating-as-gold-prices-recover?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603823-lovesac-appoints-new-cfo-reaffirms-fy2027-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "CoreWeave: The Liabilities Keep On Piling Up",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T17:42:32.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915090-coreweave-the-liabilities-keep-on-piling-up?source=feed_all_articles"
-      },
-      {
-        "title": "Coda Octopus Group, Inc. (CODA) Q2 2026 Earnings Call Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T17:42:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915057-coda-octopus-group-inc-coda-q2-2026-earnings-call-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Strong Earnings Key As Rates Stay High",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T17:42:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915091-strong-earnings-key-rates-stay-high?source=feed_all_articles"
-      },
-      {
-        "title": "Dow tops record high, and here&#x2019;s how all 30 stocks rank according to SA Quant Ratings",
+        "title": "Pharma-Bio Serv reports Q2 results",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T17:38:50.000Z",
+        "publishedAt": "2026-06-15T21:05:50.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603674-dow-tops-record-high-and-heres-how-all-30-stocks-rank-according-to-sa-quant-ratings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603821-pharma-bio-serv-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Zeta Global: Sheltered From AI Disruption, Another Buyable Dip",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T17:38:01.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915087-zeta-global-sheltered-from-ai-disruption-another-buyable-dip?source=feed_all_articles"
-      },
-      {
-        "title": "Markets are overestimating progress on the U.S.-Iran conflict; the oil picture is still concerning &#x2013; analyst",
+        "title": "Kohl's names Foot Locker exec as new COO",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T17:36:19.000Z",
+        "publishedAt": "2026-06-15T21:04:39.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603676-markets-are-overestimating-progress-on-the-u-s-iran-conflict-oil-picture-is-still-concerning?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603807-kohls-names-foot-locker-exec-as-new-coo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Summit Therapeutics: Getting A Foot In The Door Isn't Getting Through It",
+        "title": "Applied Materials: Not Cheap Enough To Buy, Too Strong To Sell",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T17:35:43.000Z",
+        "publishedAt": "2026-06-15T21:04:12.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915086-summit-therapeutics-getting-a-foot-in-the-door-isnt-getting-through-it?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915135-applied-materials-not-cheap-enough-to-buy-too-strong-to-sell?source=feed_all_articles"
       },
       {
-        "title": "Snap set to end six straight sessions of losses",
+        "title": "Grafton Group plc (GROUF) Analyst/Investor Day Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T21:02:10.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915040-grafton-group-plc-grouf-analyst-investor-day-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "The World Thinks The War Is Over - Why It's Not",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T21:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915075-the-world-thinks-the-war-is-over-why-its-not?source=feed_all_articles"
+      },
+      {
+        "title": "Voya Emerging Markets High Dividend Equity Fund declares $0.055 dividend",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T17:34:21.000Z",
+        "publishedAt": "2026-06-15T20:58:56.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603673-snap-set-to-end-six-straight-sessions-of-losses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603819-voya-emerging-markets-high-dividend-equity-fund-declares-0_055-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "DGS: Emerging Market Small-Cap ETF With An Attractive Yield",
+        "title": "Salesforce Is Consuming Everything Between AI And Itself",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T17:31:37.000Z",
+        "publishedAt": "2026-06-15T20:54:02.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915085-dgs-emerging-market-small-cap-etf-with-an-attractive-yield?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915134-salesforce-is-consuming-everything-between-ai-and-itself?source=feed_all_articles"
       },
       {
-        "title": "Thornburg Summit Fund Q1 2026 Commentary",
+        "title": "Keyera Corp. (KEY:CA) Q4 2026 Guidance Call Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T17:29:00.000Z",
+        "publishedAt": "2026-06-15T20:52:11.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915083-thornburg-summit-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915088-keyera-corp-key-ca-q4-2026-guidance-call-transcript?source=feed_all_articles"
       },
       {
-        "title": "Figure Technology: Massive Unclaimed Market Opportunity And Tremendous Execution",
+        "title": "Sanofi 'Strong Buy': Continued Dupxient Sales Growth And Sarclisa OBI First",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T17:26:03.000Z",
+        "publishedAt": "2026-06-15T20:49:17.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915082-figure-massive-unclaimed-market-opportunity-and-tremendous-execution?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915133-sanofi-strong-buy-continued-dupxient-sales-growth-and-sarclisa-obi-first?source=feed_all_articles"
       },
       {
-        "title": "Ondas: Drone Bet, Premium Value, Execution Risks",
+        "title": "AVUS: This All-American Fund Is Quietly Outperforming Its Peers",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T17:23:43.000Z",
+        "publishedAt": "2026-06-15T20:44:35.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915081-ondas-drone-bet-premium-value-execution-risks?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915132-avus-this-all-american-fund-is-quietly-outperforming-its-peers?source=feed_all_articles"
+      },
+      {
+        "title": "The ETF World Cup: The Winner Is EPU, But I Prefer EWY",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T20:31:27.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915128-the-etf-world-cup-the-winner-is-epu-but-i-prefer-ewy?source=feed_all_articles"
+      },
+      {
+        "title": "Crinetics Pharmaceuticals, Inc. (CRNX) Presents at Endocrine Society's Annual Meeting (ENDO 2026) - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T20:30:55.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915139-crinetics-pharmaceuticals-inc-crnx-presents-at-endocrine-societys-annual-meeting-endo-2026?source=feed_all_articles"
+      },
+      {
+        "title": "SpaceX: The $2 Trillion Stock That Already Left Earth",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T20:18:13.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915126-spacex-the-2-trillion-stock-that-already-left-earth?source=feed_all_articles"
+      },
+      {
+        "title": "QYOU Media Inc. (QYOU:CA) Q4 2025 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T20:12:10.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915119-qyou-media-inc-qyou-ca-q4-2025-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Qiagen N.V. (QGEN) Discusses Digital PCR Technology and Applications in Environmental Sample Analysis Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T20:12:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915076-qiagen-n-v-qgen-discusses-digital-pcr-technology-and-applications-in-environmental-sample?source=feed_all_articles"
+      },
+      {
+        "title": "Lotus Technology: Reiterating Sell On Impending Dilution And Overambitious Targets",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T20:05:19.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915125-lotus-technology-reiterating-sell-on-impending-dilution-and-overambitious-targets?source=feed_all_articles"
       }
     ],
     "popularItems": [
@@ -199,6 +199,14 @@ window.redditHotStocksData = {
         "url": "https://seekingalpha.com/article/4914939-how-i-would-invest-2-million-to-retire-on-dividends?source=feed"
       },
       {
+        "title": "Astera Labs Owns The AI Bottleneck Nobody Talks About",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-15T10:30:03.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914969-astera-labs-owns-the-ai-bottleneck-nobody-talks-about?source=feed"
+      },
+      {
         "title": "The S&P 500's Missing Giant: What Happens If The 6th-Largest Stock Stays Out A Full Year?",
         "source": "Most Popular",
         "summary": "",
@@ -213,14 +221,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-15T06:26:28.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914917-ondas-defense-moat-versus-324-percent-share-dilution?source=feed"
-      },
-      {
-        "title": "Meta: Valuation Gap Is Hard To Ignore",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-15T05:04:17.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914909-meta-stock-valuation-gap-is-hard-to-ignore?source=feed"
       },
       {
         "title": "SpaceX: Wait For A Pullback",
