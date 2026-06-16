@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-16T00:01:02.108Z",
+  "generatedAt": "2026-06-16T05:29:43.849Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,169 +21,183 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Microsoft Looks Cheap - The Cash Flow Says Otherwise",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T23:46:45.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915162-microsoft-looks-cheap-the-cash-flow-says-otherwise?source=feed_all_articles"
-      },
-      {
-        "title": "U.S., Iran agree Strait of Hormuz will be toll-free for 60 days, but after is unclear",
+        "title": "Qualcomm working on 40+ new AI devices to power 'agents', CEO says",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T23:37:16.000Z",
+        "publishedAt": "2026-06-16T05:22:05.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603833-us-iran-agree-strait-of-hormuz-will-be-toll-free-for-60-days-but-after-is-unclear?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603857-qualcomm-working-on-40-new-ai-devices-to-power-agents-ceo-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Domo outlines strategic transaction talks as gross retention rises to 86.7%",
+        "title": "Red Cat: The Fundamentals Are Catching Up To The Hype",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T05:16:22.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915209-red-cat-stock-fundamentals-are-catching-up-to-the-hype?source=feed_all_articles"
+      },
+      {
+        "title": "Red Cat: The Fundamentals Are Catching Up To The Hype",
+        "source": "Editor Picks",
+        "summary": "",
+        "publishedAt": "2026-06-16T05:16:22.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915209-red-cat-stock-fundamentals-are-catching-up-to-the-hype?source=feed_tag_editors_picks"
+      },
+      {
+        "title": "PGIM Jennison Energy Infrastructure Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T05:15:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915223-pgim-jennison-energy-infrastructure-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "Murata, Synopsys team up on simulation models for Ansys tools",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T23:22:52.000Z",
+        "publishedAt": "2026-06-16T05:14:49.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603835-domo-outlines-strategic-transaction-talks-as-gross-retention-rises-to-86_7-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603847-murata-synopsys-team-up-on-simulation-models-for-ansys-tools?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Domo, Inc. (DOMO) Q1 2027 Earnings Call Prepared Remarks Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T23:22:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915158-domo-inc-domo-q1-2027-earnings-call-prepared-remarks-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Janus Henderson Group Plc (JHG) Shareholder/Analyst Call Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T23:19:41.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910095-janus-henderson-group-plc-jhg-shareholder-analyst-call-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "RF Industries expects sequential Q3 sales growth as backlog reaches $20.1M",
+        "title": "GM considers supplying weapon parts to Lockheed Martin - report",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T23:13:23.000Z",
+        "publishedAt": "2026-06-16T05:11:49.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603834-rf-industries-expects-sequential-q3-sales-growth-as-backlog-reaches-20_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603849-gm-considers-supplying-weapon-parts-to-lockheed-martin---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "RF Industries, Ltd. (RFIL) Q2 2026 Earnings Call Transcript",
+        "title": "Nestl&#xE9;: Not Cheap Enough As Risks Continue To Mount",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T23:12:11.000Z",
+        "publishedAt": "2026-06-16T05:08:02.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915156-rf-industries-ltd-rfil-q2-2026-earnings-call-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915207-nestl-not-cheap-enough-as-risks-continue-to-mount?source=feed_all_articles"
       },
       {
-        "title": "Agios Pharmaceuticals, Inc. (AGIO) Discusses New Data and Strategic Expansion in Rare Hematology at EHA Investor Event - Slideshow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T23:08:12.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915169-agios-pharmaceuticals-inc-agio-discusses-new-data-and-strategic-expansion-in-rare-hematology?source=feed_all_articles"
-      },
-      {
-        "title": "BitFuFu Inc. (FUFU) Q1 2026 Earnings Call Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T23:07:47.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910022-bitfufu-inc-fufu-q1-2026-earnings-call-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Ionis Pharmaceuticals, Inc. (IONS) Presents at National Lipid Association (NLA) 2026 Scientific Sessions - Slideshow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T23:07:21.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915168-ionis-pharmaceuticals-inc-ions-presents-at-national-lipid-association-nla-2026-scientific?source=feed_all_articles"
-      },
-      {
-        "title": "Enliven Therapeutics, Inc. (ELVN) Presents at European Hematology Association (EHA) 2026 Congress - Slideshow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T23:04:44.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915167-enliven-therapeutics-inc-elvn-presents-at-european-hematology-association-eha-2026-congress?source=feed_all_articles"
-      },
-      {
-        "title": "LPP SA 2027 Q1 - Results - Earnings Call Presentation",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T23:01:55.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915166-lpp-sa-2027-q1-results-earnings-call-presentation?source=feed_all_articles"
-      },
-      {
-        "title": "Major Drilling Group International Inc. 2026 Q4 - Results - Earnings Call Presentation",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T23:01:02.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915165-major-drilling-group-international-inc-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
-      },
-      {
-        "title": "Wizz Air Holdings Plc 2026 Q4 - Results - Earnings Call Presentation",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T23:00:38.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915164-wizz-air-holdings-plc-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
-      },
-      {
-        "title": "Wintrust Financial Is Getting Closer To A Downgrade",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T22:59:37.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915157-wintrust-financial-is-getting-closer-to-a-downgrade?source=feed_all_articles"
-      },
-      {
-        "title": "Acacia Research: Hold On, But A Better Buy At Lower Prices",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T22:41:22.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915154-acacia-research-hold-on-but-a-better-buy-at-lower-prices?source=feed_all_articles"
-      },
-      {
-        "title": "SSR Mining reinstates dividend, authorizes additional $500M stock buyback",
+        "title": "RBA keeps benchmark rate unchanged at 4.35%, warns inflation risks remain elevated",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T22:36:05.000Z",
+        "publishedAt": "2026-06-16T05:07:32.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603832-ssr-mining-reinstates-dividend-authorizes-additional-500m-stock-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603856-rba-keeps-benchmark-rate-unchanged-at-435-warns-inflation-risks-remain-elevated?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "AMD: Agentic AI Makes EPYC The Winner Of The AI Infrastructure Cycle",
+        "title": "Natural Gas Services Group, Inc. (NGS) Flatrock Compression, Ltd., - M&A Call - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T22:35:24.000Z",
-        "tickers": [
-          "AMD"
-        ],
-        "url": "https://seekingalpha.com/article/4915153-amd-agentic-ai-makes-epyc-the-winner-of-the-ai-infrastructure-cycle?source=feed_all_articles"
+        "publishedAt": "2026-06-16T05:01:01.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915220-natural-gas-services-group-inc-ngs-flatrock-compression-ltd-m-and-a-call-slideshow?source=feed_all_articles"
       },
       {
-        "title": "Vallourec S.A. (VLOWY) Discusses Strategic Position and Innovation in Geothermal Energy Markets Transcript",
+        "title": "BlackRock Global Dividend Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T22:32:10.000Z",
+        "publishedAt": "2026-06-16T05:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915089-vallourec-s-a-vlowy-discusses-strategic-position-and-innovation-in-geothermal-energy-markets?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915218-blackrock-global-dividend-fund-q1-2026-commentary?source=feed_all_articles"
       },
       {
-        "title": "USA Compression: Opportunity Knocks For An 8% Yield After Price Pullback",
+        "title": "AMG GW&K ESG Bond Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T22:26:01.000Z",
+        "publishedAt": "2026-06-16T04:50:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915151-usa-compression-opportunity-knocks-for-an-8-percent-yield-after-price-pullback?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915214-amg-gw-and-k-esg-bond-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "John Hancock 529 2041-2044 Enrollment-Based Portfolio Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T04:45:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915212-john-hancock-529-2041-2044-enrollment-based-portfolio-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "SpaceX raises $85.7B in historic IPO after greenshoe exercise",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-16T04:42:12.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603853-spacex-raises-857b-in-historic-ipo-after-greenshoe-exercise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Ready Capital declares $0.01 dividend",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-16T04:41:12.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603854-ready-capital-declares-0_01-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "OpenAI's spending surges to $34B ahead of public listing - report",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-16T04:40:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4603842-openais-spending-surges-to-34b-ahead-of-public-listing---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Thales: The Market Is Ignoring A Powerful Defense Tailwind",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T04:39:37.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915203-thales-the-market-is-ignoring-a-powerful-defense-tailwind?source=feed_all_articles"
+      },
+      {
+        "title": "Cisco: Riding The Agentic AI Boom",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T04:36:06.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915202-cisco-stock-riding-the-agentic-ai-boom?source=feed_all_articles"
+      },
+      {
+        "title": "Keyera Corp. (KEY:CA) 2026 Guidance/Update Call - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T04:31:12.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915211-keyera-corp-key-ca-2026-guidance-update-call-slideshow?source=feed_all_articles"
+      },
+      {
+        "title": "Chart Of The Day: An Interesting ETF Sideshow To The SpaceX IPO",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T04:30:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915205-chart-of-day-interesting-etf-sideshow-to-spacex-ipo?source=feed_all_articles"
+      },
+      {
+        "title": "Disappointing Chinese Domestic Data Could Add To Pressure For Fresh Stimulus",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T04:30:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915206-disappointing-chinese-domestic-data-could-add-to-pressure-for-fresh-stimulus?source=feed_all_articles"
       }
     ],
     "popularItems": [
+      {
+        "title": "Micron Technology: Buy Ahead Of Earnings (Preview)",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-15T18:45:23.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915106-micron-technology-buy-ahead-of-earnings-preview?source=feed"
+      },
+      {
+        "title": "The Market Is Experiencing A 'Jumping The Shark' Moment",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-15T16:11:55.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915051-market-experiencing-jumping-the-shark-moment?source=feed"
+      },
       {
         "title": "2 Picks To Turn $1 Million Into $75,000 Of Annual Income",
         "source": "Most Popular",
@@ -207,22 +221,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-15T10:30:03.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914969-astera-labs-owns-the-ai-bottleneck-nobody-talks-about?source=feed"
-      },
-      {
-        "title": "The S&P 500's Missing Giant: What Happens If The 6th-Largest Stock Stays Out A Full Year?",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-15T07:04:22.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914926-sp-500-missing-giant-what-happens-if-6th-largest-stock-stays-out-full-year?source=feed"
-      },
-      {
-        "title": "Ondas: Defense Moat Vs. 324% Share Dilution",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-15T06:26:28.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914917-ondas-defense-moat-versus-324-percent-share-dilution?source=feed"
       },
       {
         "title": "SpaceX: Wait For A Pullback",
