@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-16T11:33:56.021Z",
+  "generatedAt": "2026-06-16T17:20:59.585Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,208 +21,208 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "2 Attractive-Yield Dividend Stocks That Could Benefit If Inflation Stays Hot",
+        "title": "Preformed Line Products' Surge Has Gone Too Far (Downgrade)",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T11:30:00.000Z",
+        "publishedAt": "2026-06-16T17:13:38.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914886-2-attractive-yield-dividend-stocks-that-could-benefit-if-inflation-stays-hot?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915405-preformed-line-products-surge-has-gone-too-far-downgrade?source=feed_all_articles"
       },
       {
-        "title": "The Market's Biggest Trap Is Hiding In Plain Sight",
+        "title": "Securitas AB (publ) (SCTBY) Analyst/Investor Day Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T11:30:00.000Z",
+        "publishedAt": "2026-06-16T17:12:11.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4914932-market-biggest-trap-hiding-in-plain-sight?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915421-securitas-ab-publ-sctby-analyst-investor-day-transcript?source=feed_all_articles"
       },
       {
-        "title": "Rackspace surges after 30 MW AI compute deal with AMD; cuts 15% jobs",
+        "title": "Eyewear retailers aren't blinking at Meta Lab @ Best Buy tie-up -- Goldman",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-16T11:29:52.000Z",
+        "publishedAt": "2026-06-16T17:09:49.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604104-eyewear-retailers-arent-blinking-at-meta-lab-best-buy-tie-up---goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Rivian lays off hundreds of workers as it looks to scale profitably",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-16T17:07:01.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604107-rivian-lays-off-hundreds-of-workers-as-it-looks-to-scale-profitably?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Wall Street is mixed as SpaceX climbs and the Middle East peace deal lifts sentiment",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-16T17:02:23.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604010-wall-street-climbs-as-spacex-soars-and-middle-east-peace-deal-lifts-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Orla Mining Ltd. (OLA:CA) Shareholder/Analyst Call Prepared Remarks Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T17:02:10.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915401-orla-mining-ltd-ola-ca-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Rackspace Technology, Inc. (RXT) Discusses Phased Deployment Agreement for AMD AI Compute and GPU-as-a-Service Collaboration - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T17:01:31.000Z",
         "tickers": [
           "AMD"
         ],
-        "url": "https://seekingalpha.com/news/4603912-rackspace-surges-after-30-mw-ai-compute-deal-with-amd-cuts-15-jobs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/article/4915415-rackspace-technology-inc-rxt-discusses-phased-deployment-agreement-for-amd-ai-compute-and-gpu?source=feed_all_articles"
       },
       {
-        "title": "ITT Inc. expands connect & control portfolio via $31M Aerospace Contacts acquisition",
+        "title": "FOMC expected to hold rates, remove 'easing bias' as Kevin Warsh takes over",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-16T11:26:02.000Z",
+        "publishedAt": "2026-06-16T17:00:01.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603908-itt-inc-expands-connect-control-portfolio-via-31m-aerospace-contacts-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604037-fomc-expected-to-hold-rates-remove-easing-bias-as-kevin-warsh-takes-over?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "The Gold Selloff Looks Overdone",
+        "title": "How Fixed-Income Investing Is Evolving For European Insurers",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T11:24:23.000Z",
+        "publishedAt": "2026-06-16T17:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915280-the-gold-selloff-looks-overdone?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915412-how-fixed-income-investing-is-evolving-for-european-insurers?source=feed_all_articles"
       },
       {
-        "title": "Western Midstream: Keep Adding This Quality Distribution",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T11:23:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915279-western-midstream-keep-adding-this-quality-distribution?source=feed_all_articles"
-      },
-      {
-        "title": "JOYY: The Turnaround Is Gaining Traction But The Market Remains Oblivious",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T11:19:32.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915278-joyy-the-turnaround-is-gaining-traction-but-the-market-remains-oblivious?source=feed_all_articles"
-      },
-      {
-        "title": "At a glance: stocks gapping down premarket",
+        "title": "ETF power players: Top 10 funds command over 30% of industry assets",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-16T11:19:25.000Z",
+        "publishedAt": "2026-06-16T16:58:26.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603919-at-a-glance-stocks-gapping-down-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604102-etf-power-players-top-10-funds-command-over-30-percent-of-industry-assets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Interactive Brokers: Still A Great Franchise, But Valuations Have Further Expanded (Initiating Hold)",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T11:19:06.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915276-interactive-brokers-stock-still-a-great-franchise-but-valuations-have-further-expanded-initiating-hold?source=feed_all_articles"
-      },
-      {
-        "title": "Parsons awarded advisory role on $1.4B Blatnik Bridge replacement",
+        "title": "BHP, Rio Tinto look beyond China for India in ramping up steel production",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-16T11:17:47.000Z",
+        "publishedAt": "2026-06-16T16:56:39.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603909-parsons-awarded-advisory-role-on-14b-blatnik-bridge-replacement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604101-bhp-rio-tinto-look-beyond-china-for-india-in-ramping-up-steel-production?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "At a glance: stocks gapping up premarket",
+        "title": "Plains All American: 7% Yield And A Steady Path Forward (Rating Downgrade)",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T16:54:48.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915400-plains-all-american-7-percent-yield-and-a-steady-path-forward-rating-downgrade?source=feed_all_articles"
+      },
+      {
+        "title": "Weekly ETFs: Five of 11 sectors record outflows; real estate leads inflows",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-16T11:16:23.000Z",
+        "publishedAt": "2026-06-16T16:54:41.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603916-at-a-glance-stocks-gapping-up-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604096-weekly-etfs-five-of-11-sectors-record-outflows-real-estate-leads-inflows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Merck: Buy The Dip On This Dividend Growth Pharma Leader",
+        "title": "H.B. Fuller: Margin Growth Looks Unsustainable",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T11:15:08.000Z",
+        "publishedAt": "2026-06-16T16:52:49.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915239-merck-stock-buy-dip-on-this-dividend-growth-pharma-leader?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915399-hb-fuller-margin-growth-looks-unsustainable?source=feed_all_articles"
       },
       {
-        "title": "EU lawmakers greenlight long-awaited EU-U.S. trade pact",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-16T11:15:05.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603907-eu-lawmakers-greenlight-long-awaited-eu-us-trade-pact?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Why Your REIT Strategy Is Likely Failing You, And What To Do Instead",
+        "title": "Tesla: The SpaceX Optionality",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T11:15:00.000Z",
+        "publishedAt": "2026-06-16T16:45:40.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915070-why-your-reit-strategy-is-likely-failing-you-and-what-to-do-instead?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915398-tesla-the-spacex-optionality?source=feed_all_articles"
       },
       {
-        "title": "Robinhood to cut headcount by ~10% to maintain high performance",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-16T11:12:55.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603910-robinhood-to-cut-headcount-by-10-to-maintain-high-performance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Tripadvisor: Shifting Priorities And Strategies Support Its Valuation",
+        "title": "Aura Minerals Inc. (AUGO) Shareholder/Analyst Call Prepared Remarks Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T11:12:29.000Z",
+        "publishedAt": "2026-06-16T16:42:11.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915273-tripadvisor-shifting-priorities-and-strategies-support-its-valuation?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915382-aura-minerals-inc-augo-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles"
       },
       {
-        "title": "Amplitude: Waiting For Proof Before Conviction",
+        "title": "VPL: A Japanese-Centric Developed Market Portfolio For GARP Investors",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T11:04:26.000Z",
+        "publishedAt": "2026-06-16T16:41:52.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915269-amplitude-waiting-for-proof-before-conviction?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915397-vpl-japanese-centric-developed-market-portfolio-for-garp-investors?source=feed_all_articles"
       },
       {
-        "title": "Alphabet: Still A Big Tech Pick To 'Buy' Now",
+        "title": "N-able: Cheaper Despite Being Well-Positioned In Cyber Resilience",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T11:00:00.000Z",
+        "publishedAt": "2026-06-16T16:41:24.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915161-alphabet-still-a-big-tech-pick-to-buy-now?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915396-n-able-cheaper-despite-being-well-positioned-in-cyber-resilience?source=feed_all_articles"
       },
       {
-        "title": "Rithm Capital's Updated Sector Comparative Analysis - Part 1 (Includes Recommendation For 17 Peers As Of 6/12/2026)",
+        "title": "U.S. Economy: 4 Reasons Housing Is Toast In 2026",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T10:58:35.000Z",
+        "publishedAt": "2026-06-16T16:36:38.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915268-rithm-capital-updated-sector-comparative-analysis-part-1-recommendation-17-peers?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915395-us-economy-4-reasons-housing-is-toast-in-2026?source=feed_all_articles"
       },
       {
-        "title": "Rithm Capital's Updated Sector Comparative Analysis - Part 1 (Includes Recommendation For 17 Peers As Of 6/12/2026)",
-        "source": "Editor Picks",
+        "title": "The TJX Companies: Upside Is No Longer Attractive (Rating Downgrade)",
+        "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T10:58:35.000Z",
+        "publishedAt": "2026-06-16T16:33:12.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915268-rithm-capital-updated-sector-comparative-analysis-part-1-recommendation-17-peers?source=feed_tag_editors_picks"
+        "url": "https://seekingalpha.com/article/4915393-the-tjx-companies-rating-downgrade-upside-is-no-longer-attractive?source=feed_all_articles"
       }
     ],
     "popularItems": [
       {
-        "title": "IBM: Slow, Steady With Room For Multiple Expansion (Rating Upgrade)",
+        "title": "Buy The Chip Dip: The Under-The-Radar AI Winner To Buy Now",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-16T07:20:24.000Z",
+        "publishedAt": "2026-06-16T14:55:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915240-ibm-slow-steady-with-room-for-multiple-expansion-rating-upgrade?source=feed"
+        "url": "https://seekingalpha.com/article/4915373-buy-the-chip-dip-the-under-the-radar-ai-winner-to-buy-now?source=feed"
       },
       {
-        "title": "USA Rare Earth: Strategic Importance Is Not A Valuation Framework",
+        "title": "SpaceX: Why This Won't Play Out Like Every Other IPO",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-16T06:47:28.000Z",
+        "publishedAt": "2026-06-16T13:09:18.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915232-usa-rare-earth-stock-strategic-importance-is-not-a-valuation-framework?source=feed"
+        "url": "https://seekingalpha.com/article/4915314-spacex-why-this-wont-play-out-like-every-other-ipo?source=feed"
       },
       {
-        "title": "Red Cat: The Fundamentals Are Catching Up To The Hype",
+        "title": "Dow Jones Quant Leaders: 3 Top Stocks As Blue Chips Rally",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-16T05:16:22.000Z",
+        "publishedAt": "2026-06-16T12:00:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915209-red-cat-stock-fundamentals-are-catching-up-to-the-hype?source=feed"
+        "url": "https://seekingalpha.com/article/4915160-dow-jones-quant-leaders-3-top-stocks-as-blue-chips-rally?source=feed"
       },
       {
-        "title": "Cisco: Riding The Agentic AI Boom",
+        "title": "Annaly Capital: The 13% Yielder That Keeps Hiking Its Dividends",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-16T04:36:06.000Z",
+        "publishedAt": "2026-06-16T11:35:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915202-cisco-stock-riding-the-agentic-ai-boom?source=feed"
+        "url": "https://seekingalpha.com/article/4915060-annaly-capital-the-13-percent-yielder-that-keeps-hiking-its-dividends?source=feed"
       },
       {
-        "title": "Chart Of The Day: An Interesting ETF Sideshow To The SpaceX IPO",
+        "title": "The Market's Biggest Trap Is Hiding In Plain Sight",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-16T04:30:00.000Z",
+        "publishedAt": "2026-06-16T11:30:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915205-chart-of-day-interesting-etf-sideshow-to-spacex-ipo?source=feed"
+        "url": "https://seekingalpha.com/article/4914932-market-biggest-trap-hiding-in-plain-sight?source=feed"
       },
       {
         "title": "Micron Technology: Buy Ahead Of Earnings (Preview)",
@@ -249,20 +249,20 @@ window.redditHotStocksData = {
         "url": "https://seekingalpha.com/article/4914838-2-picks-to-turn-1-million-into-75000-of-annual-income?source=feed"
       },
       {
+        "title": "Why SpaceX, Anthropic, And OpenAI IPOs Are A Red Flag For The Stock Market",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-15T11:09:56.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4914977-why-spacex-anthropic-and-openai-ipos-are-a-red-flag-for-stock-market?source=feed"
+      },
+      {
         "title": "How I Would Invest $2 Million To Retire On Dividends",
         "source": "Most Popular",
         "summary": "",
         "publishedAt": "2026-06-15T11:05:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914939-how-i-would-invest-2-million-to-retire-on-dividends?source=feed"
-      },
-      {
-        "title": "Astera Labs Owns The AI Bottleneck Nobody Talks About",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-15T10:30:03.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914969-astera-labs-owns-the-ai-bottleneck-nobody-talks-about?source=feed"
       }
     ]
   },
