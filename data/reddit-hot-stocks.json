@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T21:18:47.628Z",
+  "generatedAt": "2026-06-16T23:47:49.740Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,164 +21,164 @@
     ],
     "items": [
       {
-        "title": "Resideo Technologies subsidiary ADI prices $400M of senior notes",
+        "title": "Renishaw plc (RNSHF) Analyst/Investor Day Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T23:32:10.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915327-renishaw-plc-rnshf-analyst-investor-day-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Wall Street banks cut oil price predictions as Persian Gulf flows now seen recovering quickly",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-16T21:14:28.000Z",
+        "publishedAt": "2026-06-16T23:30:16.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604161-resideo-technologies-subsidiary-adi-prices-400m-of-senior-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604171-wall-street-banks-cut-oil-price-predictions-as-persian-gulf-flows-now-seen-recovering-quickly?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "AutoZone board approves new $1.5B share buyback; total repurchases hit $42.2B",
+        "title": "XRP: The Case For The Most Deeply Entrenched Payment Network In Crypto",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T23:28:56.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915500-xrp-the-case-for-the-most-deeply-entrenched-payment-network-in-crypto?source=feed_all_articles"
+      },
+      {
+        "title": "Valmont Industries, Inc. (VMI) Analyst/Investor Day Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T23:12:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915417-valmont-industries-inc-vmi-analyst-investor-day-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Rubrik, Inc. (RBRK) Analyst/Investor Day - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T23:07:43.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915505-rubrik-inc-rbrk-analyst-investor-day-slideshow?source=feed_all_articles"
+      },
+      {
+        "title": "Thermal Energy International Inc. (TMG:CA) Presents at 2026 Canadian Climate Investor Conference - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T23:04:45.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915504-thermal-energy-international-inc-tmg-ca-presents-at-2026-canadian-climate-investor-conference?source=feed_all_articles"
+      },
+      {
+        "title": "The North West Company Inc. (NWC:CA) Shareholder/Analyst Call - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T23:02:20.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915503-the-north-west-company-inc-nwc-ca-shareholder-analyst-call-slideshow?source=feed_all_articles"
+      },
+      {
+        "title": "Nexxen International Ltd. (NEXN) Analyst/Investor Day Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T23:02:10.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915407-nexxen-international-ltd-nexn-analyst-investor-day-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Expand Energy: Buying Opportunity With Gas Out Of Favor",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T22:57:32.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915498-expand-energy-buying-opportunity-with-gas-out-of-favor?source=feed_all_articles"
+      },
+      {
+        "title": "Expand Energy: Buying Opportunity With Gas Out Of Favor",
+        "source": "Editor Picks",
+        "summary": "",
+        "publishedAt": "2026-06-16T22:57:32.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915498-expand-energy-buying-opportunity-with-gas-out-of-favor?source=feed_tag_editors_picks"
+      },
+      {
+        "title": "State Street's Growth Story Continues With New Fund Launch, After Q1 Results Impress",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T22:55:56.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915497-state-street-growth-story-continues-with-new-fund-launch-after-q1-results-impress?source=feed_all_articles"
+      },
+      {
+        "title": "Advantage Energy: The Infra-Cycle Is Finished, Heavy Buybacks Are Next. My New Top Energy Pick",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T22:46:47.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915495-advantage-energy-the-infra-cycle-is-finished-heavy-buybacks-are-next-my-new-top-energy-pick?source=feed_all_articles"
+      },
+      {
+        "title": "Pernod Ricard: Complications Of Political Negotiations Could Create Opportunities",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T22:40:34.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915493-pernod-ricard-complications-of-political-negotiations-could-create-opportunities?source=feed_all_articles"
+      },
+      {
+        "title": "Yalla Group: An Asymmetric Tech Bet Trading At The Ultimate Cash Floor",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T22:34:07.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915492-yalla-group-an-asymmetric-tech-bet-trading-at-the-ultimate-cash-floor?source=feed_all_articles"
+      },
+      {
+        "title": "Groupe Dynamite Inc. (GRGD:CA) Shareholder/Analyst Call Prepared Remarks Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T22:32:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915453-groupe-dynamite-inc-grgd-ca-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Marvell: A Great Franchise Priced For Perfection",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T22:31:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915489-marvell-a-great-franchise-priced-for-perfection?source=feed_all_articles"
+      },
+      {
+        "title": "Oscar Health: Great Business In A Shrinking Market",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-16T22:30:43.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915488-oscar-health-great-business-in-a-shrinking-market?source=feed_all_articles"
+      },
+      {
+        "title": "FMC, Corteva to partner on herbicide technology supply and license deal",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-16T21:14:04.000Z",
+        "publishedAt": "2026-06-16T22:26:17.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604153-autozone-board-approves-new-15b-share-buyback-total-repurchases-hit-422b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604170-fmc-corteva-to-partner-on-herbicide-technology-supply-and-license-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "High Tide Inc. (HITI:CA) Q2 2026 Earnings Call Transcript",
+        "title": "Liquidia Corporation (LQDA) Shareholder/Analyst Call Prepared Remarks Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T21:12:10.000Z",
+        "publishedAt": "2026-06-16T22:22:08.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915487-high-tide-inc-hiti-ca-q2-2026-earnings-call-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915491-liquidia-corporation-lqda-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles"
       },
       {
-        "title": "GDMN: A Risky But Efficient Gold Play Right Now",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T21:11:21.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915471-gdmn-a-risky-but-efficient-gold-play-right-now?source=feed_all_articles"
-      },
-      {
-        "title": "Labrador Iron Ore Royalty declares CAD 0.30 dividend",
+        "title": "Surge Energy targets $9.7M share buyback as TSX approves NCIB renewal",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-16T21:09:25.000Z",
+        "publishedAt": "2026-06-16T22:10:19.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604160-labrador-iron-ore-royalty-declares-cad-0_30-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Fulton Financial Corporation DEP PER PFD SR A declares $0.3202 dividend",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-16T21:07:49.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604159-fulton-financial-corporation-dep-per-pfd-sr-a-declares-0_3202-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "BHP: Copper And Iron Price Outlooks Aren't Supportive",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T21:06:06.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915467-bhp-copper-and-iron-price-outlooks-arent-supportive?source=feed_all_articles"
-      },
-      {
-        "title": "MSC Industrial Direct declares $0.87 dividend",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-16T21:06:05.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604158-msc-industrial-direct-declares-0_87-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Fulton Financial declares $0.19 dividend",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-16T21:05:46.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604157-fulton-financial-declares-0_19-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Starwood Property Trust declares $0.48 dividend",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-16T21:05:03.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604156-starwood-property-trust-declares-0_48-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Park-Ohio Holdings Has Surged, But That's Just The Start (Upgrade)",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T20:52:32.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915463-park-ohio-holdings-has-surged-but-thats-just-the-start-upgrade?source=feed_all_articles"
-      },
-      {
-        "title": "What's Driving The Price Of Gold",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T20:50:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915478-whats-driving-the-price-of-gold?source=feed_all_articles"
-      },
-      {
-        "title": "Orbit Makes PTC's Recent Pullback Interesting Despite Execution Risks",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T20:48:11.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915462-orbit-makes-ptc-recent-pullback-interesting-despite-execution-risks?source=feed_all_articles"
-      },
-      {
-        "title": "PetVivo Holdings, Inc. (PETV) Discusses Spryng Technology Adoption and Commercial Expansion in Veterinary Practice Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T20:42:12.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915449-petvivo-holdings-inc-petv-discusses-spryng-technology-adoption-and-commercial-expansion-in?source=feed_all_articles"
-      },
-      {
-        "title": "Groupe Dynamite Inc. (GRGD:CA) Q1 2026 Earnings Call Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T20:42:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915406-groupe-dynamite-inc-grgd-ca-q1-2026-earnings-call-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Blue Owl Capital: Private Credit Fears Gift",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T20:34:15.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915461-blue-owl-capital-private-credit-fears-gift?source=feed_all_articles"
-      },
-      {
-        "title": "Opus Genetics, Inc. (IRD) Discusses Early-Stage Gene Therapy Programs and Clinical Strategies for Inherited Retinal Diseases - Slideshow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T20:33:34.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915477-opus-genetics-inc-ird-discusses-early-stage-gene-therapy-programs-and-clinical-strategies-for?source=feed_all_articles"
-      },
-      {
-        "title": "WELL Health Technologies Corp. (WELL:CA) Shareholder/Analyst Call Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T20:32:26.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915428-well-health-technologies-corp-well-ca-shareholder-analyst-call-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "boohoo group plc (BHOOY) Q4 2026 Earnings Call Prepared Remarks Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T20:22:10.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915472-boohoo-group-plc-bhooy-q4-2026-earnings-call-prepared-remarks-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Fluence Could Be The Grid Bottleneck Winner Investors Are Missing",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T20:12:46.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915457-fluence-could-be-the-grid-bottleneck-winner-investors-are-missing?source=feed_all_articles"
+        "url": "https://seekingalpha.com/news/4604166-surge-energy-targets-97m-share-buyback-as-tsx-approves-ncib-renewal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       }
     ],
     "popularItems": [
