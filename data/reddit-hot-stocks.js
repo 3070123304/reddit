@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-15T21:19:52.855Z",
+  "generatedAt": "2026-06-16T00:01:02.108Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,164 +21,166 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Galantas shareholders approve Sol de Oro acquisition, appoints new CFO",
+        "title": "Microsoft Looks Cheap - The Cash Flow Says Otherwise",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T23:46:45.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915162-microsoft-looks-cheap-the-cash-flow-says-otherwise?source=feed_all_articles"
+      },
+      {
+        "title": "U.S., Iran agree Strait of Hormuz will be toll-free for 60 days, but after is unclear",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T21:17:21.000Z",
+        "publishedAt": "2026-06-15T23:37:16.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603826-galantas-shareholders-approve-sol-de-oro-acquisition-appoints-new-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603833-us-iran-agree-strait-of-hormuz-will-be-toll-free-for-60-days-but-after-is-unclear?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Gilead weekly Yeztugo HIV pill sNDA accepted by FDA",
+        "title": "Domo outlines strategic transaction talks as gross retention rises to 86.7%",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T21:14:26.000Z",
+        "publishedAt": "2026-06-15T23:22:52.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603822-gilead-weekly-yeztugo-hiv-pill-snda-accepted-by-fda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603835-domo-outlines-strategic-transaction-talks-as-gross-retention-rises-to-86_7-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Blue Ant Media restructures global media operations; leadership changes follow",
+        "title": "Domo, Inc. (DOMO) Q1 2027 Earnings Call Prepared Remarks Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T23:22:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915158-domo-inc-domo-q1-2027-earnings-call-prepared-remarks-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Janus Henderson Group Plc (JHG) Shareholder/Analyst Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T23:19:41.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910095-janus-henderson-group-plc-jhg-shareholder-analyst-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "RF Industries expects sequential Q3 sales growth as backlog reaches $20.1M",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T21:09:41.000Z",
+        "publishedAt": "2026-06-15T23:13:23.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603820-blue-ant-media-restructures-global-media-operations-leadership-changes-follow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603834-rf-industries-expects-sequential-q3-sales-growth-as-backlog-reaches-20_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Lovesac appoints new CFO, reaffirms FY2027 guidance",
+        "title": "RF Industries, Ltd. (RFIL) Q2 2026 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T23:12:11.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915156-rf-industries-ltd-rfil-q2-2026-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Agios Pharmaceuticals, Inc. (AGIO) Discusses New Data and Strategic Expansion in Rare Hematology at EHA Investor Event - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T23:08:12.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915169-agios-pharmaceuticals-inc-agio-discusses-new-data-and-strategic-expansion-in-rare-hematology?source=feed_all_articles"
+      },
+      {
+        "title": "BitFuFu Inc. (FUFU) Q1 2026 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T23:07:47.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910022-bitfufu-inc-fufu-q1-2026-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Ionis Pharmaceuticals, Inc. (IONS) Presents at National Lipid Association (NLA) 2026 Scientific Sessions - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T23:07:21.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915168-ionis-pharmaceuticals-inc-ions-presents-at-national-lipid-association-nla-2026-scientific?source=feed_all_articles"
+      },
+      {
+        "title": "Enliven Therapeutics, Inc. (ELVN) Presents at European Hematology Association (EHA) 2026 Congress - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T23:04:44.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915167-enliven-therapeutics-inc-elvn-presents-at-european-hematology-association-eha-2026-congress?source=feed_all_articles"
+      },
+      {
+        "title": "LPP SA 2027 Q1 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T23:01:55.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915166-lpp-sa-2027-q1-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "Major Drilling Group International Inc. 2026 Q4 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T23:01:02.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915165-major-drilling-group-international-inc-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "Wizz Air Holdings Plc 2026 Q4 - Results - Earnings Call Presentation",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T23:00:38.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915164-wizz-air-holdings-plc-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+      },
+      {
+        "title": "Wintrust Financial Is Getting Closer To A Downgrade",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T22:59:37.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915157-wintrust-financial-is-getting-closer-to-a-downgrade?source=feed_all_articles"
+      },
+      {
+        "title": "Acacia Research: Hold On, But A Better Buy At Lower Prices",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-15T22:41:22.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915154-acacia-research-hold-on-but-a-better-buy-at-lower-prices?source=feed_all_articles"
+      },
+      {
+        "title": "SSR Mining reinstates dividend, authorizes additional $500M stock buyback",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-15T21:08:51.000Z",
+        "publishedAt": "2026-06-15T22:36:05.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4603823-lovesac-appoints-new-cfo-reaffirms-fy2027-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4603832-ssr-mining-reinstates-dividend-authorizes-additional-500m-stock-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Pharma-Bio Serv reports Q2 results",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-15T21:05:50.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603821-pharma-bio-serv-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Kohl's names Foot Locker exec as new COO",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-15T21:04:39.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603807-kohls-names-foot-locker-exec-as-new-coo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Applied Materials: Not Cheap Enough To Buy, Too Strong To Sell",
+        "title": "AMD: Agentic AI Makes EPYC The Winner Of The AI Infrastructure Cycle",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T21:04:12.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915135-applied-materials-not-cheap-enough-to-buy-too-strong-to-sell?source=feed_all_articles"
+        "publishedAt": "2026-06-15T22:35:24.000Z",
+        "tickers": [
+          "AMD"
+        ],
+        "url": "https://seekingalpha.com/article/4915153-amd-agentic-ai-makes-epyc-the-winner-of-the-ai-infrastructure-cycle?source=feed_all_articles"
       },
       {
-        "title": "Grafton Group plc (GROUF) Analyst/Investor Day Transcript",
+        "title": "Vallourec S.A. (VLOWY) Discusses Strategic Position and Innovation in Geothermal Energy Markets Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T21:02:10.000Z",
+        "publishedAt": "2026-06-15T22:32:10.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915040-grafton-group-plc-grouf-analyst-investor-day-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915089-vallourec-s-a-vlowy-discusses-strategic-position-and-innovation-in-geothermal-energy-markets?source=feed_all_articles"
       },
       {
-        "title": "The World Thinks The War Is Over - Why It's Not",
+        "title": "USA Compression: Opportunity Knocks For An 8% Yield After Price Pullback",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-15T21:00:00.000Z",
+        "publishedAt": "2026-06-15T22:26:01.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915075-the-world-thinks-the-war-is-over-why-its-not?source=feed_all_articles"
-      },
-      {
-        "title": "Voya Emerging Markets High Dividend Equity Fund declares $0.055 dividend",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-15T20:58:56.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4603819-voya-emerging-markets-high-dividend-equity-fund-declares-0_055-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Salesforce Is Consuming Everything Between AI And Itself",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T20:54:02.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915134-salesforce-is-consuming-everything-between-ai-and-itself?source=feed_all_articles"
-      },
-      {
-        "title": "Keyera Corp. (KEY:CA) Q4 2026 Guidance Call Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T20:52:11.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915088-keyera-corp-key-ca-q4-2026-guidance-call-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Sanofi 'Strong Buy': Continued Dupxient Sales Growth And Sarclisa OBI First",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T20:49:17.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915133-sanofi-strong-buy-continued-dupxient-sales-growth-and-sarclisa-obi-first?source=feed_all_articles"
-      },
-      {
-        "title": "AVUS: This All-American Fund Is Quietly Outperforming Its Peers",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T20:44:35.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915132-avus-this-all-american-fund-is-quietly-outperforming-its-peers?source=feed_all_articles"
-      },
-      {
-        "title": "The ETF World Cup: The Winner Is EPU, But I Prefer EWY",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T20:31:27.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915128-the-etf-world-cup-the-winner-is-epu-but-i-prefer-ewy?source=feed_all_articles"
-      },
-      {
-        "title": "Crinetics Pharmaceuticals, Inc. (CRNX) Presents at Endocrine Society's Annual Meeting (ENDO 2026) - Slideshow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T20:30:55.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915139-crinetics-pharmaceuticals-inc-crnx-presents-at-endocrine-societys-annual-meeting-endo-2026?source=feed_all_articles"
-      },
-      {
-        "title": "SpaceX: The $2 Trillion Stock That Already Left Earth",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T20:18:13.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915126-spacex-the-2-trillion-stock-that-already-left-earth?source=feed_all_articles"
-      },
-      {
-        "title": "QYOU Media Inc. (QYOU:CA) Q4 2025 Earnings Call Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T20:12:10.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915119-qyou-media-inc-qyou-ca-q4-2025-earnings-call-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Qiagen N.V. (QGEN) Discusses Digital PCR Technology and Applications in Environmental Sample Analysis Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T20:12:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915076-qiagen-n-v-qgen-discusses-digital-pcr-technology-and-applications-in-environmental-sample?source=feed_all_articles"
-      },
-      {
-        "title": "Lotus Technology: Reiterating Sell On Impending Dilution And Overambitious Targets",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-15T20:05:19.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915125-lotus-technology-reiterating-sell-on-impending-dilution-and-overambitious-targets?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915151-usa-compression-opportunity-knocks-for-an-8-percent-yield-after-price-pullback?source=feed_all_articles"
       }
     ],
     "popularItems": [
