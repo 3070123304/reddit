@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-16T23:47:49.740Z",
+  "generatedAt": "2026-06-17T05:10:49.899Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,167 +21,175 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Renishaw plc (RNSHF) Analyst/Investor Day Transcript",
+        "title": "GE Aerospace: LEAP, GEnx, And GE9X Support Further Upside",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T23:32:10.000Z",
+        "publishedAt": "2026-06-17T05:01:08.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915327-renishaw-plc-rnshf-analyst-investor-day-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915540-ge-aerospace-leap-genx-and-ge9x-support-further-upside?source=feed_all_articles"
       },
       {
-        "title": "Wall Street banks cut oil price predictions as Persian Gulf flows now seen recovering quickly",
+        "title": "BlackRock Core Bond Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:57:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915539-blackrock-core-bond-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "DRNZ: The Drone ETF Built For A New Era Of Warfare Economics",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:51:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915537-drnz-drone-etf-built-for-new-era-of-warfare-economics?source=feed_all_articles"
+      },
+      {
+        "title": "Japan's export surge narrows May trade deficit to JPY 378.7B; core machinery orders jump 8.7% to beat expectations",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-16T23:30:16.000Z",
+        "publishedAt": "2026-06-17T04:48:22.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604171-wall-street-banks-cut-oil-price-predictions-as-persian-gulf-flows-now-seen-recovering-quickly?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604184-japans-exports-surge-narrows-may-trade-deficit-to-jpy-3787b-core-machinery-orders-jump-87-to-beat-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "XRP: The Case For The Most Deeply Entrenched Payment Network In Crypto",
+        "title": "Nexstar Media Group: Hold On To This Leading Broadcaster Until Their Merger Is Finalized",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T23:28:56.000Z",
+        "publishedAt": "2026-06-17T04:47:44.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915500-xrp-the-case-for-the-most-deeply-entrenched-payment-network-in-crypto?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915535-nexstar-media-group-stock-hold-on-to-this-leading-broadcaster-until-their-merger-is-finalized?source=feed_all_articles"
       },
       {
-        "title": "Valmont Industries, Inc. (VMI) Analyst/Investor Day Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T23:12:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915417-valmont-industries-inc-vmi-analyst-investor-day-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Rubrik, Inc. (RBRK) Analyst/Investor Day - Slideshow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T23:07:43.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915505-rubrik-inc-rbrk-analyst-investor-day-slideshow?source=feed_all_articles"
-      },
-      {
-        "title": "Thermal Energy International Inc. (TMG:CA) Presents at 2026 Canadian Climate Investor Conference - Slideshow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T23:04:45.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915504-thermal-energy-international-inc-tmg-ca-presents-at-2026-canadian-climate-investor-conference?source=feed_all_articles"
-      },
-      {
-        "title": "The North West Company Inc. (NWC:CA) Shareholder/Analyst Call - Slideshow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T23:02:20.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915503-the-north-west-company-inc-nwc-ca-shareholder-analyst-call-slideshow?source=feed_all_articles"
-      },
-      {
-        "title": "Nexxen International Ltd. (NEXN) Analyst/Investor Day Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T23:02:10.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915407-nexxen-international-ltd-nexn-analyst-investor-day-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Expand Energy: Buying Opportunity With Gas Out Of Favor",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T22:57:32.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915498-expand-energy-buying-opportunity-with-gas-out-of-favor?source=feed_all_articles"
-      },
-      {
-        "title": "Expand Energy: Buying Opportunity With Gas Out Of Favor",
+        "title": "Nexstar Media Group: Hold On To This Leading Broadcaster Until Their Merger Is Finalized",
         "source": "Editor Picks",
         "summary": "",
-        "publishedAt": "2026-06-16T22:57:32.000Z",
+        "publishedAt": "2026-06-17T04:47:44.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915498-expand-energy-buying-opportunity-with-gas-out-of-favor?source=feed_tag_editors_picks"
+        "url": "https://seekingalpha.com/article/4915535-nexstar-media-group-stock-hold-on-to-this-leading-broadcaster-until-their-merger-is-finalized?source=feed_tag_editors_picks"
       },
       {
-        "title": "State Street's Growth Story Continues With New Fund Launch, After Q1 Results Impress",
+        "title": "Northern Limited Term US Government Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T22:55:56.000Z",
+        "publishedAt": "2026-06-17T04:45:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915497-state-street-growth-story-continues-with-new-fund-launch-after-q1-results-impress?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915546-northern-limited-term-us-government-fund-q1-2026-commentary?source=feed_all_articles"
       },
       {
-        "title": "Advantage Energy: The Infra-Cycle Is Finished, Heavy Buybacks Are Next. My New Top Energy Pick",
+        "title": "Housing Starts Sink To 6-Year Low",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T22:46:47.000Z",
+        "publishedAt": "2026-06-17T04:30:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915495-advantage-energy-the-infra-cycle-is-finished-heavy-buybacks-are-next-my-new-top-energy-pick?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915515-housing-starts-sink-to-6-year-low?source=feed_all_articles"
       },
       {
-        "title": "Pernod Ricard: Complications Of Political Negotiations Could Create Opportunities",
+        "title": "Mega-Cap Sales",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T22:40:34.000Z",
+        "publishedAt": "2026-06-17T04:30:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915493-pernod-ricard-complications-of-political-negotiations-could-create-opportunities?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915527-mega-cap-sales?source=feed_all_articles"
       },
       {
-        "title": "Yalla Group: An Asymmetric Tech Bet Trading At The Ultimate Cash Floor",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T22:34:07.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915492-yalla-group-an-asymmetric-tech-bet-trading-at-the-ultimate-cash-floor?source=feed_all_articles"
-      },
-      {
-        "title": "Groupe Dynamite Inc. (GRGD:CA) Shareholder/Analyst Call Prepared Remarks Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T22:32:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915453-groupe-dynamite-inc-grgd-ca-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Marvell: A Great Franchise Priced For Perfection",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T22:31:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915489-marvell-a-great-franchise-priced-for-perfection?source=feed_all_articles"
-      },
-      {
-        "title": "Oscar Health: Great Business In A Shrinking Market",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-16T22:30:43.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915488-oscar-health-great-business-in-a-shrinking-market?source=feed_all_articles"
-      },
-      {
-        "title": "FMC, Corteva to partner on herbicide technology supply and license deal",
+        "title": "Banking on AI: HSBC teams with Google to automate 200 tasks, eyeing $100M return",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-16T22:26:17.000Z",
+        "publishedAt": "2026-06-17T04:25:35.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604170-fmc-corteva-to-partner-on-herbicide-technology-supply-and-license-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604180-banking-on-ai-hsbc-teams-with-google-to-automate-200-tasks-eyeing-100m-return?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Liquidia Corporation (LQDA) Shareholder/Analyst Call Prepared Remarks Transcript",
+        "title": "Nearly All Monetary Rules Say The Fed Should Raise Rates",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-16T22:22:08.000Z",
+        "publishedAt": "2026-06-17T04:25:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915491-liquidia-corporation-lqda-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915542-nearly-all-monetary-rules-say-fed-should-raise-rates?source=feed_all_articles"
       },
       {
-        "title": "Surge Energy targets $9.7M share buyback as TSX approves NCIB renewal",
+        "title": "U.S. Bancorp declares $0.52 dividend",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-16T22:10:19.000Z",
+        "publishedAt": "2026-06-17T04:17:32.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604166-surge-energy-targets-97m-share-buyback-as-tsx-approves-ncib-renewal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604183-us-bancorp-declares-052-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Dell declares $0.63 dividend",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:16:21.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604182-dell-declares-063-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Public Service Enterprise Group: What It Would Take For Upside",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:16:07.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915528-public-service-enterprise-group-what-it-would-take-for-upside?source=feed_all_articles"
+      },
+      {
+        "title": "bioAffinity Technologies, Inc. (BIAF) Discusses Noninvasive Testing and Risk Stratification for Indeterminate Lung Nodules Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:12:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915519-bioaffinity-technologies-inc-biaf-discusses-noninvasive-testing-and-risk-stratification-for?source=feed_all_articles"
+      },
+      {
+        "title": "The Media Says This Was A 'Blowout' Jobs Report. A Closer Look Suggests Otherwise",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:05:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915538-media-says-this-was-blowout-jobs-report-closer-look-suggests-otherwise?source=feed_all_articles"
+      },
+      {
+        "title": "Verve Group SE (MGIMF) Analyst/Investor Day - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:02:56.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915541-verve-group-se-mgimf-analyst-investor-day-slideshow?source=feed_all_articles"
+      },
+      {
+        "title": "FTC clamps down on Amazon: hidden ad pricing could reportedly cost retail giant billions",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:02:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604177-ftc-clamps-down-on-amazon-hidden-ad-pricing-could-reportedly-cost-retail-giant-billions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Wednesday&#x2019;s Economic Calendar",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604017-wednesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Politics And The Markets 06/17/26",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4910481-politics-and-the-markets-061726?source=feed_all_articles"
       }
     ],
     "popularItems": [
+      {
+        "title": "Kevin Warsh Isn't Jerome Powell",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-16T15:42:40.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915369-kevin-warsh-isnt-jerome-powell?source=feed"
+      },
       {
         "title": "Buy The Chip Dip: The Under-The-Radar AI Winner To Buy Now",
         "source": "Most Popular",
@@ -205,14 +213,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-16T12:00:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4915160-dow-jones-quant-leaders-3-top-stocks-as-blue-chips-rally?source=feed"
-      },
-      {
-        "title": "Annaly Capital: The 13% Yielder That Keeps Hiking Its Dividends",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-16T11:35:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915060-annaly-capital-the-13-percent-yielder-that-keeps-hiking-its-dividends?source=feed"
       },
       {
         "title": "The Market's Biggest Trap Is Hiding In Plain Sight",
