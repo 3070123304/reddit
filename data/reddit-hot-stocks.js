@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-17T21:21:37.761Z",
+  "generatedAt": "2026-06-17T23:50:36.676Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,164 +21,164 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "The Fed Just Killed The Rally",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T21:17:27.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915816-the-fed-just-killed-the-rally?source=feed_all_articles"
-      },
-      {
-        "title": "Jay Clayton confirmation hearing delayed, Senate says",
+        "title": "Smith & Wesson expects FY 2027 revenue to grow in mid-single digits, plans ~$20M incremental Springfield capex",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-17T21:12:35.000Z",
+        "publishedAt": "2026-06-17T23:44:16.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604615-jay-clayton-confirmation-hearing-delayed-senate-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604623-smith-and-wesson-expects-fy-2027-revenue-to-grow-in-mid-single-digits-plans-20m-incremental?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Alkermes plummets on mid-stage alixorexton data for narcolepsy",
+        "title": "Smith & Wesson Brands, Inc. (SWBI) Q4 2026 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T23:42:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915849-smith-and-wesson-brands-inc-swbi-q4-2026-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "U.S.-Iran peace deal could bring big oil glut next year, IEA says",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-17T21:07:01.000Z",
+        "publishedAt": "2026-06-17T23:40:27.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604610-alkermes-plummets-mid-stage-alixorexton-data-narcolepsy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604622-us-iran-peace-deal-could-bring-big-oil-glut-next-year-iea-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Expeditors International of Washington, Inc. (EXPD) Discusses U.S. Customs Market Update With Focus on Current Tariff Updates and Trade Actions Transcript",
+        "title": "I Was Wrong About Kevin Warsh",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T21:02:08.000Z",
+        "publishedAt": "2026-06-17T23:30:22.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915779-expeditors-international-of-washington-inc-expd-discusses-u-s-customs-market-update-with?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915843-i-was-wrong-about-kevin-warsh?source=feed_all_articles"
       },
       {
-        "title": "Deep Fission: Built Faster, Priced Cheaper, Ready Sooner",
+        "title": "SLC Agr&#xED;cola S.A. (SLCJY) Presents at Citi 18th Annual Brazil Equity Conference - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T21:01:44.000Z",
+        "publishedAt": "2026-06-17T23:12:43.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915813-deep-fission-built-faster-priced-cheaper-ready-sooner?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915848-slc-agricola-s-a-slcjy-presents-at-citi-18th-annual-brazil-equity-conference-slideshow?source=feed_all_articles"
       },
       {
-        "title": "Logistic Properties to sell Peru asset for $145M in alliance with FIBRA Prime",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T21:01:31.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604613-logistic-properties-to-sell-peru-asset-for-145m-in-alliance-with-fibra-prime?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Investors Should Not Be Surprised About The Possibility Of A Rate Hike",
+        "title": "Amprius Technologies, Inc. (AMPX) Discusses UAV Innovation Focusing on Battery Advancements for Heavier Payloads and Extended Coverage Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T21:00:37.000Z",
+        "publishedAt": "2026-06-17T23:12:11.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915820-investors-should-not-be-surprised-about-the-possibility-of-a-rate-hike?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915793-amprius-technologies-inc-ampx-discusses-uav-innovation-focusing-on-battery-advancements-for?source=feed_all_articles"
       },
       {
-        "title": "Paramount's $110B purchase of Warner Bros. gets China approval - report",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T20:59:45.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604608-paramounts-110b-purchase-of-warner-bros-gets-china-approval---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Veolia Q1: The M&A And FX Suggest Increased Risk (Rating Downgrade)",
+        "title": "Royal Gold, Inc. (RGLD) Presents at Renmark Financial Communications Virtual Non-Deal Roadshow Series Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T20:59:30.000Z",
+        "publishedAt": "2026-06-17T23:12:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915811-veolia-q1-the-m-and-a-and-fx-suggest-increased-risk-rating-downgrade?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915805-royal-gold-inc-rgld-presents-at-renmark-financial-communications-virtual-non-deal-roadshow?source=feed_all_articles"
       },
       {
-        "title": "Morgan Stanley A Vs. E Preferred Shares: Ratings Remain Unchanged",
+        "title": "West Pharmaceutical Services, Inc. (WST) Presents At 46th Annual William Blair Growth Stock Conference Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T20:58:01.000Z",
+        "publishedAt": "2026-06-17T23:09:53.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915810-morgan-stanley-a-vs-e-preferred-shares-ratings-remain-unchanged?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4911194-west-pharmaceutical-services-inc-wst-presents-at-46th-annual-william-blair-growth-stock?source=feed_all_articles"
       },
       {
-        "title": "Innodata appoints Jayant Chauhan as CFO",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T20:57:20.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604612-innodata-appoints-jayant-chauhan-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "IGM Financial to streamline organization to invest in AI",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T20:56:23.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604603-igm-financial-to-streamline-organization-to-invest-in-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "CONMED names John Gallagher as chief financial officer",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T20:53:07.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604607-conmed-names-john-gallagher-as-chief-financial-officer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "The Fed Made A Brutal Hawkish Turn - It Could Burst All Bubbles",
+        "title": "Qube Holdings Limited (QBBHY) Shareholder/Analyst Call - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T20:48:15.000Z",
+        "publishedAt": "2026-06-17T23:09:19.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915809-fed-made-a-brutal-hawkish-turn-it-could-burst-all-bubbles?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915847-qube-holdings-limited-qbbhy-shareholder-analyst-call-slideshow?source=feed_all_articles"
       },
       {
-        "title": "Analog Devices: Firing On All Cylinders",
+        "title": "Team Internet Group plc 2025 Q4 - Results - Earnings Call Presentation",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T20:47:22.000Z",
+        "publishedAt": "2026-06-17T23:08:40.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915808-analog-devices-firing-on-all-cylinders?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915846-team-internet-group-plc-2025-q4-results-earnings-call-presentation?source=feed_all_articles"
       },
       {
-        "title": "A Framework For Valuing Bitcoin Miners As AI Infrastructure",
+        "title": "Team Internet Group plc 2025 Q4 - Results - Earnings Call Presentation",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T20:45:00.000Z",
+        "publishedAt": "2026-06-17T23:08:22.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915807-a-framework-for-valuing-bitcoin-miners-as-ai-infrastructure?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915845-team-internet-group-plc-2025-q4-results-earnings-call-presentation?source=feed_all_articles"
       },
       {
-        "title": "Talen Energy: A Lower-Risk AI Trade",
+        "title": "Vinyl Group Ltd (JAXAF) Vinyl Group Ltd, - M&A Call - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T20:31:08.000Z",
+        "publishedAt": "2026-06-17T23:08:03.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915800-talen-energy-a-lower-risk-ai-trade?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915844-vinyl-group-ltd-jaxaf-vinyl-group-ltd-m-and-a-call-slideshow?source=feed_all_articles"
       },
       {
-        "title": "Colruyt Group N.V. 2026 Q4 - Results - Earnings Call Presentation",
+        "title": "Lundin Mining Corporation (LUN:CA) Analyst/Investor Day Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T20:31:07.000Z",
+        "publishedAt": "2026-06-17T23:02:11.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915818-colruyt-group-n-v-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915814-lundin-mining-corporation-lun-ca-analyst-investor-day-transcript?source=feed_all_articles"
       },
       {
-        "title": "TSMC: Why Premium Multiples Don't Matter For The King Of Foundries",
+        "title": "Elekta AB (publ) (EKTAY) Analyst/Investor Day Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T20:17:20.000Z",
+        "publishedAt": "2026-06-17T23:02:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915798-tsmc-why-premium-multiples-dont-matter-for-king-of-foundries?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915801-elekta-ab-publ-ektay-analyst-investor-day-transcript?source=feed_all_articles"
       },
       {
-        "title": "Microsoft Just Became Irresistibly Attractive, But Only Because The Bears Were Right",
+        "title": "International Seaways, Inc. (INSW) Shareholder/Analyst Call - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T20:12:16.000Z",
+        "publishedAt": "2026-06-17T23:02:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915797-microsoft-just-became-irresistibly-attractive-but-only-because-the-bears-were-right?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915840-international-seaways-inc-insw-shareholder-analyst-call-slideshow?source=feed_all_articles"
+      },
+      {
+        "title": "Organon & Co. (OGN) Shareholder/Analyst Call - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T23:01:27.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915839-organon-and-co-ogn-shareholder-analyst-call-slideshow?source=feed_all_articles"
+      },
+      {
+        "title": "Chemung Financial Corporation (CHMG) Shareholder/Analyst Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T22:54:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911125-chemung-financial-corporation-chmg-shareholder-analyst-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Chart Of The Day: $2 Trillion For SpaceX? Do I Hear $3? $4?",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T22:50:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915837-chart-of-day-2-trillion-for-spacex-do-i-hear-3-4?source=feed_all_articles"
+      },
+      {
+        "title": "Trisura Group Ltd. (TSU:CA) Shareholder/Analyst Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T22:39:28.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4911025-trisura-group-ltd-tsu-ca-shareholder-analyst-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Intel: The Re-Rating Has Gone Too Far",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T22:37:35.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915834-intel-the-re-rating-has-gone-too-far?source=feed_all_articles"
       }
     ],
     "popularItems": [
