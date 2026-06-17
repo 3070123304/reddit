@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-17T05:10:49.899Z",
+  "generatedAt": "2026-06-17T11:18:51.364Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,167 +21,207 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "GE Aerospace: LEAP, GEnx, And GE9X Support Further Upside",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T05:01:08.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915540-ge-aerospace-leap-genx-and-ge9x-support-further-upside?source=feed_all_articles"
-      },
-      {
-        "title": "BlackRock Core Bond Fund Q1 2026 Commentary",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:57:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915539-blackrock-core-bond-fund-q1-2026-commentary?source=feed_all_articles"
-      },
-      {
-        "title": "DRNZ: The Drone ETF Built For A New Era Of Warfare Economics",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:51:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915537-drnz-drone-etf-built-for-new-era-of-warfare-economics?source=feed_all_articles"
-      },
-      {
-        "title": "Japan's export surge narrows May trade deficit to JPY 378.7B; core machinery orders jump 8.7% to beat expectations",
+        "title": "FDA renews crackdown on GLP-1 compounders",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-17T04:48:22.000Z",
+        "publishedAt": "2026-06-17T11:13:16.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604184-japans-exports-surge-narrows-may-trade-deficit-to-jpy-3787b-core-machinery-orders-jump-87-to-beat-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604278-fda-renews-crackdown-on-glp-1-compounders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Nexstar Media Group: Hold On To This Leading Broadcaster Until Their Merger Is Finalized",
+        "title": "Fed's challenge remains inflation, not employment, Citi Wealth says",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T11:10:37.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604285-feds-challenge-remains-inflation-not-employment-citi-wealth-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Pomdoctor finalizes June 22 effective date for 1-for-18 reverse ADS split",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T11:08:17.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604241-pomdoctor-finalizes-june-22-effective-date-for-1-for-18-reverse-ads-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Rates Spark: The Unveiling Of Warsh",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T04:47:44.000Z",
+        "publishedAt": "2026-06-17T11:06:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915535-nexstar-media-group-stock-hold-on-to-this-leading-broadcaster-until-their-merger-is-finalized?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915611-rates-spark-unveiling-warsh?source=feed_all_articles"
       },
       {
-        "title": "Nexstar Media Group: Hold On To This Leading Broadcaster Until Their Merger Is Finalized",
+        "title": "Trump denies $300B fund in Iran deal- reports",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T11:03:49.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604282-trump-denies-300b-fund-in-iran-deal--reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Mortgage demand drops even as rates remain steady",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T11:02:36.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604284-mortgage-demand-plunges-by-38?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "These small-cap healthcare stocks pair revenue growth with attractive valuations",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T11:02:05.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604281-these-small-cap-healthcare-stocks-pair-revenue-growth-with-attractive-valuations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Brookfield Asset Management: On Track For A Record Year Across All Categories",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T11:01:55.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915610-brookfield-asset-management-on-track-for-a-record-year-across-all-categories?source=feed_all_articles"
+      },
+      {
+        "title": "Expand Energy: A Value Opportunity Behind The Valuation Discount",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T11:00:56.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915609-expand-energy-a-value-opportunity-behind-the-valuation-discount?source=feed_all_articles"
+      },
+      {
+        "title": "WeRide and Uber expand robotaxi service to Zurich as European expansion continues",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T11:00:41.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604279-weride-and-uber-expand-robotaxi-service-to-zurich-as-european-expansion-continues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Great Market Expectations",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T11:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915579-great-market-expectations?source=feed_all_articles"
+      },
+      {
+        "title": "Fidelity Freedom 2055 Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T11:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915625-fidelity-freedom-2055-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "CrossAmerica Partners: A Cautious Hold As Fuel Prices Adjust To A Falling Oil Market",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T10:55:45.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915608-crossamerica-partners-a-cautious-hold-as-fuel-prices-adjust-to-a-falling-oil-market?source=feed_all_articles"
+      },
+      {
+        "title": "Rocket Lab: The End Of The SpaceX Proxy",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T10:47:55.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915607-rocket-lab-the-end-of-the-spacex-proxy?source=feed_all_articles"
+      },
+      {
+        "title": "Fair Isaac: This Compounder Is On Sale",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T10:45:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915590-fair-isaac-fico-this-compounder-is-on-sale?source=feed_all_articles"
+      },
+      {
+        "title": "Dollar General: Weak Consumer Sentiment Driving Low-Ticket Sales",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T10:35:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915589-dollar-general-weak-consumer-sentiment-driving-low-ticket-sales?source=feed_all_articles"
+      },
+      {
+        "title": "Wall Street Breakfast Podcast: Netflix Dims Lion Hopes",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T10:34:53.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915618-wall-street-breakfast-podcast-netflix-dims-lion-hopes?source=feed_all_articles"
+      },
+      {
+        "title": "Wall Street Breakfast Podcast: Netflix Dims Lion Hopes",
+        "source": "Wall Street Breakfast",
+        "summary": "",
+        "publishedAt": "2026-06-17T10:34:53.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915618-wall-street-breakfast-podcast-netflix-dims-lion-hopes?source=feed_tag_wall_st_breakfast"
+      },
+      {
+        "title": "AbCellera: An AI-Era Antibody Platform Trading For Little More Than Its Cash",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T10:33:06.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915605-abcellera-an-ai-era-antibody-platform-trading-for-little-more-than-its-cash?source=feed_all_articles"
+      },
+      {
+        "title": "AbCellera: An AI-Era Antibody Platform Trading For Little More Than Its Cash",
         "source": "Editor Picks",
         "summary": "",
-        "publishedAt": "2026-06-17T04:47:44.000Z",
+        "publishedAt": "2026-06-17T10:33:06.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915535-nexstar-media-group-stock-hold-on-to-this-leading-broadcaster-until-their-merger-is-finalized?source=feed_tag_editors_picks"
-      },
-      {
-        "title": "Northern Limited Term US Government Fund Q1 2026 Commentary",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:45:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915546-northern-limited-term-us-government-fund-q1-2026-commentary?source=feed_all_articles"
-      },
-      {
-        "title": "Housing Starts Sink To 6-Year Low",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915515-housing-starts-sink-to-6-year-low?source=feed_all_articles"
-      },
-      {
-        "title": "Mega-Cap Sales",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915527-mega-cap-sales?source=feed_all_articles"
-      },
-      {
-        "title": "Banking on AI: HSBC teams with Google to automate 200 tasks, eyeing $100M return",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:25:35.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604180-banking-on-ai-hsbc-teams-with-google-to-automate-200-tasks-eyeing-100m-return?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Nearly All Monetary Rules Say The Fed Should Raise Rates",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:25:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915542-nearly-all-monetary-rules-say-fed-should-raise-rates?source=feed_all_articles"
-      },
-      {
-        "title": "U.S. Bancorp declares $0.52 dividend",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:17:32.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604183-us-bancorp-declares-052-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Dell declares $0.63 dividend",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:16:21.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604182-dell-declares-063-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Public Service Enterprise Group: What It Would Take For Upside",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:16:07.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915528-public-service-enterprise-group-what-it-would-take-for-upside?source=feed_all_articles"
-      },
-      {
-        "title": "bioAffinity Technologies, Inc. (BIAF) Discusses Noninvasive Testing and Risk Stratification for Indeterminate Lung Nodules Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:12:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915519-bioaffinity-technologies-inc-biaf-discusses-noninvasive-testing-and-risk-stratification-for?source=feed_all_articles"
-      },
-      {
-        "title": "The Media Says This Was A 'Blowout' Jobs Report. A Closer Look Suggests Otherwise",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:05:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915538-media-says-this-was-blowout-jobs-report-closer-look-suggests-otherwise?source=feed_all_articles"
-      },
-      {
-        "title": "Verve Group SE (MGIMF) Analyst/Investor Day - Slideshow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:02:56.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915541-verve-group-se-mgimf-analyst-investor-day-slideshow?source=feed_all_articles"
-      },
-      {
-        "title": "FTC clamps down on Amazon: hidden ad pricing could reportedly cost retail giant billions",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:02:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604177-ftc-clamps-down-on-amazon-hidden-ad-pricing-could-reportedly-cost-retail-giant-billions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Wednesday&#x2019;s Economic Calendar",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604017-wednesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Politics And The Markets 06/17/26",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T04:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4910481-politics-and-the-markets-061726?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915605-abcellera-an-ai-era-antibody-platform-trading-for-little-more-than-its-cash?source=feed_tag_editors_picks"
       }
     ],
     "popularItems": [
+      {
+        "title": "Micron: New Data Indicates Consensus Estimates Are Too Conservative (Earnings Preview)",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-17T06:32:04.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915557-micron-new-data-indicates-consensus-estimates-are-too-conservative-earnings-preview?source=feed"
+      },
+      {
+        "title": "Amazon: The Boring Giant That Keeps Compounding",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-17T06:08:01.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915550-amazon-stock-boring-giant-that-keeps-compounding?source=feed"
+      },
+      {
+        "title": "Credo: The AI Connectivity Winner Emerges",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-17T05:27:56.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915544-credo-the-ai-connectivity-winner-emerges?source=feed"
+      },
+      {
+        "title": "Nearly All Monetary Rules Say The Fed Should Raise Rates",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:25:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915542-nearly-all-monetary-rules-say-fed-should-raise-rates?source=feed"
+      },
+      {
+        "title": "The Media Says This Was A 'Blowout' Jobs Report. A Closer Look Suggests Otherwise",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-17T04:05:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915538-media-says-this-was-blowout-jobs-report-closer-look-suggests-otherwise?source=feed"
+      },
       {
         "title": "Kevin Warsh Isn't Jerome Powell",
         "source": "Most Popular",
@@ -221,46 +261,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-16T11:30:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4914932-market-biggest-trap-hiding-in-plain-sight?source=feed"
-      },
-      {
-        "title": "Micron Technology: Buy Ahead Of Earnings (Preview)",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-15T18:45:23.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915106-micron-technology-buy-ahead-of-earnings-preview?source=feed"
-      },
-      {
-        "title": "The Market Is Experiencing A 'Jumping The Shark' Moment",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-15T16:11:55.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915051-market-experiencing-jumping-the-shark-moment?source=feed"
-      },
-      {
-        "title": "2 Picks To Turn $1 Million Into $75,000 Of Annual Income",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-15T11:35:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914838-2-picks-to-turn-1-million-into-75000-of-annual-income?source=feed"
-      },
-      {
-        "title": "Why SpaceX, Anthropic, And OpenAI IPOs Are A Red Flag For The Stock Market",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-15T11:09:56.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914977-why-spacex-anthropic-and-openai-ipos-are-a-red-flag-for-stock-market?source=feed"
-      },
-      {
-        "title": "How I Would Invest $2 Million To Retire On Dividends",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-15T11:05:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914939-how-i-would-invest-2-million-to-retire-on-dividends?source=feed"
       }
     ]
   },
