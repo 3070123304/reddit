@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T16:01:59.306Z",
+  "generatedAt": "2026-06-17T18:32:37.771Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,167 +21,177 @@
     ],
     "items": [
       {
-        "title": "Rubrik Deserves A Better Valuation",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T15:53:04.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915716-rubrik-deserves-a-better-valuation?source=feed_all_articles"
-      },
-      {
-        "title": "Palantir: The N-Of-1 AI Tech Single-Seller Is At Its Limit (Rating Downgrade)",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T15:52:30.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915714-palantir-the-n-of-1-ai-tech-single-seller-is-at-its-limit-rating-downgrade?source=feed_all_articles"
-      },
-      {
-        "title": "Essex Property Trust: AI Is Boosting Bay Area Rents, But Valuation Still Matters",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-17T15:50:38.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915712-essex-property-trust-ai-is-boosting-bay-area-rents-but-valuation-still-matters?source=feed_all_articles"
-      },
-      {
-        "title": "Essex Property Trust: AI Is Boosting Bay Area Rents, But Valuation Still Matters",
-        "source": "Editor Picks",
-        "summary": "",
-        "publishedAt": "2026-06-17T15:50:38.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915712-essex-property-trust-ai-is-boosting-bay-area-rents-but-valuation-still-matters?source=feed_tag_editors_picks"
-      },
-      {
-        "title": "U.S., Iran weigh shifting to remote deal signing as early as Wednesday - report",
+        "title": "Fed statement gets a Warsh-era rewrite",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-17T15:49:09.000Z",
+        "publishedAt": "2026-06-17T18:28:29.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604460-us-iran-weigh-shifting-to-remote-deal-signing-as-early-as-wednesday---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604578-fed-statement-gets-a-warsh-era-rewrite?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Wall Street struggles as investors await Federal Reserve rate policy",
+        "title": "Red Robin Gourmet Burgers' Transformation Looks Irresistible (Upgrade)",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T18:25:16.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915771-red-robin-gourmet-burgers-transformation-looks-irresistible-upgrade?source=feed_all_articles"
+      },
+      {
+        "title": "These small-cap tech stocks pair strong revenue growth with A-rated valuations",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-17T15:48:06.000Z",
+        "publishedAt": "2026-06-17T18:15:40.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604571-these-small-cap-tech-stocks-pair-strong-revenue-growth-with-a-rated-valuations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Diageo's CEO bringing 'Drastic Dave' playbook to distiller &#x2014; Financial Times",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T18:15:32.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604572-diageos-ceo-bringing-drastic-dave-playbook-to-distiller---financial-times?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Jabil projects FY 2027 core operating margin above 6% as AI-related revenue is expected to grow at a similar rate to FY 2026",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T18:13:38.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604577-jabil-projects-fy-2027-core-operating-margin-above-6-percent-as-ai-related-revenue-is?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "YieldMax NFLX Option Income Strategy ETF announces weekly distribution of $0.0541",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T18:13:10.000Z",
+        "tickers": [
+          "NFLX"
+        ],
+        "url": "https://seekingalpha.com/news/4604576-yieldmax-nflx-option-income-strategy-etf-announces-weekly-distribution-of-00541?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Jabil Inc. (JBL) Q3 2026 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T18:12:10.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915703-jabil-inc-jbl-q3-2026-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "SpaceX lands inside Schwab&#x2019;s $15 billion value ETF",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T18:11:58.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604575-spacex-lands-inside-schwab-s-15-billion-value-etf?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "U.S. stocks slide as Federal Reserve keeps interest rates unchanged",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-17T18:11:15.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/news/4604376-sp500-nasdaq-composite-dow-jones-stock-market-news?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Semiconductor Stocks May Be&#xA0;Creating A Stock Market Misalignment (Video)",
+        "title": "Nio Strategic Metals Inc. (NIO:CA) Shareholder/Analyst Call Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T15:45:31.000Z",
+        "publishedAt": "2026-06-17T18:02:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915711-semiconductor-stocks-may-be-creating-a-stock-market-misalignment-video?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915739-nio-strategic-metals-inc-nio-ca-shareholder-analyst-call-transcript?source=feed_all_articles"
       },
       {
-        "title": "United Fire Group: A Cautious Value Recovery Story After Strong Q1 Results",
+        "title": "Arthur J. Gallagher & Co. (AJG) Discusses Strategic Pillars, Growth Drivers and Financial Outlook - Slideshow",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T15:43:54.000Z",
+        "publishedAt": "2026-06-17T18:02:04.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915710-united-fire-group-a-cautious-value-recovery-story-after-strong-q1-results?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915778-arthur-j-gallagher-and-co-ajg-discusses-strategic-pillars-growth-drivers-and-financial?source=feed_all_articles"
       },
       {
-        "title": "Torex Gold Resources Inc. (TXG:CA) Shareholder/Analyst Call Prepared Remarks Transcript",
+        "title": "Jabil Inc. 2026 Q3 - Results - Earnings Call Presentation",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T15:42:19.000Z",
+        "publishedAt": "2026-06-17T18:00:39.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915721-torex-gold-resources-inc-txg-ca-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915777-jabil-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles"
       },
       {
-        "title": "Swedbank AB (publ) (SWDBY) Discusses Pre-Close Financial Trends, Macro Indicators and Interest Rate Impacts Transcript",
+        "title": "Maximus: The Market Doesn't Seem To Trust The Earnings Growth",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T15:42:17.000Z",
+        "publishedAt": "2026-06-17T17:54:52.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915738-swedbank-ab-publ-swdby-discusses-pre-close-financial-trends-macro-indicators-and-interest?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915768-maximus-the-market-does-not-trust-the-earnings-growth?source=feed_all_articles"
       },
       {
-        "title": "Protesters block copper exports from Rio Tinto's Oyu Tolgoi mine in Mongolia",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T15:41:50.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604458-protesters-block-copper-exports-from-rio-tintos-oyu-tolgoi-mine-in-mongolia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Yum! Brands' Valuation Still Too Expensive Even With Pizza Hut Off The Books",
+        "title": "Critical Momentum: The Nuclear Renaissance Heats Up",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T15:40:12.000Z",
+        "publishedAt": "2026-06-17T17:51:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915709-yum-brands-valuation-still-too-expensive-even-with-pizza-hut-off-the-books?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915767-critical-momentum-the-nuclear-renaissance-heats-up?source=feed_all_articles"
       },
       {
-        "title": "Hybrids outpace EVs and gas cars in annual mileage, study finds",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T15:39:40.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604457-hybrids-outpace-evs-and-gas-cars-in-annual-mileage-study-finds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "UBS sees cost savings as key benefit of Olin-Huntsman merger",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T15:38:12.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604462-ubs-sees-cost-savings-as-key-benefit-of-olin-huntsman-merger?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "SpaceX Is Now Ground-Zero Of The AI Bubble",
+        "title": "Invesco Rochester Limited Term New York Municipal Fund Q1 2026 Commentary",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T15:35:33.000Z",
+        "publishedAt": "2026-06-17T17:49:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915708-spacex-is-now-ground-zero-of-the-ai-bubble?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915766-invesco-rochester-limited-term-new-york-municipal-fund-q1-2026-commentary?source=feed_all_articles"
       },
       {
-        "title": "TPG Mortgage, MFA Financial raised to Buy at BTIG; Ellington Financial cut to Neutral",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T15:33:57.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604453-tpg-mortgage-mfa-financial-raised-to-buy-at-btig-ellington-financial-cut-to-neutral?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "HUI Gold Bugs Index; Short & Long-Term Views",
+        "title": "Intuitive Surgical: A Growth Story You Should Have On Your Radar",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T15:33:15.000Z",
+        "publishedAt": "2026-06-17T17:46:18.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915706-hui-gold-bugs-index-short-and-long-term-views?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915765-intuitive-surgical-a-growth-story-you-should-have-on-your-radar?source=feed_all_articles"
       },
       {
-        "title": "Stock market is about to see one of the most significant periods of technical repositioning &#x2013; Rubner",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-17T15:33:07.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604461-stock-market-is-about-to-see-one-of-the-most-significant-periods-of-technical-repositioning?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Microsoft: Growth Outlook Still Robust Without OpenAI Exclusivity",
+        "title": "Credo's Breaking Point May Be Getting Nearer And Nearer",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T15:33:04.000Z",
+        "publishedAt": "2026-06-17T17:45:12.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915705-microsoft-growth-outlook-still-robust-without-openai-exclusivity?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915735-credos-breaking-point-may-be-getting-nearer-and-nearer?source=feed_all_articles"
       },
       {
-        "title": "Microsoft: Growth Outlook Still Robust Without OpenAI Exclusivity",
-        "source": "Editor Picks",
+        "title": "Reitmans (Canada) Limited (RTMAF) Shareholder/Analyst Call Transcript",
+        "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-17T15:33:04.000Z",
+        "publishedAt": "2026-06-17T17:42:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915705-microsoft-growth-outlook-still-robust-without-openai-exclusivity?source=feed_tag_editors_picks"
+        "url": "https://seekingalpha.com/article/4915756-reitmans-canada-limited-rtmaf-shareholder-analyst-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Expedia's Strong Track Record Is Undervalued",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T17:42:01.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915764-expedia-strong-track-record-is-undervalued?source=feed_all_articles"
+      },
+      {
+        "title": "Indices Barely Move Ahead Of Fed Interest Rate Decision",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-17T17:35:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915770-indices-barely-move-ahead-of-fed-interest-rate-decision?source=feed_all_articles"
       }
     ],
     "popularItems": [
+      {
+        "title": "Inflation-Proof Your Portfolio: 3 Quant Growth And Income Stocks",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-17T13:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915459-inflation-proof-your-portfolio-3-quant-growth-and-income-stocks?source=feed"
+      },
       {
         "title": "Win Big With These Dividends No Matter Where The Economy Is Heading",
         "source": "Most Popular",
@@ -189,14 +199,6 @@
         "publishedAt": "2026-06-17T11:35:00.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4915330-win-big-with-these-dividends-no-matter-where-the-economy-is-heading?source=feed"
-      },
-      {
-        "title": "Sell SpaceX: Don't Get Trapped By One Of The Most Extreme Valuation Traps In History",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-17T11:29:24.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915617-sell-spacex-dont-get-trapped-by-one-of-most-extreme-valuation-traps-in-history?source=feed"
       },
       {
         "title": "Rocket Lab: The End Of The SpaceX Proxy",
