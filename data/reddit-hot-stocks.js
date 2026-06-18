@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-18T13:41:04.368Z",
+  "generatedAt": "2026-06-18T17:27:06.743Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,167 +21,175 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Global Economic Outlook: June 2026",
+        "title": "BlackBerry Stock: Downgrading To Hold Ahead Of Its Q1 Earnings Report",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T13:37:00.000Z",
+        "publishedAt": "2026-06-18T17:22:23.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4916026-global-economic-outlook-june-2026?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4916106-blackberry-stock-downgrading-to-hold-ahead-of-q1-earnings-report?source=feed_all_articles"
       },
       {
-        "title": "Evolve FANGMA Index ETF - Unhedged ETF Units declares CAD 0.0016 dividend",
+        "title": "Kardigan rises on market debut after upsized IPO",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-18T13:36:56.000Z",
+        "publishedAt": "2026-06-18T17:20:11.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604883-evolve-fangma-index-etf-unhedged-etf-units-declares-cad-0_0016-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4605037-kardigan-rises-market-debut-after-upsized-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Xenia: A 3% Yield Is Underwhelming After The Rally",
+        "title": "Atlassian: Growing 30% Amidst The SaaSpocalypse (Rating Upgrade)",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T13:36:48.000Z",
+        "publishedAt": "2026-06-18T17:18:51.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4916025-xenia-a-3-percent-yield-is-underwhelming-after-the-rally?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4916105-atlassian-growing-30-percent-amidst-saaspocalypse-rating-upgrade?source=feed_all_articles"
       },
       {
-        "title": "Evolve FANGMA Index ETF USD Unhedged declares CAD 0.0016 dividend",
+        "title": "Vicor Corporation: The Good News Is Already In The Price",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T17:18:41.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916104-vicor-corporation-stock-good-news-is-already-in-the-price?source=feed_all_articles"
+      },
+      {
+        "title": "New Fortress Energy says court approves U.K. restructuring plan",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-18T13:36:40.000Z",
+        "publishedAt": "2026-06-18T17:13:24.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604882-evolve-fangma-index-etf-usd-unhedged-declares-cad-0_0016-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4605031-new-fortress-energy-says-court-approves-u-k-restructuring-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Evolve Canadian Utilities Enhanced Yield Index Fd ETF declares CAD 0.138 dividend",
+        "title": "Safe Bulkers outlines plan for fleet to reach 45% Phase 3 vessels by 2029 while raising dividend to $0.06",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-18T13:36:24.000Z",
+        "publishedAt": "2026-06-18T17:12:52.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604880-evolve-canadian-utilities-enhanced-yield-index-fd-etf-declares-cad-0_138-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4605036-safe-bulkers-outlines-plan-for-fleet-to-reach-45-percent-phase-3-vessels-by-2029-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Evolve NASDAQ Technology Index Fund USD Un ETF declares $0.03 dividend",
+        "title": "Safe Bulkers, Inc. (SB) Q1 2026 Earnings Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T17:12:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916091-safe-bulkers-inc-sb-q1-2026-earnings-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Unstoppable Quant Stocks: 3 Longest-Running Strong Buys",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T17:07:41.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916101-unstoppable-quant-stocks-3-longest-running-strong-buys?source=feed_all_articles"
+      },
+      {
+        "title": "Berkshire Hathaway (BRKY) Yield Shares Purpose ETF declares CAD 0.17 dividend",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-18T13:36:08.000Z",
+        "publishedAt": "2026-06-18T17:07:15.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604879-evolve-nasdaq-technology-index-fund-usd-un-etf-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4605035-berkshire-hathaway-brky-yield-shares-purpose-etf-declares-cad-0_17-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Evolve NASDAQ Technology Index Fund CAD Unhedged ETF declares CAD 0.03 dividend",
+        "title": "Purpose Brookfield (BN) Yield Shares ETF declares CAD 0.08 dividend",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-18T13:35:51.000Z",
+        "publishedAt": "2026-06-18T17:05:42.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604878-evolve-nasdaq-technology-index-fund-cad-unhedged-etf-declares-cad-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4605034-purpose-brookfield-bn-yield-shares-etf-declares-cad-0_08-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Evolve Future Leadership Fund - ETF Hedged declares CAD 0.21 dividend",
+        "title": "Kroger signals Q2 identical sales ex-fuel roughly in line with Q1 as e-commerce turns profitable",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-18T13:34:47.000Z",
+        "publishedAt": "2026-06-18T17:03:11.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604875-evolve-future-leadership-fund-etf-hedged-declares-cad-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4605033-kroger-signals-q2-identical-sales-ex-fuel-roughly-in-line-with-q1-as-e-commerce-turns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Evolve Future Leadership Fund - Unhedged ETF Units declares CAD 0.21 dividend",
+        "title": "Purpose Scotiabank (BNS) Yield Shares ETF declares CAD 0.10 dividend",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-18T13:33:36.000Z",
+        "publishedAt": "2026-06-18T17:03:01.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604874-evolve-future-leadership-fund-unhedged-etf-units-declares-cad-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4605032-purpose-scotiabank-bns-yield-shares-etf-declares-cad-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Informa plc (IFJPY) Shareholder/Analyst Call - Slideshow",
+        "title": "SpaceX: One Variable Could Change Everything",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T13:31:43.000Z",
+        "publishedAt": "2026-06-18T17:02:28.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4916043-informa-plc-ifjpy-shareholder-analyst-call-slideshow?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4916100-spacex-one-variable-could-change-everything?source=feed_all_articles"
       },
       {
-        "title": "Palantir: Attractive As Never Before",
+        "title": "The Kroger Co. (KR) Q1 2027 Earnings Call Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T13:30:00.000Z",
+        "publishedAt": "2026-06-18T17:02:14.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4916020-palantir-attractive-as-never-before?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4916048-the-kroger-co-kr-q1-2027-earnings-call-transcript?source=feed_all_articles"
       },
       {
-        "title": "Mastech Digital: Interest Income Is Masking A Value Trap",
+        "title": "Grove Collaborative Holdings, Inc. (GROV) Shareholder/Analyst Call Prepared Remarks Transcript",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T13:29:08.000Z",
+        "publishedAt": "2026-06-18T17:02:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4916022-mastech-digital-interest-income-is-masking-a-value-trap?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4916103-grove-collaborative-holdings-inc-grov-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles"
       },
       {
-        "title": "SpaceX: Buckle Up For What's Coming Within The Next 180 Days",
+        "title": "TeraWulf: HPC Inflection Has Arrived",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T13:28:42.000Z",
+        "publishedAt": "2026-06-18T17:01:44.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4916021-spacex-buckle-up-for-whats-coming-within-the-next-180-days?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4916096-terawulf-hpc-inflection-has-arrived?source=feed_all_articles"
       },
       {
-        "title": "Chairman Warsh Offers No Guidance, And Investors Hit The Sell Button",
+        "title": "Twist Bioscience: Huge Downside, With Little Hope Of Profits",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T13:24:28.000Z",
+        "publishedAt": "2026-06-18T17:01:24.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4916019-chairman-warsh-offers-no-guidance-and-investors-hit-sell-button?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4916095-twist-bioscience-huge-downside-with-little-hope-of-profits?source=feed_all_articles"
       },
       {
-        "title": "BMW's 2026 Shock",
+        "title": "Safe Bulkers, Inc. 2026 Q1 - Results - Earnings Call Presentation",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T13:22:58.000Z",
+        "publishedAt": "2026-06-18T17:01:04.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4916018-bmws-2026-shock?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4916118-safe-bulkers-inc-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
       },
       {
-        "title": "Antero Midstream: The Yield Gap Is Too Wide To Ignore (Rating Downgrade)",
+        "title": "IYM: Materials Dashboard For June",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T13:15:00.000Z",
+        "publishedAt": "2026-06-18T16:58:09.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915460-antero-midstream-the-yield-gap-is-too-wide-to-ignore-rating-downgrade?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4916094-iym-materials-dashboard-for-june?source=feed_all_articles"
       },
       {
-        "title": "PKW: Mixed Feelings About Invesco's Long-Running Buyback ETF",
+        "title": "Eldorado Gold: Not A Simple Gold Miner Anymore",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T13:13:59.000Z",
+        "publishedAt": "2026-06-18T16:57:39.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4916017-pkw-mixed-feelings-about-invescos-long-running-buyback-etf?source=feed_all_articles"
-      },
-      {
-        "title": "SkiStar AB (publ) (SSKRF) Q3 2026 Earnings Call Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T13:12:10.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915987-skistar-ab-publ-sskrf-q3-2026-earnings-call-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Tesla And SpaceX Are Converging - And The Market Hasn't Caught Up",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T13:10:47.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916016-tesla-and-spacex-are-converging-and-market-hasnt-caught-up?source=feed_all_articles"
-      },
-      {
-        "title": "Sezzle: Profitable, Growing, But Still Under The Radar",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T13:10:15.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916015-sezzle-profitable-growing-but-still-under-the-radar?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4916093-eldorado-gold-not-a-simple-gold-miner-anymore?source=feed_all_articles"
       }
     ],
     "popularItems": [
+      {
+        "title": "Real Assets, Big Yields: The More They Drop, The More I Load Up",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-18T12:30:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915947-real-assets-big-yields-the-more-they-drop-the-more-i-load-up?source=feed"
+      },
       {
         "title": "Quant World Cup Watchlist: 3 Top International Stocks",
         "source": "Most Popular",
@@ -213,14 +221,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-18T10:04:46.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4915974-nebius-the-road-to-400?source=feed"
-      },
-      {
-        "title": "My Top 5 Dividend Picks For June",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-18T08:40:42.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915946-my-top-5-dividend-picks-for-june?source=feed"
       },
       {
         "title": "I Was Wrong About Kevin Warsh",
