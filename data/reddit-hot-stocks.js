@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-18T05:00:53.651Z",
+  "generatedAt": "2026-06-18T09:26:23.295Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -21,174 +21,206 @@ window.redditHotStocksData = {
     ],
     "items": [
       {
-        "title": "Barrick Mining: Robust Fundamentals, IPOs Planned, A Buy",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T04:55:38.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915895-barrick-mining-stock-robust-fundamentals-ipos-planned-buy?source=feed_all_articles"
-      },
-      {
-        "title": "\"This was not easy\": U.S.-Iran peal deal signed in Versailles",
+        "title": "Robo.ai to acquire QC Capital in $60M all-share deal",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-18T04:54:35.000Z",
+        "publishedAt": "2026-06-18T09:18:54.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604626-this-was-not-easy-us-iran-peal-deal-signed-in-versailles?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604667-roboai-to-acquire-qc-capital-in-60m-all-share-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Applied Materials: The Cheapest Seat On The AI Equipment Super-Cycle",
+        "title": "Diodes Incorporated: My Best Pick For The Semis Rally",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T04:51:55.000Z",
+        "publishedAt": "2026-06-18T09:18:24.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915893-applied-materials-the-cheapest-seat-on-the-ai-equipment-super-cycle?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915956-diodes-incorporated-my-best-pick-for-the-semis-rally?source=feed_all_articles"
       },
       {
-        "title": "Broadcom upsizes cash tender offers to $3B",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-18T04:50:16.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604638-broadcom-upsizes-cash-tender-offers-to-3b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "FS KKR Capital: There's Light At The End Of The Rotation With A Potential 40%+ Upside",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T04:50:14.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915892-fs-kkr-capital-theres-light-at-the-end-of-the-rotation-with-a-potential-40-percent-plus-upside?source=feed_all_articles"
-      },
-      {
-        "title": "FS KKR Capital: There's Light At The End Of The Rotation With A Potential 40%+ Upside",
+        "title": "Diodes Incorporated: My Best Pick For The Semis Rally",
         "source": "Editor Picks",
         "summary": "",
-        "publishedAt": "2026-06-18T04:50:14.000Z",
+        "publishedAt": "2026-06-18T09:18:24.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915892-fs-kkr-capital-theres-light-at-the-end-of-the-rotation-with-a-potential-40-percent-plus-upside?source=feed_tag_editors_picks"
+        "url": "https://seekingalpha.com/article/4915956-diodes-incorporated-my-best-pick-for-the-semis-rally?source=feed_tag_editors_picks"
       },
       {
-        "title": "Virtus Income & Growth Fund Q1 2026 Commentary",
+        "title": "The North West Company: A Remote Retail Fortress In A Policy-Driven North",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T04:50:00.000Z",
+        "publishedAt": "2026-06-18T09:10:18.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915903-virtus-income-growth-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915955-the-north-west-company-stock-remote-retail-fortress-in-a-policy-driven-north?source=feed_all_articles"
       },
       {
-        "title": "Asia markets mixed: Nikkei and KOSPI touch record highs on historic US-Iran peace accord",
+        "title": "Sandisk: The Market Is Underestimating Its FY 2027 Earnings Power",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T09:02:51.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915954-sandisk-the-market-is-underestimating-its-fy27-earnings-power?source=feed_all_articles"
+      },
+      {
+        "title": "Cenovus Energy: Look Beyond The Next Quarter",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T09:00:12.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915953-cenovus-energy-look-beyond-the-next-quarter?source=feed_all_articles"
+      },
+      {
+        "title": "Asia's Infrastructure Moment: The Investment Opportunity Behind The Energy Transition",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T09:00:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915969-asia-infrastructure-moment-investment-opportunity-behind-energy-transition?source=feed_all_articles"
+      },
+      {
+        "title": "IAMGOLD raises revolving credit facility to $850M, extends maturity to 2030",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-18T04:44:38.000Z",
+        "publishedAt": "2026-06-18T08:58:45.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604630-asia-markets-mixed-nikkei-and-kospi-touch-record-highs-on-historic-us-iran-peace-accord?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604668-iamgold-raises-revolving-credit-facility-to-850m-extends-maturity-to-2030?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Daimler Truck: The Valuation Doesn't Reflect Risk",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T04:44:08.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915890-daimler-truck-the-valuation-doesnt-reflect-risk?source=feed_all_articles"
-      },
-      {
-        "title": "Mach Natural Resources: One Of The Market's Most Compelling Income Opportunities",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T04:43:13.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915889-mach-natural-resources-markets-most-compelling-income-opportunities-upgrade?source=feed_all_articles"
-      },
-      {
-        "title": "The Hidden Winners Inside SCHD - June 2026 Breakdown",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T04:41:01.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915888-the-hidden-winners-inside-schd-june-2026-breakdown?source=feed_all_articles"
-      },
-      {
-        "title": "AUTO1 Group SE (ATOGY) Analyst/Investor Day - Slideshow",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T04:32:18.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915901-auto1-group-se-atogy-analyst-investor-day-slideshow?source=feed_all_articles"
-      },
-      {
-        "title": "HF Sinclair: Attractive As Iran Benefits Will Persist After The War (Upgrade)",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T04:30:41.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915885-hf-sinclair-attractive-as-iran-benefits-will-persist-after-the-war-upgrade?source=feed_all_articles"
-      },
-      {
-        "title": "Wall Street pushes US regulators to further ease Basel capital rules, FT reports",
+        "title": "Dixie Gold appoints Rocco Tassone to board and CEO position; secures TSX-V regulatory extension",
         "source": "All News",
         "summary": "",
-        "publishedAt": "2026-06-18T04:29:26.000Z",
+        "publishedAt": "2026-06-18T08:51:47.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/news/4604628-wall-street-pushes-us-regulators-to-further-ease-basel-capital-rules-ft-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+        "url": "https://seekingalpha.com/news/4604647-dixie-gold-appoints-rocco-tassone-to-board-and-ceo-position-secures-tsx-v-regulatory-extension?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       },
       {
-        "title": "Microsoft's Biggest Risk Isn't Competition - It's Expectations",
+        "title": "SpaceX Stole The Show, But These Market-Moving Events Could Drive Stocks Next",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T04:27:31.000Z",
+        "publishedAt": "2026-06-18T08:48:00.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915884-microsofts-biggest-risk-isnt-competition-its-expectations?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915952-spacex-stole-show-these-market-moving-events-drive-stocks-next?source=feed_all_articles"
       },
       {
-        "title": "Amazon exec DeSantis predicts commercial quantum computing within 5-7 years",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-18T04:25:22.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604633-amazon-exec-desantis-predicts-commercial-quantum-computing-within-5-7-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Touchstone Ultra Short Duration Fixed Income Fund Q1 2026 Commentary",
+        "title": "Intercontinental Exchange: Scale And Market Leadership But With Mortgage Headwinds",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T04:25:00.000Z",
+        "publishedAt": "2026-06-18T08:44:53.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915899-touchstone-ultra-short-duration-fixed-income-fund-q1-2026-commentary?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915950-intercontinental-exchange-scale-and-market-leadership-but-with-mortgage-headwinds?source=feed_all_articles"
       },
       {
-        "title": "Trinity Capital declares $0.17 dividend",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-18T04:20:31.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604636-trinity-capital-declares-017-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Great Southern Bancorp declares $0.43 dividend",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-18T04:17:27.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4604635-great-southern-bancorp-declares-043-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Apple: Surprisingly Resilient, Frustratingly Expensive",
+        "title": "Is Bitcoin Getting Closer To An Uptrend?",
         "source": "Latest Articles",
         "summary": "",
-        "publishedAt": "2026-06-18T04:17:11.000Z",
+        "publishedAt": "2026-06-18T08:42:58.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915882-apple-surprisingly-resilient-frustratingly-expensive?source=feed_all_articles"
+        "url": "https://seekingalpha.com/article/4915948-is-bitcoin-getting-closer-to-an-uptrend?source=feed_all_articles"
+      },
+      {
+        "title": "My Top 5 Dividend Picks For June",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T08:40:42.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915946-my-top-5-dividend-picks-for-june?source=feed_all_articles"
+      },
+      {
+        "title": "European markets lower ahead of BOE decision, Fed stance dampens sentiment",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-18T08:39:58.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604665-european-markets-lower-ahead-of-boe-decision-fed-stance-dampens-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "SK Hynix ships samples of next-gen AI memory chips to major customers",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-18T08:38:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604663-sk-hynix-ships-samples-of-next-gen-ai-memory-chips-to-major-customers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Qiagen N.V. (QGEN) Presents at JP Morgan European Healthcare Conference 2026 - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T08:31:33.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915962-qiagen-n-v-qgen-presents-at-jp-morgan-european-healthcare-conference-2026-slideshow?source=feed_all_articles"
+      },
+      {
+        "title": "Luxury skiwear manufacturer Perfect Moment delisted from NYSE American",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-18T08:30:37.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604662-luxury-skiwear-manufacturer-perfect-moment-delisted-from-nyse-american?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Starbucks ramps up India footprint with plan targeting 100 new store openings annually",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-18T08:28:51.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4604661-starbucks-ramps-up-india-footprint-with-plan-targeting-100-new-store-openings-annually?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Northern Multi-Manager Global Real Estate Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T08:25:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915944-northern-multi-manager-global-real-estate-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "Tencent: One Of The Cheapest Mega-Cap Tech Stocks In The World",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T08:22:14.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915943-tencent-one-of-the-cheapest-mega-cap-tech-stocks-in-the-world?source=feed_all_articles"
       }
     ],
     "popularItems": [
       {
-        "title": "My 3 Favorite Areas To Invest For Stress-Free Income Now",
+        "title": "Sandisk's Rally May Be Far From Over",
         "source": "Most Popular",
         "summary": "",
-        "publishedAt": "2026-06-17T13:15:00.000Z",
+        "publishedAt": "2026-06-18T06:13:30.000Z",
         "tickers": [],
-        "url": "https://seekingalpha.com/article/4915422-my-3-favorite-areas-to-invest-for-stress-free-income-now?source=feed"
+        "url": "https://seekingalpha.com/article/4915912-sandisks-rally-may-be-far-from-over?source=feed"
+      },
+      {
+        "title": "MaxLinear: The Battle For The Socket",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-18T05:58:12.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915906-maxlinear-stock-battle-for-the-socket?source=feed"
+      },
+      {
+        "title": "Taiwan Semiconductor: Not Expensive When You Run The Numbers On AI Demand",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-18T05:55:51.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915905-taiwan-semiconductor-stock-not-expensive-when-you-run-numbers-on-ai-demand?source=feed"
+      },
+      {
+        "title": "Barrick Mining: Robust Fundamentals, IPOs Planned, A Buy",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-18T04:55:38.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915895-barrick-mining-stock-robust-fundamentals-ipos-planned-buy?source=feed"
+      },
+      {
+        "title": "Microsoft's Biggest Risk Isn't Competition - It's Expectations",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-18T04:27:31.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915884-microsofts-biggest-risk-isnt-competition-its-expectations?source=feed"
       },
       {
         "title": "Inflation-Proof Your Portfolio: 3 Quant Growth And Income Stocks",
@@ -207,6 +239,14 @@ window.redditHotStocksData = {
         "url": "https://seekingalpha.com/article/4915330-win-big-with-these-dividends-no-matter-where-the-economy-is-heading?source=feed"
       },
       {
+        "title": "Rocket Lab: The End Of The SpaceX Proxy",
+        "source": "Most Popular",
+        "summary": "",
+        "publishedAt": "2026-06-17T10:47:55.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4915607-rocket-lab-the-end-of-the-spacex-proxy?source=feed"
+      },
+      {
         "title": "Micron: New Data Indicates Consensus Estimates Are Too Conservative (Earnings Preview)",
         "source": "Most Popular",
         "summary": "",
@@ -221,46 +261,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-17T05:27:56.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/article/4915544-credo-the-ai-connectivity-winner-emerges?source=feed"
-      },
-      {
-        "title": "Kevin Warsh Isn't Jerome Powell",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-16T15:42:40.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915369-kevin-warsh-isnt-jerome-powell?source=feed"
-      },
-      {
-        "title": "Buy The Chip Dip: The Under-The-Radar AI Winner To Buy Now",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-16T14:55:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915373-buy-the-chip-dip-the-under-the-radar-ai-winner-to-buy-now?source=feed"
-      },
-      {
-        "title": "SpaceX: Why This Won't Play Out Like Every Other IPO",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-16T13:09:18.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915314-spacex-why-this-wont-play-out-like-every-other-ipo?source=feed"
-      },
-      {
-        "title": "Dow Jones Quant Leaders: 3 Top Stocks As Blue Chips Rally",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-16T12:00:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4915160-dow-jones-quant-leaders-3-top-stocks-as-blue-chips-rally?source=feed"
-      },
-      {
-        "title": "The Market's Biggest Trap Is Hiding In Plain Sight",
-        "source": "Most Popular",
-        "summary": "",
-        "publishedAt": "2026-06-16T11:30:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4914932-market-biggest-trap-hiding-in-plain-sight?source=feed"
       }
     ]
   },
