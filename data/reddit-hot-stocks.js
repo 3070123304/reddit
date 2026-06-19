@@ -1,5 +1,5 @@
 window.redditHotStocksData = {
-  "generatedAt": "2026-06-18T23:03:51.096Z",
+  "generatedAt": "2026-06-19T01:53:17.472Z",
   "window": "last_60_minutes",
   "source": "reddit",
   "subreddits": [
@@ -20,6 +20,118 @@ window.redditHotStocksData = {
       "Editor Picks"
     ],
     "items": [
+      {
+        "title": "EVF: Higher Rates May Improve Performance",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-19T01:18:37.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916187-evf-higher-rates-may-improve-performance?source=feed_all_articles"
+      },
+      {
+        "title": "Gold Drawdowns",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-19T01:05:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916193-gold-drawdowns?source=feed_all_articles"
+      },
+      {
+        "title": "CEFS: Outperforms Funds Of Closed-End Funds",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-19T00:56:40.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916184-cefs-outperforms-funds-of-closed-end-funds?source=feed_all_articles"
+      },
+      {
+        "title": "BlackRock Balanced Fund&#xA0; Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-19T00:45:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916191-blackrock-balanced-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "Retail Sales: Consumer Spending Up For Fourth Straight Month",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-19T00:40:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916190-retail-sales-consumer-spending-up-for-fourth-straight-month?source=feed_all_articles"
+      },
+      {
+        "title": "CEF Insights: RQI - Powerful Macroeconomic Themes Driving Opportunities In Real Estate",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-19T00:34:58.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916183-cef-insights-rqi-powerful-macroeconomic-themes-driving-opportunities-in-real-estate?source=feed_all_articles"
+      },
+      {
+        "title": "Keeley Small Cap Fund Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-19T00:25:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916188-keeley-small-cap-fund-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of June 21",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-19T00:20:43.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916181-dividend-champion-contender-and-challenger-highlights-week-of-june-21?source=feed_all_articles"
+      },
+      {
+        "title": "Graham Corporation (GHM) Analyst/Investor Day Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-19T00:12:10.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916169-graham-corporation-ghm-analyst-investor-day-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "John Hancock Preferred Income ETF Q1 2026 Commentary",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-19T00:10:00.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916185-john-hancock-preferred-income-etf-q1-2026-commentary?source=feed_all_articles"
+      },
+      {
+        "title": "Peace deal gives Iran chance to earn more than $60B in annual oil sales - WSJ",
+        "source": "All News",
+        "summary": "",
+        "publishedAt": "2026-06-18T23:55:27.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/news/4605152-peace-deal-gives-iran-chance-to-earn-more-than-60b-in-annual-oil-sales---wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "title": "Chartwell Retirement Residences (CSH.UN:CA) Shareholder/Analyst Call Transcript",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T23:12:09.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916176-chartwell-retirement-residences-csh-un-ca-shareholder-analyst-call-transcript?source=feed_all_articles"
+      },
+      {
+        "title": "Renishaw plc (RNSHF) Analyst/Investor Day - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T23:10:12.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916180-renishaw-plc-rnshf-analyst-investor-day-slideshow?source=feed_all_articles"
+      },
+      {
+        "title": "Ampco-Pittsburgh Corporation (AP) Presents at 16th Annual East Coast IDEAS Conference - Slideshow",
+        "source": "Latest Articles",
+        "summary": "",
+        "publishedAt": "2026-06-18T23:03:52.000Z",
+        "tickers": [],
+        "url": "https://seekingalpha.com/article/4916179-ampco-pittsburgh-corporation-ap-presents-at-16th-annual-east-coast-ideas-conference-slideshow?source=feed_all_articles"
+      },
       {
         "title": "Boeing wins $880M deal to upgrade and sustain P-8A Poseidon training systems",
         "source": "All News",
@@ -67,118 +179,6 @@ window.redditHotStocksData = {
         "publishedAt": "2026-06-18T22:32:11.000Z",
         "tickers": [],
         "url": "https://seekingalpha.com/news/4605146-alamos-gold-cuts-guidance-on-young-davidson-mine-disruptions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "Rumble's Transformation Is A Risky Bet",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T22:25:06.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916174-rumble-transformation-a-risky-bet?source=feed_all_articles"
-      },
-      {
-        "title": "Wingstop: The Fundamentals Do Not Justify The Valuation",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T22:20:17.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916173-wingstop-the-fundamentals-do-not-justify-the-valuation?source=feed_all_articles"
-      },
-      {
-        "title": "Xtrackers NIFTY 500 India ETF declares a semi-annual distribution of $0.0778",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-18T22:13:16.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4605147-xtrackers-nifty-500-india-etf-declares-a-semi-annual-distribution-of-00778?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "TONIES SE (TNIEF) Analyst/Investor Day Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T22:12:10.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916152-tonies-se-tnief-analyst-investor-day-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Gold Royalty Corp. (GROY) Analyst/Investor Day Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T22:12:09.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916119-gold-royalty-corp-groy-analyst-investor-day-transcript?source=feed_all_articles"
-      },
-      {
-        "title": "Xtrackers Artificial Intelligence and Big Data ETF declares a semi-annual distribution of $0.0982",
-        "source": "All News",
-        "summary": "",
-        "publishedAt": "2026-06-18T22:10:17.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/news/4605145-xtrackers-artificial-intelligence-and-big-data-etf-declares-a-semi-annual-distribution-of-00982?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-      },
-      {
-        "title": "XOVR: A Private-Public Crossover ETF You Need To Know",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T22:02:13.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916172-xovr-a-private-public-crossover-etf-you-need-to-know?source=feed_all_articles"
-      },
-      {
-        "title": "SpaceX: IPO History Says Sell Now, But Here's Where You Should Buy",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T22:01:22.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916171-spacex-ipo-history-says-sell-now-but-heres-where-you-should-buy?source=feed_all_articles"
-      },
-      {
-        "title": "Kroger: Undervalued After The Post-Earnings Selloff (Ratings Upgrade)",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T21:53:35.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916170-kroger-undervalued-after-the-post-earnings-selloff-upgrade?source=feed_all_articles"
-      },
-      {
-        "title": "Boston Pizza Royalties Income Fund (BPF.UN:CA) Shareholder/Analyst Call Prepared Remarks Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T21:32:10.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916175-boston-pizza-royalties-income-fund-bpf-un-ca-shareholder-analyst-call-prepared-remarks?source=feed_all_articles"
-      },
-      {
-        "title": "SpaceX: How AI Ruined A Perfect Business",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T21:30:27.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916046-spacex-how-ai-ruined-a-perfect-business?source=feed_all_articles"
-      },
-      {
-        "title": "Credo Technology: Time To Get Out",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T21:28:32.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916168-credo-technology-time-to-get-out?source=feed_all_articles"
-      },
-      {
-        "title": "2026 Inside Real Estate Outlook: Resilient Recovery",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T21:23:00.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916166-2026-inside-real-estate-outlook-resilient-recovery?source=feed_all_articles"
-      },
-      {
-        "title": "Burford Capital Limited (BUR) Shareholder/Analyst Call Transcript",
-        "source": "Latest Articles",
-        "summary": "",
-        "publishedAt": "2026-06-18T21:12:10.000Z",
-        "tickers": [],
-        "url": "https://seekingalpha.com/article/4916102-burford-capital-limited-bur-shareholder-analyst-call-transcript?source=feed_all_articles"
       }
     ],
     "popularItems": [
